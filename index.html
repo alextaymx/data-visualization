@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en" class="h-100">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="" />
+  <meta name="author" content="hi" />
+  <meta name="data visualization project" content="Version 1" />
+  <title>Spotify Song Analysis</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet" />
+
+
+  <!-- Load Custom CSS files -->
+  <link href="css/main.css" rel="stylesheet" />
+  <link href="css/style.css" rel="stylesheet" />
+
+  <!-- <script type="module">
+      import { Toast } from "bootstrap.esm.min.js";
+
+      Array.from(document.querySelectorAll(".toast")).forEach(
+        (toastNode) => new Toast(toastNode)
+      );
+    </script> -->
+  <!-- Own script -->
+  <!-- <script src="js/graph1.js"></script> -->
+  <!-- <script src="js/graph4.js"></script> -->
+</head>
+
+<body class="d-flex h-100 text-center text-black">
+  <div class="overlay"></div>
+  <div class="spanner">
+    <div class="loader"></div>
+  </div>
+  <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+    <header class="mb-auto">
+      <div>
+        <h3 class="float-md-start mb-0">Interactive Dashboard</h3>
+        <nav class="nav nav-masthead justify-content-center float-md-end" id="nav-tab" role="tablist">
+          <!-- <div class="nav nav-tabs" id="nav-tab" role="tablist"> -->
+          <div class="nav" id="nav-tab" role="tablist">
+            <a class="nav-link active" id="nav-tab-1" data-toggle="tab" href="#nav-page1" role="tab">Page1</a>
+            <a class="nav-link" id="nav-tab-2" data-toggle="tab" href="#nav-page2" role="tab">Page2</a>
+            <a class="nav-link" id="nav-tab-3" data-toggle="tab" href="#nav-page3" role="tab">Page3</a>
+          </div>
+        </nav>
+      </div>
+    </header>
+
+    <main class="px-3">
+      <div class="tab-content" id="nav-tabContent">
+        <div class="tab-pane fade show active" id="nav-page1" role="tabpanel">
+          <div class="container-fluid">
+
+            <div class="row text-center">
+              <!-- PAGE 1 : HOME PAGE/Popular Songs-->
+              <h1>All Time Popular Song Name</h1>
+              <p class="lead">
+                Song names with highest popularity across the year presented in animated transition.
+                <br>
+                Tracks details and their relationships are visualized in the motion graph below.
+                <br>
+                Scroll down or navigate to another page to explore more interesting graphs. 
+              </p>
+            </div>
+            <!-- <div class="row">
+              <div class="col-sm text-center">Word Cloud</div>
+            </div> -->
+            <div class="row">
+              <!-- VIZUALISATION 1: WORD CLOUD -->
+              <div id="chart-area1" class="col-sm text-center" style="height: 70vh">
+                Word Cloud
+              </div>
+            </div> 
+            <div class="row">
+              <!-- VISUALISATION 2: MOVING SCATTER -->
+              <!-- Content here -->
+              <div class="row text-center">
+                <!-- PAGE 2 : SONG ANALYSIS -->
+                <h1>Spotify All Time Popular Tracks</h1>
+                <p class="lead">
+                  Explore the pattern and relationship between different song aspects among the top tracks.
+                </p>
+              </div>
+              <!-- <div class="row">
+                <div class="col-sm text-center">Scatter Plot</div>
+              </div>
+              <div class="row">
+                <div class="col-sm text-center">MOVING SCATTER Spotify 2020 Top Tracks</div>
+              </div> -->
+              <div id="header">
+                <button id="artist" class="active btn btn-outline-success">Artist</button>
+                <button id="year" class="btn btn-outline-success">Year</button>
+                <button id="explicit" class="btn btn-outline-success">Explicit?</button>
+                <!-- <button id="album" class="btn btn-outline-success">Album</button> -->
+                <button id="energy" class="btn btn-outline-success">Energy</button>
+                <button id="danceability" class="btn btn-outline-success">Danceability</button>
+                <button id="valence" class="btn btn-outline-success">Valence</button>
+                <button id="speechiness" class="btn btn-outline-success">Speechiness</button>
+                <button id="acousticness" class="btn btn-outline-success">Acousticness</button>
+              
+              <div id="chart-area2" class="col-sm text-center" style="height: 70vh"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="tab-pane fade show" id="nav-page2" role="tabpanel">
+          <div class="container-fluid">
+            <div class="row text-center">
+              <!-- PAGE 2 : SONG ANALYSIS -->
+              <h1>Music Analysis</h1>
+              <p class="lead">
+                Discover the aspects of popular music with in a specified range of year with radar chart (left).
+                <br>
+                Explore the collaboration relationship between artist for the desired year.
+                <br>
+                Narrow down the network graph (right) by using a higher number of collaborators.
+                <br>
+                Interact with the graphs by zooming and hovering over the nodes.
+              </p>
+            </div>
+            <div class="row">
+              <div class="col-sm text-center">
+                <p id='radar-chart-title'>Title: Popular song aspects</p>
+                <div class="col-sm">
+                  <div id="slider-range"></div>
+                </div>
+              </div>
+              <div class="col-sm text-center">
+                <p id='network-graph-title'>Title: Network Graph</p>
+                <label>Year:</label>
+                <select id='year_selector'></select>
+                <label>Number of Collaborator:</label>
+                <select id='layer_selector'></select>
+              </div>
+            </div>
+            <div class="row">
+              <!-- VIZUALISATION 3: Radar Chart -->
+              <div id="chart-area3" class="col-sm text-center" style="height: 70vh">
+                Radar Chart
+              </div>
+              <!-- VISUALISATION 4: Network Graph -->
+              <div id="chart-area4" class="col-sm text-center" style="height: 70vh">
+                <!-- Content here -->
+                Network Graph
+              </div>
+            </div>
+          </div>
+
+        </div>
+        <div class="tab-pane fade show" id="nav-page3" role="tabpanel">
+          <div class="container-fluid">
+            <div class="row text-center">
+              <!-- PAGE 3 : Song Timeline -->
+              <h1>Music Timeline</h1>
+              <p class="lead">
+                Discover the flow of music characteristic throughout the centuary using multiple timeline chart (left).
+                <br>
+                Uncover the pop music trends over the years using the scatter plot (right).
+                <br>
+                Tune the animation speed and replay the animation by clicking on the button.
+              </p>
+            </div>
+            <div class="row">
+              <div class="col-sm text-center">
+                <p id='line-graph-title'>Title: Line Graph</p>
+
+                <div id="line-speed">
+                  <input type="radio" name="line-radio" value="slow"> Slow
+                  <input type="radio" name="line-radio" value="medium" checked> Medium
+                  <input type="radio" name="line-radio" value="fast"> Fast
+                  <button id='play-line-animation'>Replay Line Animation</button>
+                </div>
+
+              </div>
+              <div class="col-sm text-center">
+                <p id='Scatter-plot-title'>Title: Scatter Plot</p>
+
+
+                <div id="scatter-speed">
+                  <input type="radio" name="scatter-radio" value="slow"> Slow
+                  <input type="radio" name="scatter-radio" value="medium" checked> Medium
+                  <input type="radio" name="scatter-radio" value="fast"> Fast
+                  <button id='play-scatter-animation'>Replay Scatter Animation</button>
+                </div>
+
+              </div>
+            </div>
+            <div class="row">
+              <!-- VIZUALISATION 5: Radar Chart -->
+              <div id="chart-area5" class="col-sm text-center" style="height: 70vh">
+                Line Graph
+              </div>
+              <!-- VISUALISATION 6: Network Graph -->
+              <div id="chart-area6" class="col-sm text-center" style="height: 70vh">
+                <!-- Content here -->
+                Scatter plot
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- <p class="lead">
+          <a
+            href="#"
+            class="btn btn-lg btn-secondary fw-bold border-white bg-white"
+            >Learn more</a
+          >
+        </p> -->
+    </main>
+
+    <footer class="mt-auto text-black-50">
+      <p>Data Visualization Project</p>
+    </footer>
+  </div>
+
+  <!-- Javascript lib -->
+  <!-- <script src="js/lib/jquery-3.5.1.js"></script>
+  <script src="js/lib/bootstrap.bundle.js"></script> -->
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"
+    integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+  <!-- <script src="js/lib/jquery-3.5.1.slim.min.js"></script> -->
+  <script src="js/lib/bootstrap.bundle.min.js"></script>
+
+  <!-- d3 -->
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+
+  <!-- d3 tip -->
+  <script src="js/lib/d3-tip.js"></script>
+
+  <!-- d3 collection -->
+  <script src="https://d3js.org/d3-collection.v1.min.js"></script>
+  
+
+  <!-- d3 array -->
+  <!-- <script src="https://d3js.org/d3-array.v2.min.js"></script> -->
+
+  <!-- word cloud -->
+  <!-- <script src="https://rawgit.com/jasondavies/d3-cloud/master/build/d3.layout.cloud.js"></script> -->
+  <script src="js/lib/d3.layout.cloud.js"></script>
+  <!-- <script src="https://cdn.jsdelivr.net/gh/holtzy/D3-graph-gallery@master/LIB/d3.layout.cloud.js"></script> -->
+
+  <!-- Slider source -->
+  <script src="https://unpkg.com/d3-simple-slider"></script>
+  <!-- Range slider code -->
+  <!-- <script src="https://cdn.rawgit.com/RasmusFonseca/d3RangeSlider/master/d3RangeSlider.js"></script> -->
+
+  <!-- Range slider style -->
+  <!-- <link href="https://cdn.rawgit.com/RasmusFonseca/d3RangeSlider/master/d3RangeSlider.css" rel="stylesheet"> -->
+
+  <script>
+    $("div.spanner").addClass("show");
+    $("div.overlay").addClass("show");
+    $.ajaxSetup({
+      // Disable caching of AJAX responses
+      // Used when debugging
+      cache: false,
+    });
+
+    $.getScript("js/global.js");
+    $.getScript("js/graph1.js");
+    $.getScript("js/graph2.js");
+    $("#nav-tab-1").click(function () {
+      // $('html').find('script').filter(function(){
+      //     console.log($(this).attr('src'),"aaaaaa")
+      //     return !$(this).attr('src')
+      // }).remove();
+      // d3.map = undefined
+      // $.getScript("https://d3js.org/d3-array.v2.js");
+
+      $("div.spanner").addClass("show");
+      $("div.overlay").addClass("show");
+      $.getScript("js/graph1.js");
+      // $.getScript("https://d3js.org/d3-collection.v1.min.js");
+      $.getScript("js/graph2.js");
+    });
+  </script>
+  <script>
+    $("#nav-tab-2").click(function () {
+      $("div.spanner").addClass("show");
+      $("div.overlay").addClass("show");
+      $.getScript("js/graph3.js");
+      $.getScript("js/graph4.js");
+    });
+  </script>
+  <script>
+    $("#nav-tab-3").click(function () {
+      $("div.spanner").addClass("show");
+      $("div.overlay").addClass("show");
+      // $.getScript("https://d3js.org/d3-array.v2.js");
+      $.getScript("js/graph5.js");
+      $.getScript("js/graph6.js");
+    });
+  </script>
+</body>
+
+</html>

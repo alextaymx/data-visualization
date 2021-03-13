@@ -1,0 +1,1441 @@
+{
+  "nodes": [
+    {
+      "id": "Adolf Busch",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Alexander Glazunov",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Alexander Zakin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Alfredo Catalani",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Ambroise Thomas",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Andrea Rost",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Annie Get Your Gun 1946 Original Broadway Male Chorus",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Anonymous",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Antonio Bazzini",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Antonio Vivaldi",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Bastille Opera Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bell Telephone Hour Orchestra",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Benay Venuta",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bo Skovhus",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Boston Symphony Orchestra",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Bruno Walter",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Busch Chamber Players",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Carlo Rizzi",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Charles Gounod",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Chicago Symphony Orchestra",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Claude Debussy",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Columbia Symphony Orchestra",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Concert Hall Orchestra",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Daniel Barenboim",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Donald Voorhees",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Durga",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Emerson Buckley",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Emil Cooper",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "English Chamber Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "English National Opera Orchestra",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Ernest Ansermet",
+      "group": 10,
+      "song_count": 24
+    },
+    {
+      "id": "Ernst Haefliger",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Ethel Merman",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Eugene Istomin",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Eugene Kohn",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Eugene Ormandy",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Fausto Cleva",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Felix Mendelssohn",
+      "group": 10,
+      "song_count": 10
+    },
+    {
+      "id": "Franz Liszt Chamber Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Frederica von Stade",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Friedrich von Flotow",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Fritz Kreisler",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Fritz Reiner",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Gaetano Donizetti",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Georges Bizet",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Giacomo Puccini",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Gianandrea Gavazzeni",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Giuseppe Verdi",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Gustave Charpentier",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Heinz Rehfuss",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Henri Vieuxtemps",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Igor Stravinsky",
+      "group": 10,
+      "song_count": 81
+    },
+    {
+      "id": "Ileana Cotrubas",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Indu.",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Isaac Stern",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Istvan Arato",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Izler Solomon",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "James Conlon",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "James Loomis",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Jane Eaglen",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jascha Heifetz",
+      "group": 10,
+      "song_count": 48
+    },
+    {
+      "id": "Johann Sebastian Bach",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Johannes Brahms",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "John",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Jules Massenet",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Karita Mattila",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Karl Goldmark",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Kazuhiro Koizumi",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kiri Te Kanawa",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "L'Orchestre de la Suisse Romande",
+      "group": 10,
+      "song_count": 21
+    },
+    {
+      "id": "Leonard Bernstein",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Leopold Godowsky",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Leslie Fyson",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "London Philharmonic Choir",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "London Philharmonic Orchestra",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "London Symphony Orchestra",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Luciano Pavarotti",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Ludwig van Beethoven",
+      "group": 10,
+      "song_count": 18
+    },
+    {
+      "id": "M. Jeevan",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Marcelo Alvarez",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mark Elder",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Marty May",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Max Bruch",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Metropolitan Opera Orchestra",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Moritz Moszkowski",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Nello Santi",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "New Philharmonia Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "New York Philharmonic",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Orchestra Sinfonica dell'Emilia-Romagna",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Orchestra del Maggio Musicale Fiorentino",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Orchestra of the Age of Enlightenment",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pablo Casals",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Pablo de Sarasate",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Paul Pasquier",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Perpignan Festival Orchestra",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Philadelphia Orchestra",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Prem",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pyotr Ilyich Tchaikovsky",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "RCA Victor Symphony Orchestra",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Ray Middleton",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Renata Scotto",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Richard Tucker",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Richard Wagner",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Robert Middleton",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Robert Russell Bennett",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Robert Schumann",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Royal Philharmonic Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sergei Prokofiev",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Shankar",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Sir Charles Mackerras",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sir John Pritchard",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Sir Malcolm Sargent",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Societe Chorale de Brassus",
+      "group": 10,
+      "song_count": 11
+    },
+    {
+      "id": "Stanley Black",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Teiko Maehashi",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "The New Symphony Orchestra Of London",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Tokyo Metropolitan Symphony Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Umberto Giordano",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Unknown Artist",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Vanmala",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Vienna State Opera Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Vincenzo Bellini",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Walter Hendl",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Welsh National Opera Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "William O'Neal",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "William Primrose",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Wolfgang Amadeus Mozart",
+      "group": 10,
+      "song_count": 29
+    },
+    {
+      "id": "Xavier Depraz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Yusuf",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Zubin Mehta",
+      "group": 2,
+      "song_count": 2
+    }
+  ],
+  "links": [
+    {
+      "source": "Alexander Glazunov",
+      "target": "Jascha Heifetz",
+      "colab_count": 4
+    },
+    {
+      "source": "Alexander Glazunov",
+      "target": "RCA Victor Symphony Orchestra",
+      "colab_count": 4
+    },
+    {
+      "source": "Alexander Glazunov",
+      "target": "Walter Hendl",
+      "colab_count": 4
+    },
+    {
+      "source": "Alfredo Catalani",
+      "target": "Gianandrea Gavazzeni",
+      "colab_count": 1
+    },
+    {
+      "source": "Alfredo Catalani",
+      "target": "London Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Alfredo Catalani",
+      "target": "Renata Scotto",
+      "colab_count": 1
+    },
+    {
+      "source": "Ambroise Thomas",
+      "target": "Frederica von Stade",
+      "colab_count": 1
+    },
+    {
+      "source": "Ambroise Thomas",
+      "target": "London Philharmonic Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Ambroise Thomas",
+      "target": "Sir John Pritchard",
+      "colab_count": 1
+    },
+    {
+      "source": "Anonymous",
+      "target": "Concert Hall Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Anonymous",
+      "target": "Jascha Heifetz",
+      "colab_count": 1
+    },
+    {
+      "source": "Anonymous",
+      "target": "Robert Russell Bennett",
+      "colab_count": 1
+    },
+    {
+      "source": "Anonymous",
+      "target": "Unknown Artist",
+      "colab_count": 1
+    },
+    {
+      "source": "Antonio Bazzini",
+      "target": "Concert Hall Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Antonio Bazzini",
+      "target": "Jascha Heifetz",
+      "colab_count": 1
+    },
+    {
+      "source": "Antonio Bazzini",
+      "target": "Unknown Artist",
+      "colab_count": 1
+    },
+    {
+      "source": "Antonio Vivaldi",
+      "target": "Eugene Ormandy",
+      "colab_count": 1
+    },
+    {
+      "source": "Antonio Vivaldi",
+      "target": "Isaac Stern",
+      "colab_count": 1
+    },
+    {
+      "source": "Antonio Vivaldi",
+      "target": "Philadelphia Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Gounod",
+      "target": "Bo Skovhus",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Gounod",
+      "target": "English National Opera Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Gounod",
+      "target": "James Conlon",
+      "colab_count": 1
+    },
+    {
+      "source": "Ethel Merman",
+      "target": "Marty May",
+      "colab_count": 2
+    },
+    {
+      "source": "Ethel Merman",
+      "target": "Ray Middleton",
+      "colab_count": 1
+    },
+    {
+      "source": "Ethel Merman",
+      "target": "Robert Middleton",
+      "colab_count": 1
+    },
+    {
+      "source": "Ethel Merman",
+      "target": "William O'Neal",
+      "colab_count": 2
+    },
+    {
+      "source": "Felix Mendelssohn",
+      "target": "Alexander Zakin",
+      "colab_count": 1
+    },
+    {
+      "source": "Felix Mendelssohn",
+      "target": "Boston Symphony Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Felix Mendelssohn",
+      "target": "Eugene Ormandy",
+      "colab_count": 1
+    },
+    {
+      "source": "Felix Mendelssohn",
+      "target": "Isaac Stern",
+      "colab_count": 1
+    },
+    {
+      "source": "Felix Mendelssohn",
+      "target": "Jascha Heifetz",
+      "colab_count": 3
+    },
+    {
+      "source": "Felix Mendelssohn",
+      "target": "Philadelphia Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Friedrich von Flotow",
+      "target": "Emil Cooper",
+      "colab_count": 1
+    },
+    {
+      "source": "Friedrich von Flotow",
+      "target": "Metropolitan Opera Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Friedrich von Flotow",
+      "target": "Richard Tucker",
+      "colab_count": 1
+    },
+    {
+      "source": "Fritz Kreisler",
+      "target": "Franz Liszt Chamber Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Fritz Kreisler",
+      "target": "Isaac Stern",
+      "colab_count": 1
+    },
+    {
+      "source": "Gaetano Donizetti",
+      "target": "Andrea Rost",
+      "colab_count": 1
+    },
+    {
+      "source": "Gaetano Donizetti",
+      "target": "Carlo Rizzi",
+      "colab_count": 1
+    },
+    {
+      "source": "Gaetano Donizetti",
+      "target": "Marcelo Alvarez",
+      "colab_count": 1
+    },
+    {
+      "source": "Gaetano Donizetti",
+      "target": "Royal Philharmonic Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Gaetano Donizetti",
+      "target": "Sir Charles Mackerras",
+      "colab_count": 1
+    },
+    {
+      "source": "Gaetano Donizetti",
+      "target": "Welsh National Opera Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Georges Bizet",
+      "target": "Donald Voorhees",
+      "colab_count": 1
+    },
+    {
+      "source": "Georges Bizet",
+      "target": "Jascha Heifetz",
+      "colab_count": 1
+    },
+    {
+      "source": "Georges Bizet",
+      "target": "RCA Victor Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Emerson Buckley",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Gianandrea Gavazzeni",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Kiri Te Kanawa",
+      "colab_count": 2
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "London Philharmonic Orchestra",
+      "colab_count": 2
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "London Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Luciano Pavarotti",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Orchestra Sinfonica dell'Emilia-Romagna",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Renata Scotto",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Sir John Pritchard",
+      "colab_count": 2
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Nello Santi",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Richard Tucker",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Vienna State Opera Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Gustave Charpentier",
+      "target": "Ileana Cotrubas",
+      "colab_count": 1
+    },
+    {
+      "source": "Gustave Charpentier",
+      "target": "New Philharmonia Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Henri Vieuxtemps",
+      "target": "Jascha Heifetz",
+      "colab_count": 3
+    },
+    {
+      "source": "Henri Vieuxtemps",
+      "target": "Sir Malcolm Sargent",
+      "colab_count": 3
+    },
+    {
+      "source": "Henri Vieuxtemps",
+      "target": "The New Symphony Orchestra Of London",
+      "colab_count": 3
+    },
+    {
+      "source": "Igor Stravinsky",
+      "target": "Ernest Ansermet",
+      "colab_count": 24
+    },
+    {
+      "source": "Igor Stravinsky",
+      "target": "Ernst Haefliger",
+      "colab_count": 6
+    },
+    {
+      "source": "Igor Stravinsky",
+      "target": "Heinz Rehfuss",
+      "colab_count": 1
+    },
+    {
+      "source": "Igor Stravinsky",
+      "target": "Istvan Arato",
+      "colab_count": 1
+    },
+    {
+      "source": "Igor Stravinsky",
+      "target": "James Loomis",
+      "colab_count": 4
+    },
+    {
+      "source": "Igor Stravinsky",
+      "target": "L'Orchestre de la Suisse Romande",
+      "colab_count": 21
+    },
+    {
+      "source": "Igor Stravinsky",
+      "target": "London Philharmonic Choir",
+      "colab_count": 3
+    },
+    {
+      "source": "Igor Stravinsky",
+      "target": "London Philharmonic Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Igor Stravinsky",
+      "target": "Paul Pasquier",
+      "colab_count": 6
+    },
+    {
+      "source": "Igor Stravinsky",
+      "target": "Societe Chorale de Brassus",
+      "colab_count": 11
+    },
+    {
+      "source": "Igor Stravinsky",
+      "target": "Xavier Depraz",
+      "colab_count": 1
+    },
+    {
+      "source": "Indu.",
+      "target": "M. Jeevan",
+      "colab_count": 1
+    },
+    {
+      "source": "Indu.",
+      "target": "Prem",
+      "colab_count": 1
+    },
+    {
+      "source": "Indu.",
+      "target": "Vanmala",
+      "colab_count": 1
+    },
+    {
+      "source": "Jascha Heifetz",
+      "target": "Bell Telephone Hour Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Jascha Heifetz",
+      "target": "Claude Debussy",
+      "colab_count": 1
+    },
+    {
+      "source": "Jascha Heifetz",
+      "target": "Donald Voorhees",
+      "colab_count": 3
+    },
+    {
+      "source": "Jascha Heifetz",
+      "target": "Leopold Godowsky",
+      "colab_count": 2
+    },
+    {
+      "source": "Jascha Heifetz",
+      "target": "Unknown Artist",
+      "colab_count": 3
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Adolf Busch",
+      "colab_count": 3
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Busch Chamber Players",
+      "colab_count": 3
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Eugene Istomin",
+      "colab_count": 3
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Chicago Symphony Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Fritz Reiner",
+      "colab_count": 3
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Jascha Heifetz",
+      "colab_count": 3
+    },
+    {
+      "source": "Jules Massenet",
+      "target": "Fausto Cleva",
+      "colab_count": 1
+    },
+    {
+      "source": "Jules Massenet",
+      "target": "Kazuhiro Koizumi",
+      "colab_count": 1
+    },
+    {
+      "source": "Jules Massenet",
+      "target": "Metropolitan Opera Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Jules Massenet",
+      "target": "Teiko Maehashi",
+      "colab_count": 1
+    },
+    {
+      "source": "Jules Massenet",
+      "target": "Tokyo Metropolitan Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Karl Goldmark",
+      "target": "Bell Telephone Hour Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Karl Goldmark",
+      "target": "Donald Voorhees",
+      "colab_count": 1
+    },
+    {
+      "source": "Karl Goldmark",
+      "target": "Jascha Heifetz",
+      "colab_count": 1
+    },
+    {
+      "source": "Karl Goldmark",
+      "target": "Unknown Artist",
+      "colab_count": 1
+    },
+    {
+      "source": "Leslie Fyson",
+      "target": "Annie Get Your Gun 1946 Original Broadway Male Chorus",
+      "colab_count": 1
+    },
+    {
+      "source": "Leslie Fyson",
+      "target": "Benay Venuta",
+      "colab_count": 1
+    },
+    {
+      "source": "Leslie Fyson",
+      "target": "Stanley Black",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Boston Symphony Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Eugene Istomin",
+      "colab_count": 3
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Eugene Ormandy",
+      "colab_count": 3
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Isaac Stern",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Jascha Heifetz",
+      "colab_count": 3
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Leonard Bernstein",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "New York Philharmonic",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Philadelphia Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Max Bruch",
+      "target": "Jascha Heifetz",
+      "colab_count": 3
+    },
+    {
+      "source": "Max Bruch",
+      "target": "Sir Malcolm Sargent",
+      "colab_count": 3
+    },
+    {
+      "source": "Max Bruch",
+      "target": "The New Symphony Orchestra Of London",
+      "colab_count": 3
+    },
+    {
+      "source": "Pablo de Sarasate",
+      "target": "Bell Telephone Hour Orchestra",
+      "colab_count": 2
+    },
+    {
+      "source": "Pablo de Sarasate",
+      "target": "Donald Voorhees",
+      "colab_count": 2
+    },
+    {
+      "source": "Pablo de Sarasate",
+      "target": "Jascha Heifetz",
+      "colab_count": 2
+    },
+    {
+      "source": "Pablo de Sarasate",
+      "target": "Moritz Moszkowski",
+      "colab_count": 1
+    },
+    {
+      "source": "Pablo de Sarasate",
+      "target": "Unknown Artist",
+      "colab_count": 2
+    },
+    {
+      "source": "Pyotr Ilyich Tchaikovsky",
+      "target": "Chicago Symphony Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Pyotr Ilyich Tchaikovsky",
+      "target": "Fritz Reiner",
+      "colab_count": 3
+    },
+    {
+      "source": "Pyotr Ilyich Tchaikovsky",
+      "target": "Jascha Heifetz",
+      "colab_count": 3
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Bo Skovhus",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "English National Opera Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "James Conlon",
+      "colab_count": 1
+    },
+    {
+      "source": "Robert Schumann",
+      "target": "Bruno Walter",
+      "colab_count": 3
+    },
+    {
+      "source": "Robert Schumann",
+      "target": "Columbia Symphony Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Robert Schumann",
+      "target": "Eugene Istomin",
+      "colab_count": 3
+    },
+    {
+      "source": "Sergei Prokofiev",
+      "target": "Boston Symphony Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Sergei Prokofiev",
+      "target": "Concert Hall Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Sergei Prokofiev",
+      "target": "Isaac Stern",
+      "colab_count": 1
+    },
+    {
+      "source": "Sergei Prokofiev",
+      "target": "Jascha Heifetz",
+      "colab_count": 4
+    },
+    {
+      "source": "Sergei Prokofiev",
+      "target": "New York Philharmonic",
+      "colab_count": 1
+    },
+    {
+      "source": "Sergei Prokofiev",
+      "target": "Unknown Artist",
+      "colab_count": 1
+    },
+    {
+      "source": "Sergei Prokofiev",
+      "target": "Zubin Mehta",
+      "colab_count": 1
+    },
+    {
+      "source": "Shankar",
+      "target": "Durga",
+      "colab_count": 2
+    },
+    {
+      "source": "Shankar",
+      "target": "John",
+      "colab_count": 2
+    },
+    {
+      "source": "Shankar",
+      "target": "Yusuf",
+      "colab_count": 2
+    },
+    {
+      "source": "Umberto Giordano",
+      "target": "Emerson Buckley",
+      "colab_count": 1
+    },
+    {
+      "source": "Umberto Giordano",
+      "target": "Luciano Pavarotti",
+      "colab_count": 1
+    },
+    {
+      "source": "Umberto Giordano",
+      "target": "Orchestra Sinfonica dell'Emilia-Romagna",
+      "colab_count": 1
+    },
+    {
+      "source": "Vincenzo Bellini",
+      "target": "Jane Eaglen",
+      "colab_count": 1
+    },
+    {
+      "source": "Vincenzo Bellini",
+      "target": "Mark Elder",
+      "colab_count": 1
+    },
+    {
+      "source": "Vincenzo Bellini",
+      "target": "Orchestra of the Age of Enlightenment",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Bastille Opera Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Bell Telephone Hour Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Daniel Barenboim",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Donald Voorhees",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "English Chamber Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Eugene Istomin",
+      "colab_count": 3
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Eugene Kohn",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Isaac Stern",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Izler Solomon",
+      "colab_count": 3
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Jascha Heifetz",
+      "colab_count": 4
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Karita Mattila",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Orchestra del Maggio Musicale Fiorentino",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Pablo Casals",
+      "colab_count": 3
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Perpignan Festival Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "William Primrose",
+      "colab_count": 3
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Zubin Mehta",
+      "colab_count": 1
+    }
+  ]
+}

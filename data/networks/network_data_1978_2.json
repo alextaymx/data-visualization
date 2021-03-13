@@ -1,0 +1,616 @@
+{
+  "nodes": [
+    {
+      "id": "Amsterdam Baroque Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ars Rediviva Orchestra Of Prague",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Becky Gelke",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Carlin Glynn",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Carol Hall",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Chaka Khan",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "David Broza",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Diana Ross",
+      "group": 10,
+      "song_count": 14
+    },
+    {
+      "id": "Donna King",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Gaetano Donizetti",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Gary Langan",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Giacomo Puccini",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Gianandrea Gavazzeni",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Gidi Gov",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Henry Kapono",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jan Garbarek",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Jan Merchant",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jean-Pierre Rampal",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jeff Wayne",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Jerry Byrd",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Johann Sebastian Bach",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "John Raposa",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jon Christensen",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Justin Hayward",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kapono Beamer",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kata Maduli",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Keith Jarrett",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Lena Horne",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lisa Brown",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Louise Quick-Bowen",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Luciano Pavarotti",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Mabel King",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Marta Sanders",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Master Henry Gibson",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Michael Jackson",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Milan Munclinger",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mirella Freni",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "National Philharmonic Orchestra",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Nickolas Ashford",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Nicola Rescigno",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Nipsey Russell",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Nohelani Cypriano",
+      "group": 10,
+      "song_count": 11
+    },
+    {
+      "id": "Orchestra del Teatro Comunale di Bologna",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Palle Danielsson",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Peter Moon",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pietro Mascagni",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Quincy Jones",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Richard Bonynge",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Richard Burton",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Richard Pryor",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Roscoe Wright",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ruggero Leoncavallo",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Sherrill Milnes",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ted Ross",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Thelma Carpenter",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Theresa Merritt",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ton Koopman",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Valerie Simpson",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wayne Hobbs",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Winner Contemporary Hawaiian Album of the Year Hoku",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Winner Female Vocalist of the Year Hoku",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Yehonatan Geffen",
+      "group": 10,
+      "song_count": 16
+    },
+    {
+      "id": "Yehudit Ravitz",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Yo-Yo Ma",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Yoni Rechter",
+      "group": 4,
+      "song_count": 4
+    }
+  ],
+  "links": [
+    {
+      "source": "Carol Hall",
+      "target": "Becky Gelke",
+      "colab_count": 1
+    },
+    {
+      "source": "Carol Hall",
+      "target": "Carlin Glynn",
+      "colab_count": 1
+    },
+    {
+      "source": "Carol Hall",
+      "target": "Donna King",
+      "colab_count": 1
+    },
+    {
+      "source": "Carol Hall",
+      "target": "Jan Merchant",
+      "colab_count": 1
+    },
+    {
+      "source": "Carol Hall",
+      "target": "Lisa Brown",
+      "colab_count": 1
+    },
+    {
+      "source": "Carol Hall",
+      "target": "Louise Quick-Bowen",
+      "colab_count": 1
+    },
+    {
+      "source": "Carol Hall",
+      "target": "Marta Sanders",
+      "colab_count": 1
+    },
+    {
+      "source": "Diana Ross",
+      "target": "Lena Horne",
+      "colab_count": 1
+    },
+    {
+      "source": "Diana Ross",
+      "target": "Mabel King",
+      "colab_count": 1
+    },
+    {
+      "source": "Diana Ross",
+      "target": "Michael Jackson",
+      "colab_count": 3
+    },
+    {
+      "source": "Diana Ross",
+      "target": "Nipsey Russell",
+      "colab_count": 3
+    },
+    {
+      "source": "Diana Ross",
+      "target": "Richard Pryor",
+      "colab_count": 1
+    },
+    {
+      "source": "Diana Ross",
+      "target": "Ted Ross",
+      "colab_count": 3
+    },
+    {
+      "source": "Diana Ross",
+      "target": "Thelma Carpenter",
+      "colab_count": 1
+    },
+    {
+      "source": "Diana Ross",
+      "target": "Theresa Merritt",
+      "colab_count": 1
+    },
+    {
+      "source": "Gaetano Donizetti",
+      "target": "Luciano Pavarotti",
+      "colab_count": 1
+    },
+    {
+      "source": "Gaetano Donizetti",
+      "target": "Orchestra del Teatro Comunale di Bologna",
+      "colab_count": 1
+    },
+    {
+      "source": "Gaetano Donizetti",
+      "target": "Richard Bonynge",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Luciano Pavarotti",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Mirella Freni",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "National Philharmonic Orchestra",
+      "colab_count": 2
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Nicola Rescigno",
+      "colab_count": 2
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Sherrill Milnes",
+      "colab_count": 1
+    },
+    {
+      "source": "Jeff Wayne",
+      "target": "Gary Langan",
+      "colab_count": 1
+    },
+    {
+      "source": "Jeff Wayne",
+      "target": "Justin Hayward",
+      "colab_count": 1
+    },
+    {
+      "source": "Jeff Wayne",
+      "target": "Richard Burton",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Amsterdam Baroque Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Ars Rediviva Orchestra Of Prague",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Jean-Pierre Rampal",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Milan Munclinger",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Ton Koopman",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Yo-Yo Ma",
+      "colab_count": 1
+    },
+    {
+      "source": "Keith Jarrett",
+      "target": "Jan Garbarek",
+      "colab_count": 3
+    },
+    {
+      "source": "Keith Jarrett",
+      "target": "Jon Christensen",
+      "colab_count": 3
+    },
+    {
+      "source": "Keith Jarrett",
+      "target": "Palle Danielsson",
+      "colab_count": 3
+    },
+    {
+      "source": "Nohelani Cypriano",
+      "target": "Henry Kapono",
+      "colab_count": 1
+    },
+    {
+      "source": "Nohelani Cypriano",
+      "target": "Jerry Byrd",
+      "colab_count": 1
+    },
+    {
+      "source": "Nohelani Cypriano",
+      "target": "John Raposa",
+      "colab_count": 1
+    },
+    {
+      "source": "Nohelani Cypriano",
+      "target": "Kapono Beamer",
+      "colab_count": 1
+    },
+    {
+      "source": "Nohelani Cypriano",
+      "target": "Kata Maduli",
+      "colab_count": 1
+    },
+    {
+      "source": "Nohelani Cypriano",
+      "target": "Master Henry Gibson",
+      "colab_count": 1
+    },
+    {
+      "source": "Nohelani Cypriano",
+      "target": "Peter Moon",
+      "colab_count": 1
+    },
+    {
+      "source": "Nohelani Cypriano",
+      "target": "Roscoe Wright",
+      "colab_count": 1
+    },
+    {
+      "source": "Nohelani Cypriano",
+      "target": "Wayne Hobbs",
+      "colab_count": 1
+    },
+    {
+      "source": "Nohelani Cypriano",
+      "target": "Winner Contemporary Hawaiian Album of the Year Hoku",
+      "colab_count": 1
+    },
+    {
+      "source": "Nohelani Cypriano",
+      "target": "Winner Female Vocalist of the Year Hoku",
+      "colab_count": 1
+    },
+    {
+      "source": "Pietro Mascagni",
+      "target": "Gianandrea Gavazzeni",
+      "colab_count": 1
+    },
+    {
+      "source": "Pietro Mascagni",
+      "target": "National Philharmonic Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Quincy Jones",
+      "target": "Chaka Khan",
+      "colab_count": 1
+    },
+    {
+      "source": "Quincy Jones",
+      "target": "Nickolas Ashford",
+      "colab_count": 1
+    },
+    {
+      "source": "Quincy Jones",
+      "target": "Valerie Simpson",
+      "colab_count": 1
+    },
+    {
+      "source": "Ruggero Leoncavallo",
+      "target": "Luciano Pavarotti",
+      "colab_count": 1
+    },
+    {
+      "source": "Ruggero Leoncavallo",
+      "target": "National Philharmonic Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Yehonatan Geffen",
+      "target": "David Broza",
+      "colab_count": 4
+    },
+    {
+      "source": "Yehonatan Geffen",
+      "target": "Gidi Gov",
+      "colab_count": 4
+    },
+    {
+      "source": "Yehonatan Geffen",
+      "target": "Yehudit Ravitz",
+      "colab_count": 4
+    },
+    {
+      "source": "Yehonatan Geffen",
+      "target": "Yoni Rechter",
+      "colab_count": 4
+    }
+  ]
+}

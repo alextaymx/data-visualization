@@ -1,0 +1,321 @@
+{
+  "nodes": [
+    {
+      "id": "Angela Cartwright",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Annalee",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Bill Lee",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Charmian Carr",
+      "group": 10,
+      "song_count": 16
+    },
+    {
+      "id": "Dame Joan Sutherland",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Debbie Turner",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Duane Chase",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Evadne Baker",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Gioachino Rossini",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Heather Menzies",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Irwin Kostal",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Jacques Offenbach",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Julie Andrews",
+      "group": 10,
+      "song_count": 22
+    },
+    {
+      "id": "Kym Karath",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Manuel Ausensi",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Marni Nixon",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "New Philharmonia Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Nicholas Hammond",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Nicolai Gedda",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Orchestra del Teatro San Carlo di Napoli",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Paula Kelly",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Portia Nelson",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Ray Eberle",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Richard Bonynge",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Richard Storrs Willis",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Silvio Varviso",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Tex Beneke",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "The Modernaires",
+      "group": 4,
+      "song_count": 4
+    }
+  ],
+  "links": [
+    {
+      "source": "Annalee",
+      "target": "Evadne Baker",
+      "colab_count": 1
+    },
+    {
+      "source": "Annalee",
+      "target": "Marni Nixon",
+      "colab_count": 1
+    },
+    {
+      "source": "Annalee",
+      "target": "Portia Nelson",
+      "colab_count": 1
+    },
+    {
+      "source": "Charmian Carr",
+      "target": "Angela Cartwright",
+      "colab_count": 2
+    },
+    {
+      "source": "Charmian Carr",
+      "target": "Bill Lee",
+      "colab_count": 1
+    },
+    {
+      "source": "Charmian Carr",
+      "target": "Debbie Turner",
+      "colab_count": 2
+    },
+    {
+      "source": "Charmian Carr",
+      "target": "Duane Chase",
+      "colab_count": 2
+    },
+    {
+      "source": "Charmian Carr",
+      "target": "Heather Menzies",
+      "colab_count": 2
+    },
+    {
+      "source": "Charmian Carr",
+      "target": "Kym Karath",
+      "colab_count": 2
+    },
+    {
+      "source": "Charmian Carr",
+      "target": "Nicholas Hammond",
+      "colab_count": 2
+    },
+    {
+      "source": "Evadne Baker",
+      "target": "Annalee",
+      "colab_count": 2
+    },
+    {
+      "source": "Evadne Baker",
+      "target": "Marni Nixon",
+      "colab_count": 2
+    },
+    {
+      "source": "Evadne Baker",
+      "target": "Portia Nelson",
+      "colab_count": 2
+    },
+    {
+      "source": "Gioachino Rossini",
+      "target": "Manuel Ausensi",
+      "colab_count": 1
+    },
+    {
+      "source": "Gioachino Rossini",
+      "target": "Orchestra del Teatro San Carlo di Napoli",
+      "colab_count": 1
+    },
+    {
+      "source": "Gioachino Rossini",
+      "target": "Silvio Varviso",
+      "colab_count": 1
+    },
+    {
+      "source": "Irwin Kostal",
+      "target": "Annalee",
+      "colab_count": 1
+    },
+    {
+      "source": "Irwin Kostal",
+      "target": "Evadne Baker",
+      "colab_count": 1
+    },
+    {
+      "source": "Irwin Kostal",
+      "target": "Marni Nixon",
+      "colab_count": 1
+    },
+    {
+      "source": "Irwin Kostal",
+      "target": "Portia Nelson",
+      "colab_count": 1
+    },
+    {
+      "source": "Jacques Offenbach",
+      "target": "Nicolai Gedda",
+      "colab_count": 1
+    },
+    {
+      "source": "Julie Andrews",
+      "target": "Angela Cartwright",
+      "colab_count": 3
+    },
+    {
+      "source": "Julie Andrews",
+      "target": "Bill Lee",
+      "colab_count": 1
+    },
+    {
+      "source": "Julie Andrews",
+      "target": "Charmian Carr",
+      "colab_count": 3
+    },
+    {
+      "source": "Julie Andrews",
+      "target": "Debbie Turner",
+      "colab_count": 3
+    },
+    {
+      "source": "Julie Andrews",
+      "target": "Duane Chase",
+      "colab_count": 3
+    },
+    {
+      "source": "Julie Andrews",
+      "target": "Heather Menzies",
+      "colab_count": 3
+    },
+    {
+      "source": "Julie Andrews",
+      "target": "Kym Karath",
+      "colab_count": 3
+    },
+    {
+      "source": "Julie Andrews",
+      "target": "Nicholas Hammond",
+      "colab_count": 3
+    },
+    {
+      "source": "Richard Storrs Willis",
+      "target": "Dame Joan Sutherland",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Storrs Willis",
+      "target": "New Philharmonia Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Storrs Willis",
+      "target": "Richard Bonynge",
+      "colab_count": 1
+    },
+    {
+      "source": "Tex Beneke",
+      "target": "Paula Kelly",
+      "colab_count": 4
+    },
+    {
+      "source": "Tex Beneke",
+      "target": "Ray Eberle",
+      "colab_count": 4
+    },
+    {
+      "source": "Tex Beneke",
+      "target": "The Modernaires",
+      "colab_count": 4
+    }
+  ]
+}

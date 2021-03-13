@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Barry Douglas",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Israel Philharmonic Orchestra",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "London Symphony Orchestra",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Michael Tilson Thomas",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Sergei Rachmaninoff",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Vladimir Feltsman",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Zubin Mehta",
+      "group": 2,
+      "song_count": 2
+    }
+  ],
+  "links": [
+    {
+      "source": "Sergei Rachmaninoff",
+      "target": "Barry Douglas",
+      "colab_count": 2
+    },
+    {
+      "source": "Sergei Rachmaninoff",
+      "target": "Israel Philharmonic Orchestra",
+      "colab_count": 2
+    },
+    {
+      "source": "Sergei Rachmaninoff",
+      "target": "London Symphony Orchestra",
+      "colab_count": 2
+    },
+    {
+      "source": "Sergei Rachmaninoff",
+      "target": "Michael Tilson Thomas",
+      "colab_count": 2
+    },
+    {
+      "source": "Sergei Rachmaninoff",
+      "target": "Vladimir Feltsman",
+      "colab_count": 2
+    },
+    {
+      "source": "Sergei Rachmaninoff",
+      "target": "Zubin Mehta",
+      "colab_count": 2
+    }
+  ]
+}

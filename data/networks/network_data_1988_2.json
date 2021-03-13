@@ -1,0 +1,716 @@
+{
+  "nodes": [
+    {
+      "id": "Academy of St. Martin in the Fields",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Alain Boublil",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Arranged By",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Barry Wordsworth",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Ben Wright",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Berliner Philharmoniker",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bernadette Peters",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Big Daddy Kane",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bill Vitt",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Capella Istropolitana",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Chip Zien",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Claude Debussy",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Craig G",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Danielle Ferland",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "David Ferguson",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dick Hyman",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Didier Bouture",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Edward Elgar",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Ensemble Orchestral Harmonia Nova",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ensemble Orchestral Harmonia Nova & Didier Bouture",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Erik Satie",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Felix Mendelssohn",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Giacomo Puccini",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Gipsy Kings",
+      "group": 10,
+      "song_count": 18
+    },
+    {
+      "id": "Hair Ensemble",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Hank Williams, Jr.",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Henry Purcell",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Into the Woods Ensemble",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "J. Chico Bouchinkhi",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jahloul Bouchikhi",
+      "group": 10,
+      "song_count": 20
+    },
+    {
+      "id": "Jaime Laredo",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "James Rado",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Jerry Garcia",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Joanna Gleason",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Joey Miskulin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "John Kahn",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Johnny Cash",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Joseph Kalichstein",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Joshua Bell",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kim Crosby",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Kool G Rap",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lea Salonga",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "London Symphony Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Los Reyes",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Los Reyos",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ludwig van Beethoven",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Lynn Kellogg",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mark Howard",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Marley Marl",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Masta Ace",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Max Bruch",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Melba Moore",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Merl Saunders",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Moe Koffman",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "N. Reyes",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "N. Reyes and S. Diaz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Nicolas Reyes",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Ondrej Lenard",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Original Broadway Cast of Into the Woods Ensemble",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Paul Gemignani",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Riccardo Muti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Richard Maltby Jr.",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ritchie Valens",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Scottish Chamber Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Simon Bowman",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sir John Barbirolli",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sir Neville Marriner",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Slovak Radio Symphony Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Stefan Vladar",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Stephen Sondheim",
+      "group": 10,
+      "song_count": 11
+    },
+    {
+      "id": "Stockholm Chamber Choir",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Stockholm Radio Chorus",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "T. Baliardo",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Tonino Baliardo",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Wolfgang Amadeus Mozart",
+      "group": 4,
+      "song_count": 4
+    }
+  ],
+  "links": [
+    {
+      "source": "Alain Boublil",
+      "target": "Lea Salonga",
+      "colab_count": 1
+    },
+    {
+      "source": "Alain Boublil",
+      "target": "Richard Maltby Jr.",
+      "colab_count": 1
+    },
+    {
+      "source": "Alain Boublil",
+      "target": "Simon Bowman",
+      "colab_count": 1
+    },
+    {
+      "source": "Ben Wright",
+      "target": "Into the Woods Ensemble",
+      "colab_count": 1
+    },
+    {
+      "source": "Ben Wright",
+      "target": "Joanna Gleason",
+      "colab_count": 1
+    },
+    {
+      "source": "Ben Wright",
+      "target": "Kim Crosby",
+      "colab_count": 1
+    },
+    {
+      "source": "Ben Wright",
+      "target": "Original Broadway Cast of Into the Woods Ensemble",
+      "colab_count": 1
+    },
+    {
+      "source": "Chip Zien",
+      "target": "Ben Wright",
+      "colab_count": 1
+    },
+    {
+      "source": "Chip Zien",
+      "target": "Danielle Ferland",
+      "colab_count": 1
+    },
+    {
+      "source": "Chip Zien",
+      "target": "Kim Crosby",
+      "colab_count": 1
+    },
+    {
+      "source": "Edward Elgar",
+      "target": "London Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Edward Elgar",
+      "target": "Sir John Barbirolli",
+      "colab_count": 1
+    },
+    {
+      "source": "Erik Satie",
+      "target": "Claude Debussy",
+      "colab_count": 1
+    },
+    {
+      "source": "Erik Satie",
+      "target": "Ondrej Lenard",
+      "colab_count": 1
+    },
+    {
+      "source": "Erik Satie",
+      "target": "Slovak Radio Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Felix Mendelssohn",
+      "target": "Jaime Laredo",
+      "colab_count": 1
+    },
+    {
+      "source": "Felix Mendelssohn",
+      "target": "Joseph Kalichstein",
+      "colab_count": 1
+    },
+    {
+      "source": "Felix Mendelssohn",
+      "target": "Scottish Chamber Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Arranged By",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Dick Hyman",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Moe Koffman",
+      "colab_count": 1
+    },
+    {
+      "source": "Gipsy Kings",
+      "target": "Jahloul Bouchikhi",
+      "colab_count": 4
+    },
+    {
+      "source": "Gipsy Kings",
+      "target": "Los Reyes",
+      "colab_count": 2
+    },
+    {
+      "source": "Gipsy Kings",
+      "target": "Los Reyos",
+      "colab_count": 1
+    },
+    {
+      "source": "Gipsy Kings",
+      "target": "N. Reyes",
+      "colab_count": 4
+    },
+    {
+      "source": "Gipsy Kings",
+      "target": "T. Baliardo",
+      "colab_count": 4
+    },
+    {
+      "source": "Henry Purcell",
+      "target": "Didier Bouture",
+      "colab_count": 1
+    },
+    {
+      "source": "Henry Purcell",
+      "target": "Ensemble Orchestral Harmonia Nova",
+      "colab_count": 1
+    },
+    {
+      "source": "Henry Purcell",
+      "target": "Ensemble Orchestral Harmonia Nova & Didier Bouture",
+      "colab_count": 1
+    },
+    {
+      "source": "Jahloul Bouchikhi",
+      "target": "Gipsy Kings",
+      "colab_count": 3
+    },
+    {
+      "source": "Jahloul Bouchikhi",
+      "target": "J. Chico Bouchinkhi",
+      "colab_count": 1
+    },
+    {
+      "source": "Jahloul Bouchikhi",
+      "target": "N. Reyes",
+      "colab_count": 3
+    },
+    {
+      "source": "Jahloul Bouchikhi",
+      "target": "N. Reyes and S. Diaz",
+      "colab_count": 1
+    },
+    {
+      "source": "Jahloul Bouchikhi",
+      "target": "Nicolas Reyes",
+      "colab_count": 2
+    },
+    {
+      "source": "Jahloul Bouchikhi",
+      "target": "Ritchie Valens",
+      "colab_count": 1
+    },
+    {
+      "source": "Jahloul Bouchikhi",
+      "target": "T. Baliardo",
+      "colab_count": 3
+    },
+    {
+      "source": "Jahloul Bouchikhi",
+      "target": "Tonino Baliardo",
+      "colab_count": 2
+    },
+    {
+      "source": "James Rado",
+      "target": "Hair Ensemble",
+      "colab_count": 1
+    },
+    {
+      "source": "James Rado",
+      "target": "Lynn Kellogg",
+      "colab_count": 1
+    },
+    {
+      "source": "James Rado",
+      "target": "Melba Moore",
+      "colab_count": 1
+    },
+    {
+      "source": "Jerry Garcia",
+      "target": "Bill Vitt",
+      "colab_count": 1
+    },
+    {
+      "source": "Jerry Garcia",
+      "target": "John Kahn",
+      "colab_count": 1
+    },
+    {
+      "source": "Jerry Garcia",
+      "target": "Merl Saunders",
+      "colab_count": 1
+    },
+    {
+      "source": "Johnny Cash",
+      "target": "David Ferguson",
+      "colab_count": 1
+    },
+    {
+      "source": "Johnny Cash",
+      "target": "Hank Williams, Jr.",
+      "colab_count": 1
+    },
+    {
+      "source": "Johnny Cash",
+      "target": "Joey Miskulin",
+      "colab_count": 1
+    },
+    {
+      "source": "Johnny Cash",
+      "target": "Mark Howard",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Barry Wordsworth",
+      "colab_count": 2
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Capella Istropolitana",
+      "colab_count": 2
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Stefan Vladar",
+      "colab_count": 2
+    },
+    {
+      "source": "Marley Marl",
+      "target": "Big Daddy Kane",
+      "colab_count": 1
+    },
+    {
+      "source": "Marley Marl",
+      "target": "Craig G",
+      "colab_count": 1
+    },
+    {
+      "source": "Marley Marl",
+      "target": "Kool G Rap",
+      "colab_count": 1
+    },
+    {
+      "source": "Marley Marl",
+      "target": "Masta Ace",
+      "colab_count": 1
+    },
+    {
+      "source": "Max Bruch",
+      "target": "Academy of St. Martin in the Fields",
+      "colab_count": 1
+    },
+    {
+      "source": "Max Bruch",
+      "target": "Joshua Bell",
+      "colab_count": 1
+    },
+    {
+      "source": "Max Bruch",
+      "target": "Sir Neville Marriner",
+      "colab_count": 1
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Ben Wright",
+      "colab_count": 2
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Bernadette Peters",
+      "colab_count": 1
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Chip Zien",
+      "colab_count": 2
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Danielle Ferland",
+      "colab_count": 2
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Kim Crosby",
+      "colab_count": 2
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Paul Gemignani",
+      "colab_count": 2
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Berliner Philharmoniker",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Riccardo Muti",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Stockholm Chamber Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Stockholm Radio Chorus",
+      "colab_count": 1
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "nodes": [
+    {
+      "id": "Annie Ensemble",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bobby Tench",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Boni Enten",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Brian Auger",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bruce Scott",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Carlos Valdes",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Charles Gounod",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Dara Jamchan",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Donald Craig",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Edie Cowan",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Freddie King",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Giacomo Puccini",
+      "group": 10,
+      "song_count": 13
+    },
+    {
+      "id": "Gioachino Rossini",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Giuseppe Verdi",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Graham Jarvis",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Herbert von Karajan",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Jamie Donnelly",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jan Garbarek",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jon Christensen",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Keith Jarrett",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Laurie Beechman",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Leone Magiera",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "London Symphony Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Luciano Pavarotti",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Michael Longo",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mickey Roker",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mike Vernon",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mirella Freni",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Orchestra del Teatro Comunale di Bologna",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Palle Danielsson",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pan Ron",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Penny Worth",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pete Wingfield",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Richard Bonynge",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Ron Carter",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Ros Serey Sothea",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sinn Sisamouth",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Steve Ferrone",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Vienna State Opera Chorus",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Vienna Volksoper Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wiener Philharmoniker",
+      "group": 4,
+      "song_count": 4
+    }
+  ],
+  "links": [
+    {
+      "source": "Boni Enten",
+      "target": "Bruce Scott",
+      "colab_count": 1
+    },
+    {
+      "source": "Boni Enten",
+      "target": "Graham Jarvis",
+      "colab_count": 1
+    },
+    {
+      "source": "Boni Enten",
+      "target": "Jamie Donnelly",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Gounod",
+      "target": "Leone Magiera",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Gounod",
+      "target": "Luciano Pavarotti",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Gounod",
+      "target": "Vienna Volksoper Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Donald Craig",
+      "target": "Annie Ensemble",
+      "colab_count": 1
+    },
+    {
+      "source": "Donald Craig",
+      "target": "Edie Cowan",
+      "colab_count": 1
+    },
+    {
+      "source": "Donald Craig",
+      "target": "Laurie Beechman",
+      "colab_count": 1
+    },
+    {
+      "source": "Donald Craig",
+      "target": "Penny Worth",
+      "colab_count": 1
+    },
+    {
+      "source": "Freddie King",
+      "target": "Bobby Tench",
+      "colab_count": 2
+    },
+    {
+      "source": "Freddie King",
+      "target": "Brian Auger",
+      "colab_count": 1
+    },
+    {
+      "source": "Freddie King",
+      "target": "Mike Vernon",
+      "colab_count": 1
+    },
+    {
+      "source": "Freddie King",
+      "target": "Pete Wingfield",
+      "colab_count": 1
+    },
+    {
+      "source": "Freddie King",
+      "target": "Steve Ferrone",
+      "colab_count": 2
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Herbert von Karajan",
+      "colab_count": 4
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Luciano Pavarotti",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Mirella Freni",
+      "colab_count": 3
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Vienna State Opera Chorus",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Wiener Philharmoniker",
+      "colab_count": 4
+    },
+    {
+      "source": "Gioachino Rossini",
+      "target": "Luciano Pavarotti",
+      "colab_count": 1
+    },
+    {
+      "source": "Gioachino Rossini",
+      "target": "Orchestra del Teatro Comunale di Bologna",
+      "colab_count": 1
+    },
+    {
+      "source": "Gioachino Rossini",
+      "target": "Richard Bonynge",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "London Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Luciano Pavarotti",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Richard Bonynge",
+      "colab_count": 1
+    },
+    {
+      "source": "Keith Jarrett",
+      "target": "Jan Garbarek",
+      "colab_count": 1
+    },
+    {
+      "source": "Keith Jarrett",
+      "target": "Jon Christensen",
+      "colab_count": 1
+    },
+    {
+      "source": "Keith Jarrett",
+      "target": "Palle Danielsson",
+      "colab_count": 1
+    },
+    {
+      "source": "Ron Carter",
+      "target": "Carlos Valdes",
+      "colab_count": 1
+    },
+    {
+      "source": "Ron Carter",
+      "target": "Michael Longo",
+      "colab_count": 1
+    },
+    {
+      "source": "Ron Carter",
+      "target": "Mickey Roker",
+      "colab_count": 1
+    },
+    {
+      "source": "Sinn Sisamouth",
+      "target": "Dara Jamchan",
+      "colab_count": 1
+    },
+    {
+      "source": "Sinn Sisamouth",
+      "target": "Pan Ron",
+      "colab_count": 1
+    },
+    {
+      "source": "Sinn Sisamouth",
+      "target": "Ros Serey Sothea",
+      "colab_count": 1
+    }
+  ]
+}

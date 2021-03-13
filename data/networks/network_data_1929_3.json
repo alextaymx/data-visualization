@@ -1,0 +1,301 @@
+{
+  "nodes": [
+    {
+      "id": "Adele Kern",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Denominado chu",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Eduard Kandl",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Elfriede Marherr",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Elisabeth Ohms",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Else Ruziczka",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Enfediskoz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ernesto Tagliaferri",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Giuseppe Verdi",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Hermann Weigert",
+      "group": 10,
+      "song_count": 10
+    },
+    {
+      "id": "Johann Heidenreich",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Johann Strauss II",
+      "group": 10,
+      "song_count": 45
+    },
+    {
+      "id": "Julius Patzak",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Julius Pruwer",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Leonard Kern",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Ludwig van Beethoven",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Manfred Gurlitt",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Margret Pfahl",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Mist Kiila",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Osman Perez Freire",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Psycoprata",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Richard Strauss",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "SativanderGround",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Staatskapelle Berlin",
+      "group": 10,
+      "song_count": 10
+    },
+    {
+      "id": "Umberto Urbano",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Unknown Orchestra",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Waldemar Henke",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Willi Domgraf-Fassbaender",
+      "group": 3,
+      "song_count": 3
+    }
+  ],
+  "links": [
+    {
+      "source": "Ernesto Tagliaferri",
+      "target": "Manfred Gurlitt",
+      "colab_count": 1
+    },
+    {
+      "source": "Ernesto Tagliaferri",
+      "target": "Umberto Urbano",
+      "colab_count": 1
+    },
+    {
+      "source": "Ernesto Tagliaferri",
+      "target": "Unknown Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Julius Patzak",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Manfred Gurlitt",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Unknown Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Strauss II",
+      "target": "Adele Kern",
+      "colab_count": 5
+    },
+    {
+      "source": "Johann Strauss II",
+      "target": "Eduard Kandl",
+      "colab_count": 2
+    },
+    {
+      "source": "Johann Strauss II",
+      "target": "Else Ruziczka",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Strauss II",
+      "target": "Hermann Weigert",
+      "colab_count": 10
+    },
+    {
+      "source": "Johann Strauss II",
+      "target": "Leonard Kern",
+      "colab_count": 2
+    },
+    {
+      "source": "Johann Strauss II",
+      "target": "Margret Pfahl",
+      "colab_count": 6
+    },
+    {
+      "source": "Johann Strauss II",
+      "target": "Staatskapelle Berlin",
+      "colab_count": 10
+    },
+    {
+      "source": "Johann Strauss II",
+      "target": "Waldemar Henke",
+      "colab_count": 6
+    },
+    {
+      "source": "Johann Strauss II",
+      "target": "Willi Domgraf-Fassbaender",
+      "colab_count": 3
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Elisabeth Ohms",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Manfred Gurlitt",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Unknown Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Osman Perez Freire",
+      "target": "Johann Heidenreich",
+      "colab_count": 1
+    },
+    {
+      "source": "Osman Perez Freire",
+      "target": "Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Osman Perez Freire",
+      "target": "Umberto Urbano",
+      "colab_count": 1
+    },
+    {
+      "source": "Psycoprata",
+      "target": "Denominado chu",
+      "colab_count": 1
+    },
+    {
+      "source": "Psycoprata",
+      "target": "Enfediskoz",
+      "colab_count": 1
+    },
+    {
+      "source": "Psycoprata",
+      "target": "Mist Kiila",
+      "colab_count": 1
+    },
+    {
+      "source": "Psycoprata",
+      "target": "SativanderGround",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Adele Kern",
+      "colab_count": 2
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Elfriede Marherr",
+      "colab_count": 2
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Elisabeth Ohms",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Julius Pruwer",
+      "colab_count": 2
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Unknown Orchestra",
+      "colab_count": 2
+    }
+  ]
+}

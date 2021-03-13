@@ -1,0 +1,396 @@
+{
+  "nodes": [
+    {
+      "id": "Angela Lansbury",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Anton Guadagno",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bob Gunton",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "CHIC",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Cris Groenendaal",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dale Clevenger",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Darren Henson",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Edmund Lyndeck",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Francesco Paolo Tosti",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Frank Kopyc",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Franz Liszt Chamber Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Gary Graffman",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "George Gershwin",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Jack Eric Williams",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jean-Claude Malgoire",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jeff Townes",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Joaquin Romaguera",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Johann Sebastian Bach",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Karl Richter",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Keith Pelzer",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ken Jennings",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Len Cariou",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Luciano Pavarotti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mandy Patinkin",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Mark Syers",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Merle Louise",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "New York Philharmonic",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Orchestra del Teatro Comunale di Bologna",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Original Broadway Cast Of Evita",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Original Broadway Cast Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Patti LuPone",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Paul Gemignani",
+      "group": 10,
+      "song_count": 17
+    },
+    {
+      "id": "Peter Schreier",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Richard Warren Pugh",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sarah Rice",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Stephen Sondheim",
+      "group": 10,
+      "song_count": 69
+    },
+    {
+      "id": "Sweeney Todd: The Demon Barber of Fleet Street Original Broadway Cast Ensemble",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Victor Garber",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Wolfgang Amadeus Mozart",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Zubin Mehta",
+      "group": 1,
+      "song_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Bob Gunton",
+      "target": "Mandy Patinkin",
+      "colab_count": 2
+    },
+    {
+      "source": "Bob Gunton",
+      "target": "Original Broadway Cast Of Evita",
+      "colab_count": 2
+    },
+    {
+      "source": "Bob Gunton",
+      "target": "Patti LuPone",
+      "colab_count": 2
+    },
+    {
+      "source": "CHIC",
+      "target": "Darren Henson",
+      "colab_count": 1
+    },
+    {
+      "source": "CHIC",
+      "target": "Jeff Townes",
+      "colab_count": 1
+    },
+    {
+      "source": "CHIC",
+      "target": "Keith Pelzer",
+      "colab_count": 1
+    },
+    {
+      "source": "Francesco Paolo Tosti",
+      "target": "Anton Guadagno",
+      "colab_count": 1
+    },
+    {
+      "source": "Francesco Paolo Tosti",
+      "target": "Luciano Pavarotti",
+      "colab_count": 1
+    },
+    {
+      "source": "Francesco Paolo Tosti",
+      "target": "Orchestra del Teatro Comunale di Bologna",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Gary Graffman",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "New York Philharmonic",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Zubin Mehta",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Karl Richter",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Peter Schreier",
+      "colab_count": 1
+    },
+    {
+      "source": "Mandy Patinkin",
+      "target": "Bob Gunton",
+      "colab_count": 1
+    },
+    {
+      "source": "Mandy Patinkin",
+      "target": "Original Broadway Cast Of Evita",
+      "colab_count": 1
+    },
+    {
+      "source": "Mandy Patinkin",
+      "target": "Patti LuPone",
+      "colab_count": 1
+    },
+    {
+      "source": "Patti LuPone",
+      "target": "Mandy Patinkin",
+      "colab_count": 1
+    },
+    {
+      "source": "Patti LuPone",
+      "target": "Mark Syers",
+      "colab_count": 1
+    },
+    {
+      "source": "Patti LuPone",
+      "target": "Original Broadway Cast Of Evita",
+      "colab_count": 1
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Angela Lansbury",
+      "colab_count": 8
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Cris Groenendaal",
+      "colab_count": 1
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Edmund Lyndeck",
+      "colab_count": 3
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Frank Kopyc",
+      "colab_count": 1
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Jack Eric Williams",
+      "colab_count": 1
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Joaquin Romaguera",
+      "colab_count": 1
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Ken Jennings",
+      "colab_count": 4
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Len Cariou",
+      "colab_count": 12
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Merle Louise",
+      "colab_count": 4
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Original Broadway Cast Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Paul Gemignani",
+      "colab_count": 17
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Richard Warren Pugh",
+      "colab_count": 1
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Sarah Rice",
+      "colab_count": 4
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Sweeney Todd: The Demon Barber of Fleet Street Original Broadway Cast Ensemble",
+      "colab_count": 4
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Victor Garber",
+      "colab_count": 7
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Dale Clevenger",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Franz Liszt Chamber Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Jean-Claude Malgoire",
+      "colab_count": 1
+    }
+  ]
+}

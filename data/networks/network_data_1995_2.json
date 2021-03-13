@@ -1,0 +1,966 @@
+{
+  "nodes": [
+    {
+      "id": "2Pac",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Academy Of Choir Art Of Russia",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Adiemus",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Andrea Bocelli",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Antonio Vivaldi",
+      "group": 10,
+      "song_count": 22
+    },
+    {
+      "id": "Babyface",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Barry White",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Baybe",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Big Noyd",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Black Dog",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Brian McKnight",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bun B",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Cappadonna",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Choir of King's College, Cambridge",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Chorus - Pocahontas",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Christopher Hooker",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "City of London Sinfonia",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "DJ Screw",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Dave Greenberg",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "David Geringas",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "David Ogden Stiers",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dreddy Kruger",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Drottningholm Baroque Ensemble",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Duran Duran",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "E-40",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Fat Joe",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Father Dom",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Foxy Brown",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Franz Schubert",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "GZA",
+      "group": 10,
+      "song_count": 10
+    },
+    {
+      "id": "GZA (Genius)",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Georg Philipp Telemann",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "George Frideric Handel",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Ghostface Killah",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Gipsy Kings",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Grandmaster Flash",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Grandmaster Melle Mel",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Guru",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Guru's Jazzmatazz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Hervey Alan",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Insane Clown Posse",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Inspectah Deck",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Irena Grafenauer",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jahloul Bouchikhi",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "James Moody",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jeno Kevehazi",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jim Cummings",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Joanna Graham",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jody K. Jenkins",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Johann Sebastian Bach",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Jozsef Vajda",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Judy Kuhn",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Karl Jenkins",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Keith Murray",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Killah Priest",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "LL Cool J",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "London Philharmonic Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "London Symphony Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Los Reyes",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lost Boyz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ludwig van Beethoven",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "MC Breed",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mac Mall",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Maria Graf",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mary Carewe",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Masta Killa",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Method Man",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Mike E. Clark",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mike Ratledge",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mobb Deep",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Mona Lisa",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Moscow Radio Symphony Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mr. Sex",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "N. Reyes",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Nicholas Kraemer",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Niklas Eklund",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Nils-Erik Sparf",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ol' Dirty Bastard",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Paul Ferguson",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pimp C",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Portrait",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Prodigy",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Quincy Jones",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "RZA",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Rachelle Ferrell",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Raekwon",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Ralph Vaughan Williams",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Raphael Wallfisch",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Simon Preston",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sir David Willcocks",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Spice 1",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "T. Baliardo",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Take 6",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Tamia",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "The Choir Of Westminster Abbey",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "The English Concert",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "The Furious Five",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Tom \"Buttnaked\" Dawg",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Too $hort",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Trevor Pinnock",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "U-God",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "UGK",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Vladimir Fedoseyev",
+      "group": 1,
+      "song_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Antonio Vivaldi",
+      "target": "Christopher Hooker",
+      "colab_count": 1
+    },
+    {
+      "source": "Antonio Vivaldi",
+      "target": "City of London Sinfonia",
+      "colab_count": 7
+    },
+    {
+      "source": "Antonio Vivaldi",
+      "target": "Joanna Graham",
+      "colab_count": 1
+    },
+    {
+      "source": "Antonio Vivaldi",
+      "target": "Nicholas Kraemer",
+      "colab_count": 7
+    },
+    {
+      "source": "Antonio Vivaldi",
+      "target": "Raphael Wallfisch",
+      "colab_count": 6
+    },
+    {
+      "source": "Chorus - Pocahontas",
+      "target": "David Ogden Stiers",
+      "colab_count": 1
+    },
+    {
+      "source": "Chorus - Pocahontas",
+      "target": "Jim Cummings",
+      "colab_count": 1
+    },
+    {
+      "source": "Chorus - Pocahontas",
+      "target": "Judy Kuhn",
+      "colab_count": 1
+    },
+    {
+      "source": "DJ Screw",
+      "target": "Bun B",
+      "colab_count": 1
+    },
+    {
+      "source": "DJ Screw",
+      "target": "Pimp C",
+      "colab_count": 1
+    },
+    {
+      "source": "DJ Screw",
+      "target": "UGK",
+      "colab_count": 1
+    },
+    {
+      "source": "Duran Duran",
+      "target": "Grandmaster Flash",
+      "colab_count": 1
+    },
+    {
+      "source": "Duran Duran",
+      "target": "Grandmaster Melle Mel",
+      "colab_count": 1
+    },
+    {
+      "source": "Duran Duran",
+      "target": "The Furious Five",
+      "colab_count": 1
+    },
+    {
+      "source": "E-40",
+      "target": "2Pac",
+      "colab_count": 1
+    },
+    {
+      "source": "E-40",
+      "target": "Mac Mall",
+      "colab_count": 1
+    },
+    {
+      "source": "E-40",
+      "target": "Spice 1",
+      "colab_count": 1
+    },
+    {
+      "source": "Franz Schubert",
+      "target": "Academy Of Choir Art Of Russia",
+      "colab_count": 1
+    },
+    {
+      "source": "Franz Schubert",
+      "target": "Andrea Bocelli",
+      "colab_count": 1
+    },
+    {
+      "source": "Franz Schubert",
+      "target": "Moscow Radio Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Franz Schubert",
+      "target": "Vladimir Fedoseyev",
+      "colab_count": 1
+    },
+    {
+      "source": "GZA",
+      "target": "Dreddy Kruger",
+      "colab_count": 1
+    },
+    {
+      "source": "GZA",
+      "target": "Ghostface Killah",
+      "colab_count": 2
+    },
+    {
+      "source": "GZA",
+      "target": "Inspectah Deck",
+      "colab_count": 1
+    },
+    {
+      "source": "GZA",
+      "target": "Killah Priest",
+      "colab_count": 1
+    },
+    {
+      "source": "GZA",
+      "target": "Masta Killa",
+      "colab_count": 1
+    },
+    {
+      "source": "GZA",
+      "target": "Ol' Dirty Bastard",
+      "colab_count": 1
+    },
+    {
+      "source": "GZA",
+      "target": "RZA",
+      "colab_count": 1
+    },
+    {
+      "source": "GZA",
+      "target": "Raekwon",
+      "colab_count": 1
+    },
+    {
+      "source": "GZA",
+      "target": "U-God",
+      "colab_count": 1
+    },
+    {
+      "source": "Georg Philipp Telemann",
+      "target": "Drottningholm Baroque Ensemble",
+      "colab_count": 1
+    },
+    {
+      "source": "Georg Philipp Telemann",
+      "target": "Niklas Eklund",
+      "colab_count": 1
+    },
+    {
+      "source": "Georg Philipp Telemann",
+      "target": "Nils-Erik Sparf",
+      "colab_count": 1
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "Simon Preston",
+      "colab_count": 1
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "The Choir Of Westminster Abbey",
+      "colab_count": 1
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "The English Concert",
+      "colab_count": 1
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "Trevor Pinnock",
+      "colab_count": 1
+    },
+    {
+      "source": "Gipsy Kings",
+      "target": "Jahloul Bouchikhi",
+      "colab_count": 2
+    },
+    {
+      "source": "Gipsy Kings",
+      "target": "Los Reyes",
+      "colab_count": 1
+    },
+    {
+      "source": "Gipsy Kings",
+      "target": "N. Reyes",
+      "colab_count": 2
+    },
+    {
+      "source": "Gipsy Kings",
+      "target": "T. Baliardo",
+      "colab_count": 2
+    },
+    {
+      "source": "Guru",
+      "target": "Baybe",
+      "colab_count": 1
+    },
+    {
+      "source": "Guru",
+      "target": "Guru's Jazzmatazz",
+      "colab_count": 1
+    },
+    {
+      "source": "Guru",
+      "target": "Paul Ferguson",
+      "colab_count": 1
+    },
+    {
+      "source": "Insane Clown Posse",
+      "target": "Black Dog",
+      "colab_count": 1
+    },
+    {
+      "source": "Insane Clown Posse",
+      "target": "Dave Greenberg",
+      "colab_count": 1
+    },
+    {
+      "source": "Insane Clown Posse",
+      "target": "Mike E. Clark",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "David Geringas",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Irena Grafenauer",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Maria Graf",
+      "colab_count": 1
+    },
+    {
+      "source": "Karl Jenkins",
+      "target": "Adiemus",
+      "colab_count": 1
+    },
+    {
+      "source": "Karl Jenkins",
+      "target": "Jody K. Jenkins",
+      "colab_count": 1
+    },
+    {
+      "source": "Karl Jenkins",
+      "target": "London Philharmonic Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Karl Jenkins",
+      "target": "Mary Carewe",
+      "colab_count": 1
+    },
+    {
+      "source": "Karl Jenkins",
+      "target": "Mike Ratledge",
+      "colab_count": 1
+    },
+    {
+      "source": "LL Cool J",
+      "target": "Fat Joe",
+      "colab_count": 1
+    },
+    {
+      "source": "LL Cool J",
+      "target": "Foxy Brown",
+      "colab_count": 1
+    },
+    {
+      "source": "LL Cool J",
+      "target": "Keith Murray",
+      "colab_count": 1
+    },
+    {
+      "source": "LL Cool J",
+      "target": "Prodigy",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Jeno Kevehazi",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Jozsef Vajda",
+      "colab_count": 1
+    },
+    {
+      "source": "Mobb Deep",
+      "target": "Big Noyd",
+      "colab_count": 1
+    },
+    {
+      "source": "Mobb Deep",
+      "target": "Ghostface Killah",
+      "colab_count": 1
+    },
+    {
+      "source": "Mobb Deep",
+      "target": "Raekwon",
+      "colab_count": 1
+    },
+    {
+      "source": "Mona Lisa",
+      "target": "Lost Boyz",
+      "colab_count": 1
+    },
+    {
+      "source": "Mona Lisa",
+      "target": "Mr. Sex",
+      "colab_count": 1
+    },
+    {
+      "source": "Mona Lisa",
+      "target": "Tom \"Buttnaked\" Dawg",
+      "colab_count": 1
+    },
+    {
+      "source": "Quincy Jones",
+      "target": "Babyface",
+      "colab_count": 1
+    },
+    {
+      "source": "Quincy Jones",
+      "target": "Barry White",
+      "colab_count": 1
+    },
+    {
+      "source": "Quincy Jones",
+      "target": "Brian McKnight",
+      "colab_count": 1
+    },
+    {
+      "source": "Quincy Jones",
+      "target": "James Moody",
+      "colab_count": 1
+    },
+    {
+      "source": "Quincy Jones",
+      "target": "Portrait",
+      "colab_count": 1
+    },
+    {
+      "source": "Quincy Jones",
+      "target": "Rachelle Ferrell",
+      "colab_count": 1
+    },
+    {
+      "source": "Quincy Jones",
+      "target": "Take 6",
+      "colab_count": 1
+    },
+    {
+      "source": "Quincy Jones",
+      "target": "Tamia",
+      "colab_count": 1
+    },
+    {
+      "source": "Raekwon",
+      "target": "Cappadonna",
+      "colab_count": 1
+    },
+    {
+      "source": "Raekwon",
+      "target": "GZA (Genius)",
+      "colab_count": 1
+    },
+    {
+      "source": "Raekwon",
+      "target": "Ghostface Killah",
+      "colab_count": 3
+    },
+    {
+      "source": "Raekwon",
+      "target": "Inspectah Deck",
+      "colab_count": 1
+    },
+    {
+      "source": "Raekwon",
+      "target": "Masta Killa",
+      "colab_count": 1
+    },
+    {
+      "source": "Raekwon",
+      "target": "Method Man",
+      "colab_count": 2
+    },
+    {
+      "source": "Raekwon",
+      "target": "RZA",
+      "colab_count": 1
+    },
+    {
+      "source": "Ralph Vaughan Williams",
+      "target": "Choir of King's College, Cambridge",
+      "colab_count": 1
+    },
+    {
+      "source": "Ralph Vaughan Williams",
+      "target": "Hervey Alan",
+      "colab_count": 1
+    },
+    {
+      "source": "Ralph Vaughan Williams",
+      "target": "London Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Ralph Vaughan Williams",
+      "target": "Sir David Willcocks",
+      "colab_count": 1
+    },
+    {
+      "source": "Too $hort",
+      "target": "2Pac",
+      "colab_count": 1
+    },
+    {
+      "source": "Too $hort",
+      "target": "Father Dom",
+      "colab_count": 1
+    },
+    {
+      "source": "Too $hort",
+      "target": "MC Breed",
+      "colab_count": 1
+    }
+  ]
+}

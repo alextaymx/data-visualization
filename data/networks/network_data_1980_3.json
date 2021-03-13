@@ -1,0 +1,246 @@
+{
+  "nodes": [
+    {
+      "id": "Amilcare Ponchielli",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Andrew Lloyd Webber",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Andy Gibb",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Barry Gibb",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Carlo Maria Giulini",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Claudio Abbado",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dame Joan Sutherland",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Eric Brockington",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Giuseppe Verdi",
+      "group": 10,
+      "song_count": 10
+    },
+    {
+      "id": "Harry Rabinowitz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Irene Cara",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Laura Dean",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Leone Magiera",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "London Philharmonic Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Luciano Pavarotti",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Marti Webb",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Maurice Gibb",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "National Philharmonic Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "New Philharmonia Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Orchestra Del Teatro Alla Scala, Milano",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Paul McCrane",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Richard Bonynge",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Robin Gibb",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "The London Opera Chorus",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Traci Parnell",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wiener Philharmoniker",
+      "group": 1,
+      "song_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Amilcare Ponchielli",
+      "target": "Leone Magiera",
+      "colab_count": 1
+    },
+    {
+      "source": "Amilcare Ponchielli",
+      "target": "Luciano Pavarotti",
+      "colab_count": 1
+    },
+    {
+      "source": "Amilcare Ponchielli",
+      "target": "New Philharmonia Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Harry Rabinowitz",
+      "colab_count": 1
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "London Philharmonic Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Marti Webb",
+      "colab_count": 1
+    },
+    {
+      "source": "Barry Gibb",
+      "target": "Andy Gibb",
+      "colab_count": 1
+    },
+    {
+      "source": "Barry Gibb",
+      "target": "Maurice Gibb",
+      "colab_count": 1
+    },
+    {
+      "source": "Barry Gibb",
+      "target": "Robin Gibb",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Carlo Maria Giulini",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Claudio Abbado",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Dame Joan Sutherland",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Luciano Pavarotti",
+      "colab_count": 2
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "National Philharmonic Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Orchestra Del Teatro Alla Scala, Milano",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Richard Bonynge",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "The London Opera Chorus",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Wiener Philharmoniker",
+      "colab_count": 1
+    },
+    {
+      "source": "Laura Dean",
+      "target": "Eric Brockington",
+      "colab_count": 1
+    },
+    {
+      "source": "Laura Dean",
+      "target": "Irene Cara",
+      "colab_count": 1
+    },
+    {
+      "source": "Laura Dean",
+      "target": "Paul McCrane",
+      "colab_count": 1
+    },
+    {
+      "source": "Laura Dean",
+      "target": "Traci Parnell",
+      "colab_count": 1
+    }
+  ]
+}

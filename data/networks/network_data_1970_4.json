@@ -1,0 +1,316 @@
+{
+  "nodes": [
+    {
+      "id": "Barbara Barrie",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Beth Howland",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Charles Braswell",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Charles Kimbrough",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Claudio Scimone",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Company Ensemble",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Cristina Deutekom",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Daniel Barenboim",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dean Jones",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Django Reinhardt",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Donna McKechnie",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Elaine Stritch",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "George Coe",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Giuseppe Verdi",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Harold Hastings",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "I Solisti Veneti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Leontyne Price",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ludwig van Beethoven",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Michel Warlop",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "New Philharmonia Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Original Broadway Cast Orchestra",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Pamela Myers",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Pierre Pierlot",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pinchas Zukerman",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Quintette du Hot Club de France",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sir Georg Solti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Stephen Sondheim",
+      "group": 10,
+      "song_count": 35
+    },
+    {
+      "id": "Steve Elmore",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Susan Browning",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Teri Ralston",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Tomaso Albinoni",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Wiener Philharmoniker",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wolfgang Amadeus Mozart",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Zubin Mehta",
+      "group": 1,
+      "song_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Django Reinhardt",
+      "target": "Michel Warlop",
+      "colab_count": 1
+    },
+    {
+      "source": "Django Reinhardt",
+      "target": "Quintette du Hot Club de France",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Leontyne Price",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "New Philharmonia Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Zubin Mehta",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Daniel Barenboim",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Pinchas Zukerman",
+      "colab_count": 1
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Barbara Barrie",
+      "colab_count": 1
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Beth Howland",
+      "colab_count": 1
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Charles Braswell",
+      "colab_count": 1
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Charles Kimbrough",
+      "colab_count": 1
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Company Ensemble",
+      "colab_count": 5
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Dean Jones",
+      "colab_count": 4
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Donna McKechnie",
+      "colab_count": 1
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Elaine Stritch",
+      "colab_count": 2
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "George Coe",
+      "colab_count": 2
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Harold Hastings",
+      "colab_count": 9
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Original Broadway Cast Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Pamela Myers",
+      "colab_count": 2
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Steve Elmore",
+      "colab_count": 1
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Susan Browning",
+      "colab_count": 1
+    },
+    {
+      "source": "Stephen Sondheim",
+      "target": "Teri Ralston",
+      "colab_count": 1
+    },
+    {
+      "source": "Tomaso Albinoni",
+      "target": "Claudio Scimone",
+      "colab_count": 1
+    },
+    {
+      "source": "Tomaso Albinoni",
+      "target": "I Solisti Veneti",
+      "colab_count": 1
+    },
+    {
+      "source": "Tomaso Albinoni",
+      "target": "Pierre Pierlot",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Cristina Deutekom",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Sir Georg Solti",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Wiener Philharmoniker",
+      "colab_count": 1
+    }
+  ]
+}

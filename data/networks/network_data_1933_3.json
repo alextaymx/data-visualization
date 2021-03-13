@@ -1,0 +1,171 @@
+{
+  "nodes": [
+    {
+      "id": "Adele Kern",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Alois Melichar",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Chor Der Staatsoper Berlin",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Elly Ney",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Ensemble der Staatsoper Berlin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Erna Berger",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Georges Bizet",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Giuseppe Verdi",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Heinrich Schlusnus",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Johannes Brahms",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Ludwig Hoelscher",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Ludwig van Beethoven",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Richard Strauss",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Staatskapelle Berlin",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Wilhelm Stross",
+      "group": 4,
+      "song_count": 4
+    }
+  ],
+  "links": [
+    {
+      "source": "Georges Bizet",
+      "target": "Alois Melichar",
+      "colab_count": 1
+    },
+    {
+      "source": "Georges Bizet",
+      "target": "Chor Der Staatsoper Berlin",
+      "colab_count": 1
+    },
+    {
+      "source": "Georges Bizet",
+      "target": "Heinrich Schlusnus",
+      "colab_count": 1
+    },
+    {
+      "source": "Georges Bizet",
+      "target": "Staatskapelle Berlin",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Alois Melichar",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Chor Der Staatsoper Berlin",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Ensemble der Staatsoper Berlin",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Erna Berger",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Heinrich Schlusnus",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Staatskapelle Berlin",
+      "colab_count": 1
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Elly Ney",
+      "colab_count": 4
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Ludwig Hoelscher",
+      "colab_count": 4
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Wilhelm Stross",
+      "colab_count": 4
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Alois Melichar",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Staatskapelle Berlin",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Adele Kern",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Alois Melichar",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Staatskapelle Berlin",
+      "colab_count": 1
+    }
+  ]
+}

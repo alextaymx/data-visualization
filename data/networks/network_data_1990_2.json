@@ -1,0 +1,376 @@
+{
+  "nodes": [
+    {
+      "id": "Alexander Borodin",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Andrea Martin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Arcangelo Corelli",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Bell Biv DeVoe",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Capella Istropolitana",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Concentus Hungaricus",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Edward Brewer",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Eric Bartlett",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Eric Sadler",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Eric Wyrick",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Gaetano Donizetti",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Gothenburg Symphony Chorus",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Gothenburg Symphony Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Hank Shocklee",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Hans Vonk",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "James Levine",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Joanna Borowska",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Johannes Wildner",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "John Dickie",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Johnny Cash",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Keith Shocklee",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kris Kristofferson",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Luciano Pavarotti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Matyas Antal",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Metropolitan Opera Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Naoko Tanaka",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Orpheus Chamber Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Peter Mikulas",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Priti Coles",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rohangiz Yachmi",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sabine Meyer",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Slovak Philharmonic Chorus",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Staatskapelle Dresden",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Stephen Gunzenhauser",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Takako Nishizaki",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "The Highwaymen",
+      "group": 10,
+      "song_count": 24
+    },
+    {
+      "id": "Torgny Sporsen",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Waylon Jennings",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Willie Nelson",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Wolfgang Amadeus Mozart",
+      "group": 10,
+      "song_count": 33
+    }
+  ],
+  "links": [
+    {
+      "source": "Alexander Borodin",
+      "target": "Gothenburg Symphony Chorus",
+      "colab_count": 1
+    },
+    {
+      "source": "Alexander Borodin",
+      "target": "Gothenburg Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Alexander Borodin",
+      "target": "Torgny Sporsen",
+      "colab_count": 1
+    },
+    {
+      "source": "Arcangelo Corelli",
+      "target": "Edward Brewer",
+      "colab_count": 1
+    },
+    {
+      "source": "Arcangelo Corelli",
+      "target": "Eric Bartlett",
+      "colab_count": 1
+    },
+    {
+      "source": "Arcangelo Corelli",
+      "target": "Eric Wyrick",
+      "colab_count": 1
+    },
+    {
+      "source": "Arcangelo Corelli",
+      "target": "Naoko Tanaka",
+      "colab_count": 1
+    },
+    {
+      "source": "Arcangelo Corelli",
+      "target": "Orpheus Chamber Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Bell Biv DeVoe",
+      "target": "Eric Sadler",
+      "colab_count": 1
+    },
+    {
+      "source": "Bell Biv DeVoe",
+      "target": "Hank Shocklee",
+      "colab_count": 1
+    },
+    {
+      "source": "Bell Biv DeVoe",
+      "target": "Keith Shocklee",
+      "colab_count": 1
+    },
+    {
+      "source": "Gaetano Donizetti",
+      "target": "James Levine",
+      "colab_count": 1
+    },
+    {
+      "source": "Gaetano Donizetti",
+      "target": "Luciano Pavarotti",
+      "colab_count": 1
+    },
+    {
+      "source": "Gaetano Donizetti",
+      "target": "Metropolitan Opera Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "The Highwaymen",
+      "target": "Johnny Cash",
+      "colab_count": 6
+    },
+    {
+      "source": "The Highwaymen",
+      "target": "Kris Kristofferson",
+      "colab_count": 6
+    },
+    {
+      "source": "The Highwaymen",
+      "target": "Waylon Jennings",
+      "colab_count": 6
+    },
+    {
+      "source": "The Highwaymen",
+      "target": "Willie Nelson",
+      "colab_count": 6
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Andrea Martin",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Capella Istropolitana",
+      "colab_count": 6
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Concentus Hungaricus",
+      "colab_count": 4
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Hans Vonk",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Joanna Borowska",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Johannes Wildner",
+      "colab_count": 3
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "John Dickie",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Matyas Antal",
+      "colab_count": 2
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Peter Mikulas",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Priti Coles",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Rohangiz Yachmi",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Sabine Meyer",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Slovak Philharmonic Chorus",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Staatskapelle Dresden",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Stephen Gunzenhauser",
+      "colab_count": 3
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Takako Nishizaki",
+      "colab_count": 5
+    }
+  ]
+}

@@ -1,0 +1,636 @@
+{
+  "nodes": [
+    {
+      "id": "Academy of St. Martin in the Fields",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Alvin Stoller",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Andrew Davis",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Andrew Lloyd Webber",
+      "group": 10,
+      "song_count": 60
+    },
+    {
+      "id": "Anna Tomowa-Sintow",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Anne Sofie von Otter",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Art Tatum",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Barbara Bonney",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Benny Goodman",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Benny Goodman Trio",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Buddy Tate",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Carlo Maria Giulini",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Charles Hart",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Cheryl Studer",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Chicago Symphony Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Colm Wilkinson",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Coro e Orchestra del Teatro alla Scala, Milano",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "David Bryant",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "David Firth",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Dolora Zajick",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Elmer Iseler Singers",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "English Baroque Soloists",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Eugene Ramey",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Florence Quivar",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Frances Ruffelle",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Franz Joseph Haydn",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Gene Krupa",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "George Frideric Handel",
+      "group": 10,
+      "song_count": 56
+    },
+    {
+      "id": "Giuseppe Verdi",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Gus Johnson, Jr.",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Herbert von Karajan",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Janet Devenish",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Janos Kurucz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jay McShann",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Johann Sebastian Bach",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "John Aler",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "John Aron",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "John Eliot Gardiner",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "John Savident",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "John Simmons",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Judy Kuhn",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Julian Dash",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Kathleen Battle",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Luciano Pavarotti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mary Millar",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Michael Crawford",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Orchestra Del Teatro Alla Scala, Milano",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Phantom Of The Opera Original London Cast",
+      "group": 10,
+      "song_count": 15
+    },
+    {
+      "id": "Riccardo Muti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Richard Stilgoe",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rosemary Ashe",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Roy Eldridge",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Samuel Ramey",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Sarah Brightman",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Sir Georg Solti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sir Neville Marriner",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Steve Barton",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Teddy Wilson",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "The Monteverdi Choir",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Toronto Mendelssohn Choir",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Toronto Symphony Orchestra",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Vladimir Horowitz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wiener Philharmoniker",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Wiener Singverein",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Wolfgang Amadeus Mozart",
+      "group": 10,
+      "song_count": 26
+    }
+  ],
+  "links": [
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Charles Hart",
+      "colab_count": 1
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "David Firth",
+      "colab_count": 3
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Janet Devenish",
+      "colab_count": 2
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "John Aron",
+      "colab_count": 1
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "John Savident",
+      "colab_count": 3
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Mary Millar",
+      "colab_count": 2
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Michael Crawford",
+      "colab_count": 9
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Phantom Of The Opera Original London Cast",
+      "colab_count": 14
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Rosemary Ashe",
+      "colab_count": 3
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Sarah Brightman",
+      "colab_count": 12
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Steve Barton",
+      "colab_count": 9
+    },
+    {
+      "source": "Art Tatum",
+      "target": "Alvin Stoller",
+      "colab_count": 1
+    },
+    {
+      "source": "Art Tatum",
+      "target": "John Simmons",
+      "colab_count": 1
+    },
+    {
+      "source": "Art Tatum",
+      "target": "Roy Eldridge",
+      "colab_count": 1
+    },
+    {
+      "source": "Benny Goodman Trio",
+      "target": "Benny Goodman",
+      "colab_count": 2
+    },
+    {
+      "source": "Benny Goodman Trio",
+      "target": "Gene Krupa",
+      "colab_count": 2
+    },
+    {
+      "source": "Benny Goodman Trio",
+      "target": "Teddy Wilson",
+      "colab_count": 2
+    },
+    {
+      "source": "Charles Hart",
+      "target": "Andrew Lloyd Webber",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Hart",
+      "target": "Janet Devenish",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Hart",
+      "target": "Janos Kurucz",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Hart",
+      "target": "Mary Millar",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Hart",
+      "target": "Phantom Of The Opera Original London Cast",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Hart",
+      "target": "Richard Stilgoe",
+      "colab_count": 1
+    },
+    {
+      "source": "Franz Joseph Haydn",
+      "target": "Academy of St. Martin in the Fields",
+      "colab_count": 1
+    },
+    {
+      "source": "Franz Joseph Haydn",
+      "target": "Sir Neville Marriner",
+      "colab_count": 1
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "Andrew Davis",
+      "colab_count": 7
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "Elmer Iseler Singers",
+      "colab_count": 7
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "Florence Quivar",
+      "colab_count": 7
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "John Aler",
+      "colab_count": 7
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "Kathleen Battle",
+      "colab_count": 7
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "Samuel Ramey",
+      "colab_count": 7
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "Toronto Mendelssohn Choir",
+      "colab_count": 7
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "Toronto Symphony Orchestra",
+      "colab_count": 7
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Cheryl Studer",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Coro e Orchestra del Teatro alla Scala, Milano",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Dolora Zajick",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Luciano Pavarotti",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Orchestra Del Teatro Alla Scala, Milano",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Riccardo Muti",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Samuel Ramey",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Anne Sofie von Otter",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Chicago Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Sir Georg Solti",
+      "colab_count": 1
+    },
+    {
+      "source": "Judy Kuhn",
+      "target": "Colm Wilkinson",
+      "colab_count": 1
+    },
+    {
+      "source": "Judy Kuhn",
+      "target": "David Bryant",
+      "colab_count": 1
+    },
+    {
+      "source": "Judy Kuhn",
+      "target": "Frances Ruffelle",
+      "colab_count": 1
+    },
+    {
+      "source": "Julian Dash",
+      "target": "Buddy Tate",
+      "colab_count": 1
+    },
+    {
+      "source": "Julian Dash",
+      "target": "Eugene Ramey",
+      "colab_count": 1
+    },
+    {
+      "source": "Julian Dash",
+      "target": "Gus Johnson, Jr.",
+      "colab_count": 1
+    },
+    {
+      "source": "Julian Dash",
+      "target": "Jay McShann",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Anna Tomowa-Sintow",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Barbara Bonney",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Carlo Maria Giulini",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "English Baroque Soloists",
+      "colab_count": 4
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Herbert von Karajan",
+      "colab_count": 3
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "John Eliot Gardiner",
+      "colab_count": 4
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Orchestra Del Teatro Alla Scala, Milano",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "The Monteverdi Choir",
+      "colab_count": 4
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Vladimir Horowitz",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Wiener Philharmoniker",
+      "colab_count": 3
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Wiener Singverein",
+      "colab_count": 3
+    }
+  ]
+}

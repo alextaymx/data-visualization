@@ -1,0 +1,1196 @@
+{
+  "nodes": [
+    {
+      "id": "Albert Linville",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Alceo Galliera",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Alexander Hilsberg",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Alfred Drake",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Ann Reinking",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Antonio Vivaldi",
+      "group": 10,
+      "song_count": 18
+    },
+    {
+      "id": "Bebe Neuwirth",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Bert Convy",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bruce Yarnell",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Bruno Walter",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Burton Lane",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Carl Cotner",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Cass County Boys",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Charles Lichter",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Charles William Glover",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Claribel",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Cleveland Orchestra",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Columbia Chamber Orchestra",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Columbia Concert Orchestra",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Columbia Orchestra",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Columbia Symphony Orchestra",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "D. Sabella",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dimitri Mitropoulos",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Dinu Lipatti",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Edvard Grieg",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Efrem Kurtz",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Eileen Farrell",
+      "group": 10,
+      "song_count": 20
+    },
+    {
+      "id": "Ethel Merman",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Eugene Istomin",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Eugene Ormandy",
+      "group": 10,
+      "song_count": 15
+    },
+    {
+      "id": "Franz Joseph Haydn",
+      "group": 10,
+      "song_count": 27
+    },
+    {
+      "id": "Franz Waxman",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Frederic Edward Weatherly",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Fritz Reiner",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Gene Autry",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "George Gershwin",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "George Szell",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Georges Bizet",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Guys and Dolls Ensemble (1992)",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Hair Ensemble",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Harold Arlen",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Henry Calvin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Henryk Wieniawski",
+      "group": 10,
+      "song_count": 18
+    },
+    {
+      "id": "Hugh Martin",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Irving Berlin",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Isaac Stern",
+      "group": 10,
+      "song_count": 54
+    },
+    {
+      "id": "J.K. Simmons",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jack McCauley",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "James Lyman Molloy",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "James Rado",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Jean-Pierre Rampal",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Jerome Kern",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Jerry Orbach",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jimmie Komack",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jimmy McHugh",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Johann Sebastian Bach",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Johannes Brahms",
+      "group": 10,
+      "song_count": 27
+    },
+    {
+      "id": "John Borstelmann",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Joseph Stafford",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Julia Migenes",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kathy Nolan",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kurt Weill",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Lee Venora",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Leon Fleisher",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Leonard Bernstein",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Leonard Rose",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Lois Lee",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Luther Henderson",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Luther Henderson Orchestra",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Lynn Kellogg",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Maria Karnilova",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mary Martin",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Maurice Ravel",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Max Bruch",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Melba Moore",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Michael William Balfe",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Mstislav Rostropovich",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Nanette Fabray",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Nathan Lane",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Nathaniel Frey",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "New York Philharmonic",
+      "group": 10,
+      "song_count": 18
+    },
+    {
+      "id": "Nikolai Rimsky-Korsakov",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Pablo de Sarasate",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Phil Silvers",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Philadelphia Orchestra",
+      "group": 10,
+      "song_count": 18
+    },
+    {
+      "id": "Philharmonia Orchestra",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Pittsburgh Symphony Orchestra",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Pyotr Ilyich Tchaikovsky",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Richard Banke",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Richard Rodgers",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Richard Wagner",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Robert Casadesus",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Robert Harrington",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Royal Philharmonic Orchestra",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Rudolf Serkin",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Rufus Smith",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Russ Brown",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Sergei Prokofiev",
+      "group": 10,
+      "song_count": 27
+    },
+    {
+      "id": "Sir Thomas Beecham",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Symphony Orchestra",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "The King Sisters",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Thomas Moore",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Walter Bobbie",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wolfgang Amadeus Mozart",
+      "group": 10,
+      "song_count": 18
+    },
+    {
+      "id": "Zero Mostel",
+      "group": 3,
+      "song_count": 3
+    }
+  ],
+  "links": [
+    {
+      "source": "Alfred Drake",
+      "target": "Henry Calvin",
+      "colab_count": 1
+    },
+    {
+      "source": "Alfred Drake",
+      "target": "Lee Venora",
+      "colab_count": 1
+    },
+    {
+      "source": "Alfred Drake",
+      "target": "Richard Banke",
+      "colab_count": 1
+    },
+    {
+      "source": "Antonio Vivaldi",
+      "target": "Eugene Ormandy",
+      "colab_count": 6
+    },
+    {
+      "source": "Antonio Vivaldi",
+      "target": "Isaac Stern",
+      "colab_count": 6
+    },
+    {
+      "source": "Antonio Vivaldi",
+      "target": "Philadelphia Orchestra",
+      "colab_count": 6
+    },
+    {
+      "source": "Bebe Neuwirth",
+      "target": "Ann Reinking",
+      "colab_count": 1
+    },
+    {
+      "source": "Bebe Neuwirth",
+      "target": "D. Sabella",
+      "colab_count": 1
+    },
+    {
+      "source": "Bebe Neuwirth",
+      "target": "John Borstelmann",
+      "colab_count": 1
+    },
+    {
+      "source": "Bruce Yarnell",
+      "target": "Ethel Merman",
+      "colab_count": 1
+    },
+    {
+      "source": "Bruce Yarnell",
+      "target": "Jerry Orbach",
+      "colab_count": 1
+    },
+    {
+      "source": "Bruce Yarnell",
+      "target": "Rufus Smith",
+      "colab_count": 1
+    },
+    {
+      "source": "Burton Lane",
+      "target": "Eileen Farrell",
+      "colab_count": 1
+    },
+    {
+      "source": "Burton Lane",
+      "target": "Luther Henderson",
+      "colab_count": 1
+    },
+    {
+      "source": "Burton Lane",
+      "target": "Luther Henderson Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles William Glover",
+      "target": "Charles Lichter",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles William Glover",
+      "target": "Columbia Concert Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles William Glover",
+      "target": "Eileen Farrell",
+      "colab_count": 1
+    },
+    {
+      "source": "Claribel",
+      "target": "Charles Lichter",
+      "colab_count": 1
+    },
+    {
+      "source": "Claribel",
+      "target": "Columbia Concert Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Claribel",
+      "target": "Eileen Farrell",
+      "colab_count": 1
+    },
+    {
+      "source": "Edvard Grieg",
+      "target": "Alceo Galliera",
+      "colab_count": 3
+    },
+    {
+      "source": "Edvard Grieg",
+      "target": "Dinu Lipatti",
+      "colab_count": 3
+    },
+    {
+      "source": "Edvard Grieg",
+      "target": "Philharmonia Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Franz Joseph Haydn",
+      "target": "Columbia Orchestra",
+      "colab_count": 4
+    },
+    {
+      "source": "Franz Joseph Haydn",
+      "target": "Columbia Symphony Orchestra",
+      "colab_count": 4
+    },
+    {
+      "source": "Franz Joseph Haydn",
+      "target": "Eugene Istomin",
+      "colab_count": 2
+    },
+    {
+      "source": "Franz Joseph Haydn",
+      "target": "Isaac Stern",
+      "colab_count": 9
+    },
+    {
+      "source": "Franz Joseph Haydn",
+      "target": "Jean-Pierre Rampal",
+      "colab_count": 3
+    },
+    {
+      "source": "Franz Joseph Haydn",
+      "target": "Leonard Rose",
+      "colab_count": 2
+    },
+    {
+      "source": "Franz Joseph Haydn",
+      "target": "Mstislav Rostropovich",
+      "colab_count": 3
+    },
+    {
+      "source": "Frederic Edward Weatherly",
+      "target": "Charles Lichter",
+      "colab_count": 1
+    },
+    {
+      "source": "Frederic Edward Weatherly",
+      "target": "Columbia Concert Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Frederic Edward Weatherly",
+      "target": "Eileen Farrell",
+      "colab_count": 1
+    },
+    {
+      "source": "Gene Autry",
+      "target": "Carl Cotner",
+      "colab_count": 2
+    },
+    {
+      "source": "Gene Autry",
+      "target": "Cass County Boys",
+      "colab_count": 2
+    },
+    {
+      "source": "Gene Autry",
+      "target": "The King Sisters",
+      "colab_count": 2
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Eileen Farrell",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Luther Henderson",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Luther Henderson Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Georges Bizet",
+      "target": "Franz Waxman",
+      "colab_count": 1
+    },
+    {
+      "source": "Georges Bizet",
+      "target": "Isaac Stern",
+      "colab_count": 1
+    },
+    {
+      "source": "Georges Bizet",
+      "target": "Pablo de Sarasate",
+      "colab_count": 1
+    },
+    {
+      "source": "Harold Arlen",
+      "target": "Eileen Farrell",
+      "colab_count": 2
+    },
+    {
+      "source": "Harold Arlen",
+      "target": "Luther Henderson",
+      "colab_count": 2
+    },
+    {
+      "source": "Harold Arlen",
+      "target": "Luther Henderson Orchestra",
+      "colab_count": 2
+    },
+    {
+      "source": "Henryk Wieniawski",
+      "target": "Efrem Kurtz",
+      "colab_count": 6
+    },
+    {
+      "source": "Henryk Wieniawski",
+      "target": "Isaac Stern",
+      "colab_count": 6
+    },
+    {
+      "source": "Henryk Wieniawski",
+      "target": "New York Philharmonic",
+      "colab_count": 6
+    },
+    {
+      "source": "Hugh Martin",
+      "target": "Eileen Farrell",
+      "colab_count": 1
+    },
+    {
+      "source": "Hugh Martin",
+      "target": "Luther Henderson",
+      "colab_count": 1
+    },
+    {
+      "source": "Hugh Martin",
+      "target": "Luther Henderson Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Irving Berlin",
+      "target": "Eileen Farrell",
+      "colab_count": 1
+    },
+    {
+      "source": "Irving Berlin",
+      "target": "Luther Henderson",
+      "colab_count": 1
+    },
+    {
+      "source": "Irving Berlin",
+      "target": "Luther Henderson Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "James Lyman Molloy",
+      "target": "Charles Lichter",
+      "colab_count": 1
+    },
+    {
+      "source": "James Lyman Molloy",
+      "target": "Columbia Concert Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "James Lyman Molloy",
+      "target": "Eileen Farrell",
+      "colab_count": 1
+    },
+    {
+      "source": "James Rado",
+      "target": "Hair Ensemble",
+      "colab_count": 1
+    },
+    {
+      "source": "James Rado",
+      "target": "Lynn Kellogg",
+      "colab_count": 1
+    },
+    {
+      "source": "James Rado",
+      "target": "Melba Moore",
+      "colab_count": 1
+    },
+    {
+      "source": "Jerome Kern",
+      "target": "Eileen Farrell",
+      "colab_count": 1
+    },
+    {
+      "source": "Jerome Kern",
+      "target": "Luther Henderson",
+      "colab_count": 1
+    },
+    {
+      "source": "Jerome Kern",
+      "target": "Luther Henderson Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Jimmy McHugh",
+      "target": "Eileen Farrell",
+      "colab_count": 1
+    },
+    {
+      "source": "Jimmy McHugh",
+      "target": "Luther Henderson",
+      "colab_count": 1
+    },
+    {
+      "source": "Jimmy McHugh",
+      "target": "Luther Henderson Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Eugene Ormandy",
+      "colab_count": 3
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Isaac Stern",
+      "colab_count": 3
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Philadelphia Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Bruno Walter",
+      "colab_count": 3
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Fritz Reiner",
+      "colab_count": 3
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Isaac Stern",
+      "colab_count": 6
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "New York Philharmonic",
+      "colab_count": 3
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Pittsburgh Symphony Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Royal Philharmonic Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Rudolf Serkin",
+      "colab_count": 3
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Sir Thomas Beecham",
+      "colab_count": 3
+    },
+    {
+      "source": "Kurt Weill",
+      "target": "Eileen Farrell",
+      "colab_count": 1
+    },
+    {
+      "source": "Kurt Weill",
+      "target": "Luther Henderson",
+      "colab_count": 1
+    },
+    {
+      "source": "Kurt Weill",
+      "target": "Luther Henderson Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Mary Martin",
+      "target": "Joseph Stafford",
+      "colab_count": 1
+    },
+    {
+      "source": "Mary Martin",
+      "target": "Kathy Nolan",
+      "colab_count": 1
+    },
+    {
+      "source": "Mary Martin",
+      "target": "Robert Harrington",
+      "colab_count": 1
+    },
+    {
+      "source": "Maurice Ravel",
+      "target": "Eugene Ormandy",
+      "colab_count": 3
+    },
+    {
+      "source": "Maurice Ravel",
+      "target": "Isaac Stern",
+      "colab_count": 2
+    },
+    {
+      "source": "Maurice Ravel",
+      "target": "Philadelphia Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Maurice Ravel",
+      "target": "Robert Casadesus",
+      "colab_count": 1
+    },
+    {
+      "source": "Max Bruch",
+      "target": "Eugene Ormandy",
+      "colab_count": 3
+    },
+    {
+      "source": "Max Bruch",
+      "target": "Isaac Stern",
+      "colab_count": 3
+    },
+    {
+      "source": "Max Bruch",
+      "target": "Philadelphia Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Michael William Balfe",
+      "target": "Charles Lichter",
+      "colab_count": 1
+    },
+    {
+      "source": "Michael William Balfe",
+      "target": "Columbia Concert Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Michael William Balfe",
+      "target": "Eileen Farrell",
+      "colab_count": 1
+    },
+    {
+      "source": "Nathan Lane",
+      "target": "Guys and Dolls Ensemble (1992)",
+      "colab_count": 1
+    },
+    {
+      "source": "Nathan Lane",
+      "target": "J.K. Simmons",
+      "colab_count": 1
+    },
+    {
+      "source": "Nathan Lane",
+      "target": "Walter Bobbie",
+      "colab_count": 1
+    },
+    {
+      "source": "Nikolai Rimsky-Korsakov",
+      "target": "Franz Waxman",
+      "colab_count": 1
+    },
+    {
+      "source": "Nikolai Rimsky-Korsakov",
+      "target": "Isaac Stern",
+      "colab_count": 1
+    },
+    {
+      "source": "Nikolai Rimsky-Korsakov",
+      "target": "Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Pablo de Sarasate",
+      "target": "Columbia Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Pablo de Sarasate",
+      "target": "Franz Waxman",
+      "colab_count": 1
+    },
+    {
+      "source": "Pablo de Sarasate",
+      "target": "Isaac Stern",
+      "colab_count": 1
+    },
+    {
+      "source": "Phil Silvers",
+      "target": "Jack McCauley",
+      "colab_count": 1
+    },
+    {
+      "source": "Phil Silvers",
+      "target": "Lois Lee",
+      "colab_count": 1
+    },
+    {
+      "source": "Phil Silvers",
+      "target": "Nanette Fabray",
+      "colab_count": 1
+    },
+    {
+      "source": "Pyotr Ilyich Tchaikovsky",
+      "target": "Alexander Hilsberg",
+      "colab_count": 3
+    },
+    {
+      "source": "Pyotr Ilyich Tchaikovsky",
+      "target": "Isaac Stern",
+      "colab_count": 3
+    },
+    {
+      "source": "Pyotr Ilyich Tchaikovsky",
+      "target": "Philadelphia Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Richard Rodgers",
+      "target": "Eileen Farrell",
+      "colab_count": 3
+    },
+    {
+      "source": "Richard Rodgers",
+      "target": "Luther Henderson",
+      "colab_count": 3
+    },
+    {
+      "source": "Richard Rodgers",
+      "target": "Luther Henderson Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Franz Waxman",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Isaac Stern",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Russ Brown",
+      "target": "Albert Linville",
+      "colab_count": 1
+    },
+    {
+      "source": "Russ Brown",
+      "target": "Jimmie Komack",
+      "colab_count": 1
+    },
+    {
+      "source": "Russ Brown",
+      "target": "Nathaniel Frey",
+      "colab_count": 1
+    },
+    {
+      "source": "Sergei Prokofiev",
+      "target": "Dimitri Mitropoulos",
+      "colab_count": 3
+    },
+    {
+      "source": "Sergei Prokofiev",
+      "target": "Isaac Stern",
+      "colab_count": 9
+    },
+    {
+      "source": "Sergei Prokofiev",
+      "target": "Leonard Bernstein",
+      "colab_count": 6
+    },
+    {
+      "source": "Sergei Prokofiev",
+      "target": "New York Philharmonic",
+      "colab_count": 9
+    },
+    {
+      "source": "Thomas Moore",
+      "target": "Charles Lichter",
+      "colab_count": 3
+    },
+    {
+      "source": "Thomas Moore",
+      "target": "Columbia Concert Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Thomas Moore",
+      "target": "Eileen Farrell",
+      "colab_count": 3
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Cleveland Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Columbia Chamber Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "George Szell",
+      "colab_count": 6
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Isaac Stern",
+      "colab_count": 3
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Leon Fleisher",
+      "colab_count": 3
+    },
+    {
+      "source": "Zero Mostel",
+      "target": "Bert Convy",
+      "colab_count": 1
+    },
+    {
+      "source": "Zero Mostel",
+      "target": "Julia Migenes",
+      "colab_count": 1
+    },
+    {
+      "source": "Zero Mostel",
+      "target": "Maria Karnilova",
+      "colab_count": 1
+    }
+  ]
+}

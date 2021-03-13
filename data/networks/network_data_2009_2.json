@@ -1,0 +1,606 @@
+{
+  "nodes": [
+    {
+      "id": "Aaron Tveit",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Adam Chanler-Berat",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Alice Ripley",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Alxander Timchenko",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Andre Legacy",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Anika Noni Rose",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Axwell",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Big Sean",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bruno Campos",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bruno Coulais",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Bun B",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Carlo Colombara",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Carmen Giannattasio",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Chamillionaire",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Chris Willis",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Cisco Adler",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "D.J. Rogers",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "David Guetta",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Deborah Cox",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dirt Nasty",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Donnis",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dorrough Music",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Drake",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "E-40",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Eminem",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Fergie",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Giuseppe Verdi",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Hezekiah Walker",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Hungrarian Symphony Orchestra Budapest",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "J. Robert Spencer",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jackie Chain",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jennifer Damiano",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jermaine Dupri",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jim Jones",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kanye West",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "LMFAO",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Laidback Luke",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Laurent Petitgirard",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lil Keke",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lil Wayne",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Louis Hobson",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Love Fellowship Choir",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Marvin Sapp",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mathilde Pellegrini",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Michael-Leon Wooley",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Mickey Avalon",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Mike Jones",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Mike Posner",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Paul Wall",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pimp C",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rich Boy",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rick Ross",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Sebastian Ingrosso",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Slim Thug",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Soulja Boy",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "St. Petersburg Philharmonic Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Steve Angello",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "T-Pain",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Terence Blanchard",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Twista",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "UGK",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Veronica Simeoni",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Yuri Temirkanov",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Z-Ro",
+      "group": 1,
+      "song_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Alice Ripley",
+      "target": "Aaron Tveit",
+      "colab_count": 1
+    },
+    {
+      "source": "Alice Ripley",
+      "target": "Adam Chanler-Berat",
+      "colab_count": 1
+    },
+    {
+      "source": "Alice Ripley",
+      "target": "J. Robert Spencer",
+      "colab_count": 1
+    },
+    {
+      "source": "Alice Ripley",
+      "target": "Jennifer Damiano",
+      "colab_count": 1
+    },
+    {
+      "source": "Alice Ripley",
+      "target": "Louis Hobson",
+      "colab_count": 1
+    },
+    {
+      "source": "Axwell",
+      "target": "Deborah Cox",
+      "colab_count": 1
+    },
+    {
+      "source": "Axwell",
+      "target": "Laidback Luke",
+      "colab_count": 1
+    },
+    {
+      "source": "Axwell",
+      "target": "Sebastian Ingrosso",
+      "colab_count": 1
+    },
+    {
+      "source": "Axwell",
+      "target": "Steve Angello",
+      "colab_count": 1
+    },
+    {
+      "source": "Bruno Coulais",
+      "target": "Hungrarian Symphony Orchestra Budapest",
+      "colab_count": 1
+    },
+    {
+      "source": "Bruno Coulais",
+      "target": "Laurent Petitgirard",
+      "colab_count": 1
+    },
+    {
+      "source": "Bruno Coulais",
+      "target": "Mathilde Pellegrini",
+      "colab_count": 1
+    },
+    {
+      "source": "David Guetta",
+      "target": "Chris Willis",
+      "colab_count": 1
+    },
+    {
+      "source": "David Guetta",
+      "target": "Fergie",
+      "colab_count": 1
+    },
+    {
+      "source": "David Guetta",
+      "target": "LMFAO",
+      "colab_count": 1
+    },
+    {
+      "source": "Dorrough Music",
+      "target": "E-40",
+      "colab_count": 1
+    },
+    {
+      "source": "Dorrough Music",
+      "target": "Jermaine Dupri",
+      "colab_count": 1
+    },
+    {
+      "source": "Dorrough Music",
+      "target": "Jim Jones",
+      "colab_count": 1
+    },
+    {
+      "source": "Dorrough Music",
+      "target": "Rich Boy",
+      "colab_count": 1
+    },
+    {
+      "source": "Dorrough Music",
+      "target": "Slim Thug",
+      "colab_count": 1
+    },
+    {
+      "source": "Dorrough Music",
+      "target": "Soulja Boy",
+      "colab_count": 1
+    },
+    {
+      "source": "Drake",
+      "target": "Eminem",
+      "colab_count": 3
+    },
+    {
+      "source": "Drake",
+      "target": "Kanye West",
+      "colab_count": 3
+    },
+    {
+      "source": "Drake",
+      "target": "Lil Wayne",
+      "colab_count": 3
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Alxander Timchenko",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Carlo Colombara",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Carmen Giannattasio",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "St. Petersburg Philharmonic Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Veronica Simeoni",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Yuri Temirkanov",
+      "colab_count": 1
+    },
+    {
+      "source": "Hezekiah Walker",
+      "target": "D.J. Rogers",
+      "colab_count": 1
+    },
+    {
+      "source": "Hezekiah Walker",
+      "target": "Love Fellowship Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "Hezekiah Walker",
+      "target": "Marvin Sapp",
+      "colab_count": 1
+    },
+    {
+      "source": "Michael-Leon Wooley",
+      "target": "Anika Noni Rose",
+      "colab_count": 1
+    },
+    {
+      "source": "Michael-Leon Wooley",
+      "target": "Bruno Campos",
+      "colab_count": 1
+    },
+    {
+      "source": "Michael-Leon Wooley",
+      "target": "Terence Blanchard",
+      "colab_count": 1
+    },
+    {
+      "source": "Mickey Avalon",
+      "target": "Andre Legacy",
+      "colab_count": 1
+    },
+    {
+      "source": "Mickey Avalon",
+      "target": "Cisco Adler",
+      "colab_count": 1
+    },
+    {
+      "source": "Mickey Avalon",
+      "target": "Dirt Nasty",
+      "colab_count": 1
+    },
+    {
+      "source": "Mike Jones",
+      "target": "Lil Wayne",
+      "colab_count": 1
+    },
+    {
+      "source": "Mike Jones",
+      "target": "T-Pain",
+      "colab_count": 1
+    },
+    {
+      "source": "Mike Jones",
+      "target": "Twista",
+      "colab_count": 1
+    },
+    {
+      "source": "Mike Posner",
+      "target": "Big Sean",
+      "colab_count": 1
+    },
+    {
+      "source": "Mike Posner",
+      "target": "Donnis",
+      "colab_count": 1
+    },
+    {
+      "source": "Mike Posner",
+      "target": "Jackie Chain",
+      "colab_count": 1
+    },
+    {
+      "source": "Rick Ross",
+      "target": "Kanye West",
+      "colab_count": 1
+    },
+    {
+      "source": "Rick Ross",
+      "target": "Lil Wayne",
+      "colab_count": 1
+    },
+    {
+      "source": "Rick Ross",
+      "target": "T-Pain",
+      "colab_count": 1
+    },
+    {
+      "source": "Slim Thug",
+      "target": "Bun B",
+      "colab_count": 1
+    },
+    {
+      "source": "Slim Thug",
+      "target": "Chamillionaire",
+      "colab_count": 1
+    },
+    {
+      "source": "Slim Thug",
+      "target": "Lil Keke",
+      "colab_count": 1
+    },
+    {
+      "source": "Slim Thug",
+      "target": "Mike Jones",
+      "colab_count": 1
+    },
+    {
+      "source": "Slim Thug",
+      "target": "Paul Wall",
+      "colab_count": 1
+    },
+    {
+      "source": "Slim Thug",
+      "target": "Pimp C",
+      "colab_count": 1
+    },
+    {
+      "source": "Slim Thug",
+      "target": "UGK",
+      "colab_count": 1
+    },
+    {
+      "source": "Slim Thug",
+      "target": "Z-Ro",
+      "colab_count": 1
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "nodes": [
+    {
+      "id": "Allen Case",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Barbara Ruick",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Bernard Leighton",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bunny Berigan",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Cy Walter",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dick McDonough",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Fats Waller",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "George Gershwin",
+      "group": 10,
+      "song_count": 50
+    },
+    {
+      "id": "George Wettling",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jack Cassidy",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Lehman Engel",
+      "group": 10,
+      "song_count": 11
+    },
+    {
+      "id": "Oh, Kay! Ensemble (1955)",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Oh, Kay! Orchestra (1955)",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "P. G. Wodehouse",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Roger White",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Tommy Dorsey",
+      "group": 1,
+      "song_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Bunny Berigan",
+      "target": "Dick McDonough",
+      "colab_count": 1
+    },
+    {
+      "source": "Bunny Berigan",
+      "target": "Fats Waller",
+      "colab_count": 1
+    },
+    {
+      "source": "Bunny Berigan",
+      "target": "George Wettling",
+      "colab_count": 1
+    },
+    {
+      "source": "Bunny Berigan",
+      "target": "Tommy Dorsey",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Allen Case",
+      "colab_count": 3
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Barbara Ruick",
+      "colab_count": 6
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Bernard Leighton",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Cy Walter",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Jack Cassidy",
+      "colab_count": 6
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Lehman Engel",
+      "colab_count": 11
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Oh, Kay! Ensemble (1955)",
+      "colab_count": 8
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Oh, Kay! Orchestra (1955)",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "P. G. Wodehouse",
+      "colab_count": 12
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Roger White",
+      "colab_count": 1
+    }
+  ]
+}

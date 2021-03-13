@@ -1,0 +1,236 @@
+{
+  "nodes": [
+    {
+      "id": "Akitoshi Igarashi",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Barry Bostwick",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Brighton Festival Chorus",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Carl Orff",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Chorus of the Royal Opera House, Covent Garden",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dame Joan Sutherland",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Giacomo Puccini",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Gian Carlo Luccardi",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Howle Albert",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kiri Te Kanawa",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Little Nell",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "London Philharmonic Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "London Symphony Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Luciano Pavarotti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Nicolai Ghiaurov",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Peter Hinwood",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Quiver",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Richard Bonynge",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ron Albert",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Royal Philharmonic Orchestra",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Sir John Pritchard",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Susan Sarandon",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Takeshi Inomata",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "The Sutherland Brothers",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Vincenzo Bellini",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Yasuo Arakawa",
+      "group": 1,
+      "song_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Carl Orff",
+      "target": "Brighton Festival Chorus",
+      "colab_count": 2
+    },
+    {
+      "source": "Carl Orff",
+      "target": "Royal Philharmonic Orchestra",
+      "colab_count": 2
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Kiri Te Kanawa",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "London Philharmonic Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Sir John Pritchard",
+      "colab_count": 1
+    },
+    {
+      "source": "Susan Sarandon",
+      "target": "Barry Bostwick",
+      "colab_count": 1
+    },
+    {
+      "source": "Susan Sarandon",
+      "target": "Little Nell",
+      "colab_count": 1
+    },
+    {
+      "source": "Susan Sarandon",
+      "target": "Peter Hinwood",
+      "colab_count": 1
+    },
+    {
+      "source": "Takeshi Inomata",
+      "target": "Akitoshi Igarashi",
+      "colab_count": 1
+    },
+    {
+      "source": "Takeshi Inomata",
+      "target": "Yasuo Arakawa",
+      "colab_count": 1
+    },
+    {
+      "source": "The Sutherland Brothers",
+      "target": "Howle Albert",
+      "colab_count": 1
+    },
+    {
+      "source": "The Sutherland Brothers",
+      "target": "Quiver",
+      "colab_count": 1
+    },
+    {
+      "source": "The Sutherland Brothers",
+      "target": "Ron Albert",
+      "colab_count": 1
+    },
+    {
+      "source": "Vincenzo Bellini",
+      "target": "Chorus of the Royal Opera House, Covent Garden",
+      "colab_count": 1
+    },
+    {
+      "source": "Vincenzo Bellini",
+      "target": "Dame Joan Sutherland",
+      "colab_count": 1
+    },
+    {
+      "source": "Vincenzo Bellini",
+      "target": "Gian Carlo Luccardi",
+      "colab_count": 1
+    },
+    {
+      "source": "Vincenzo Bellini",
+      "target": "London Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Vincenzo Bellini",
+      "target": "Luciano Pavarotti",
+      "colab_count": 1
+    },
+    {
+      "source": "Vincenzo Bellini",
+      "target": "Nicolai Ghiaurov",
+      "colab_count": 1
+    },
+    {
+      "source": "Vincenzo Bellini",
+      "target": "Richard Bonynge",
+      "colab_count": 1
+    }
+  ]
+}

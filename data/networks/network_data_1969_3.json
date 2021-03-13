@@ -1,0 +1,261 @@
+{
+  "nodes": [
+    {
+      "id": "1776 Ensemble",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "B.J. Slater",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Betty Buckley",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Carl Perkins",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "David Ford",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "David Vosburgh",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Giuseppe Verdi",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Henry Le Clair",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Johnny Cash",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Ken Howard",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Lorin Maazel",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Luciano Pavarotti",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Orchestra Del Teatro Alla Scala, Milano",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Paul Hecht",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Peter Howard",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Rex Everhart",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Richard Strauss",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Ronald Holgate",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Scott Jarvis",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sherman Edwards",
+      "group": 10,
+      "song_count": 35
+    },
+    {
+      "id": "Sir Georg Solti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "The Carter Family",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "The Statler Brothers",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Virginia Vestoff",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Wiener Philharmoniker",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "William Daniels",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "William Duell",
+      "group": 1,
+      "song_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Lorin Maazel",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Luciano Pavarotti",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Orchestra Del Teatro Alla Scala, Milano",
+      "colab_count": 1
+    },
+    {
+      "source": "Johnny Cash",
+      "target": "Carl Perkins",
+      "colab_count": 3
+    },
+    {
+      "source": "Johnny Cash",
+      "target": "The Carter Family",
+      "colab_count": 3
+    },
+    {
+      "source": "Johnny Cash",
+      "target": "The Statler Brothers",
+      "colab_count": 3
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Luciano Pavarotti",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Sir Georg Solti",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Wiener Philharmoniker",
+      "colab_count": 1
+    },
+    {
+      "source": "Sherman Edwards",
+      "target": "1776 Ensemble",
+      "colab_count": 2
+    },
+    {
+      "source": "Sherman Edwards",
+      "target": "B.J. Slater",
+      "colab_count": 1
+    },
+    {
+      "source": "Sherman Edwards",
+      "target": "Betty Buckley",
+      "colab_count": 1
+    },
+    {
+      "source": "Sherman Edwards",
+      "target": "David Ford",
+      "colab_count": 1
+    },
+    {
+      "source": "Sherman Edwards",
+      "target": "David Vosburgh",
+      "colab_count": 1
+    },
+    {
+      "source": "Sherman Edwards",
+      "target": "Henry Le Clair",
+      "colab_count": 1
+    },
+    {
+      "source": "Sherman Edwards",
+      "target": "Ken Howard",
+      "colab_count": 2
+    },
+    {
+      "source": "Sherman Edwards",
+      "target": "Paul Hecht",
+      "colab_count": 1
+    },
+    {
+      "source": "Sherman Edwards",
+      "target": "Peter Howard",
+      "colab_count": 9
+    },
+    {
+      "source": "Sherman Edwards",
+      "target": "Rex Everhart",
+      "colab_count": 4
+    },
+    {
+      "source": "Sherman Edwards",
+      "target": "Ronald Holgate",
+      "colab_count": 1
+    },
+    {
+      "source": "Sherman Edwards",
+      "target": "Scott Jarvis",
+      "colab_count": 1
+    },
+    {
+      "source": "Sherman Edwards",
+      "target": "Virginia Vestoff",
+      "colab_count": 2
+    },
+    {
+      "source": "Sherman Edwards",
+      "target": "William Daniels",
+      "colab_count": 7
+    },
+    {
+      "source": "Sherman Edwards",
+      "target": "William Duell",
+      "colab_count": 1
+    }
+  ]
+}

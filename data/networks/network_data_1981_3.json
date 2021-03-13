@@ -1,0 +1,526 @@
+{
+  "nodes": [
+    {
+      "id": "\"Cats\" 1981 Original London Cast",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "APO Hiking Society",
+      "group": 10,
+      "song_count": 18
+    },
+    {
+      "id": "Andrew Lloyd Webber",
+      "group": 10,
+      "song_count": 16
+    },
+    {
+      "id": "Asha Bhosle",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Bavarian Radio Symphony Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Berliner Philharmoniker",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bernard Haitink",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bhupinder Singh",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bob Haggart",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bonnie Langford",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Celeste Legaspi",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Dardanelle",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "David Baxter",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dulce",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Edita Gruberova",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "English Chamber Orchestra",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Fania All Stars",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Femi Taylor",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Finola Hughes",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Franz Joseph Haydn",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Gulshan Bawra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Gustav Holst",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Herbert von Karajan",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ike Isaacs",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ismael Rivera",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ivy Violan",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Janet Basco",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "John Chester",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "John Thornton",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ken Wells",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kishore Kumar",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Lata Mangeshkar",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Leo Valdez",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "London Philharmonic Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Luis Perico Ortiz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Marco Sison",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Maxine Sullivan",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Michiel Verkoren",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mohammed Rafi",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Mukesh",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Noel Trinidad",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Padmini Kolhapure",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Paul Nicholas",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "R. D. Burman",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "RIAS Kammerchor",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rishi Kapoor",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Roberto Roena",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sapan Chakraborty",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sarah Brightman",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Seeta Indrani",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sil Austin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Subas Herrero",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Verni Gonzales",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Wayne Sleep",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wolfgang Amadeus Mozart",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Yo-Yo Ma",
+      "group": 2,
+      "song_count": 2
+    }
+  ],
+  "links": [
+    {
+      "source": "APO Hiking Society",
+      "target": "Celeste Legaspi",
+      "colab_count": 2
+    },
+    {
+      "source": "APO Hiking Society",
+      "target": "Dulce",
+      "colab_count": 2
+    },
+    {
+      "source": "APO Hiking Society",
+      "target": "Ivy Violan",
+      "colab_count": 2
+    },
+    {
+      "source": "APO Hiking Society",
+      "target": "Janet Basco",
+      "colab_count": 2
+    },
+    {
+      "source": "APO Hiking Society",
+      "target": "Leo Valdez",
+      "colab_count": 2
+    },
+    {
+      "source": "APO Hiking Society",
+      "target": "Marco Sison",
+      "colab_count": 2
+    },
+    {
+      "source": "APO Hiking Society",
+      "target": "Noel Trinidad",
+      "colab_count": 2
+    },
+    {
+      "source": "APO Hiking Society",
+      "target": "Subas Herrero",
+      "colab_count": 2
+    },
+    {
+      "source": "APO Hiking Society",
+      "target": "Verni Gonzales",
+      "colab_count": 2
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "\"Cats\" 1981 Original London Cast",
+      "colab_count": 3
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Bonnie Langford",
+      "colab_count": 2
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "David Baxter",
+      "colab_count": 1
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Femi Taylor",
+      "colab_count": 1
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Finola Hughes",
+      "colab_count": 1
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "John Chester",
+      "colab_count": 1
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "John Thornton",
+      "colab_count": 1
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Ken Wells",
+      "colab_count": 1
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Michiel Verkoren",
+      "colab_count": 1
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Paul Nicholas",
+      "colab_count": 1
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Sarah Brightman",
+      "colab_count": 1
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Seeta Indrani",
+      "colab_count": 1
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Wayne Sleep",
+      "colab_count": 1
+    },
+    {
+      "source": "Asha Bhosle",
+      "target": "Mohammed Rafi",
+      "colab_count": 1
+    },
+    {
+      "source": "Asha Bhosle",
+      "target": "Padmini Kolhapure",
+      "colab_count": 1
+    },
+    {
+      "source": "Asha Bhosle",
+      "target": "Rishi Kapoor",
+      "colab_count": 1
+    },
+    {
+      "source": "Fania All Stars",
+      "target": "Ismael Rivera",
+      "colab_count": 1
+    },
+    {
+      "source": "Fania All Stars",
+      "target": "Luis Perico Ortiz",
+      "colab_count": 1
+    },
+    {
+      "source": "Fania All Stars",
+      "target": "Roberto Roena",
+      "colab_count": 1
+    },
+    {
+      "source": "Franz Joseph Haydn",
+      "target": "English Chamber Orchestra",
+      "colab_count": 2
+    },
+    {
+      "source": "Franz Joseph Haydn",
+      "target": "Yo-Yo Ma",
+      "colab_count": 2
+    },
+    {
+      "source": "Gustav Holst",
+      "target": "Berliner Philharmoniker",
+      "colab_count": 1
+    },
+    {
+      "source": "Gustav Holst",
+      "target": "Herbert von Karajan",
+      "colab_count": 1
+    },
+    {
+      "source": "Gustav Holst",
+      "target": "RIAS Kammerchor",
+      "colab_count": 1
+    },
+    {
+      "source": "Kishore Kumar",
+      "target": "Bhupinder Singh",
+      "colab_count": 1
+    },
+    {
+      "source": "Kishore Kumar",
+      "target": "Gulshan Bawra",
+      "colab_count": 1
+    },
+    {
+      "source": "Kishore Kumar",
+      "target": "Lata Mangeshkar",
+      "colab_count": 1
+    },
+    {
+      "source": "Kishore Kumar",
+      "target": "Mohammed Rafi",
+      "colab_count": 1
+    },
+    {
+      "source": "Kishore Kumar",
+      "target": "Mukesh",
+      "colab_count": 1
+    },
+    {
+      "source": "Kishore Kumar",
+      "target": "R. D. Burman",
+      "colab_count": 1
+    },
+    {
+      "source": "Kishore Kumar",
+      "target": "Sapan Chakraborty",
+      "colab_count": 1
+    },
+    {
+      "source": "Maxine Sullivan",
+      "target": "Bob Haggart",
+      "colab_count": 1
+    },
+    {
+      "source": "Maxine Sullivan",
+      "target": "Dardanelle",
+      "colab_count": 1
+    },
+    {
+      "source": "Maxine Sullivan",
+      "target": "Ike Isaacs",
+      "colab_count": 1
+    },
+    {
+      "source": "Maxine Sullivan",
+      "target": "Sil Austin",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Bavarian Radio Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Bernard Haitink",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Edita Gruberova",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "London Philharmonic Orchestra",
+      "colab_count": 1
+    }
+  ]
+}

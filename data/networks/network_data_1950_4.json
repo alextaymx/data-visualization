@@ -1,0 +1,1811 @@
+{
+  "nodes": [
+    {
+      "id": "Adolph Green",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Agnes Giebel",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Al Stillman",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Albert Hay Malotte",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Alberto Erede",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Alfred Wallenstein",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Alfredo Antonini",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Alfredo Catalani",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Andre Kostelanetz & His Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Anneliese Rothenberger",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Antonia Butler",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Antonino Votto",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Arthur Rubinstein",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Arturo Basile",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Arturo Buzzi-Peccia",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Ben Steinberg",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Bernard Goldberg",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Betty Comden",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Bruno Walter",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Candide Ensemble & Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Carol Channing",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Carol Lawrence",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Celestina Casapietra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Cesare Andrea Bixio",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Charles Gounod",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Charlotte Wolf-Matthaus",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Chita Rivera",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Cholly Atkins",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Columbia Concert Orchestra",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Columbia Symphony Orchestra",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Columbia Wind Ensemble",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Constantine Callinicos",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Cris Alexander",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Douglas Deane",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Emanuele Nutile",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Ernesto de Curtis",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Ervin M. Drake",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Eugene Ormandy",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Fabio Luisi",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Felix Mendelssohn",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Frank Miller",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Franz Allers",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Franz Liszt",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Gentlemen Prefer Blondes Ensemble",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Gerda M. Beilenson",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Giacomo Puccini",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Giannis Konstantinou",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Gioachino Rossini",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Giorgos Papadopoulos",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Giuseppe Verdi",
+      "group": 10,
+      "song_count": 31
+    },
+    {
+      "id": "Grosses Opernorchester",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Gustav Mahler",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Guy d'Hardelot",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Hans Steinkopf",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Harpo Marx",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Helge Rosvaenge",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Helmut Krebs",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Herbert Kegel",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Hermann Prey",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Honi Coles",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ingeborg Springer",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Irvin Graham",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Isaac Stern",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Isabel Bigley",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Issachar Miron",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Jack Lawrence",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jack McCauley",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jascha Zayde",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jean Arthur",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Jimmy Shirl",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Johann Sebastian Bach",
+      "group": 10,
+      "song_count": 49
+    },
+    {
+      "id": "Johannes Brahms",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "John Wummer",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Johnny Green",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Johnny Silver",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jule Styne",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Julius Baker",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Julius Grossman",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Karl Ristenpart",
+      "group": 10,
+      "song_count": 13
+    },
+    {
+      "id": "Kathleen Ferrier",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "L'Orchestre de la Suisse Romande",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Larry Kert",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Lehman Engel",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Leonard Bernstein",
+      "group": 10,
+      "song_count": 61
+    },
+    {
+      "id": "Leonid Hambro",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lisa della Casa",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lucerne Festival Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lucia Aliberti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Luigi Denza",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Lukas Foss",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "MDR Leipzig Radio Chorus",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Maria Callas",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Marilyn Cooper",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mario Lanza",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Mark Brown",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Martin Ritzmann",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Max Adrian",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Max Goberman",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Michael Clark",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Milan La Scala Chorus",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Milton Rosenstock",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "NBC Symphony Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Nancy Walker",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Nancy Williams",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "New York Philharmonic",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Nicolas Flagello",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Noel Coward",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "On the Town Orchestra (1960)",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Orchester der Deutschen Oper Berlin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Orchestra Del Teatro Alla Scala, Milano",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Orchestra Sinfonica Di Torino Della Rai",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Otmar Suitner",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Pablo Casals",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Paolo Gavanelli",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Peter Pan Cast Orchestra",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Peter Schreier",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Philadelphia Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pietro Mascagni",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Prades Festival Orchestra",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "RCA Victor Orchestra",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "RCA Victor Symphony Orchestra",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "RIAS Kammerchor",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "RIAS Kammerorchester",
+      "group": 10,
+      "song_count": 13
+    },
+    {
+      "id": "Radiochor Leipzig",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ray Sinatra",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Renata Tebaldi",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Reri Grist",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rex Evans",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Richard Rodgers",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Richard Strauss",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Richard Tucker",
+      "group": 10,
+      "song_count": 15
+    },
+    {
+      "id": "Richard Wagner",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Robert Hanell",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Robert Rounseville",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rosalind Russell",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rudolf Neuhaus",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rudolf Sieczynski",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Rundfunk-Sinfonieorchester Leipzig",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Samuel Krachmalnick",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sergei Rachmaninoff",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Sholom Secunda",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Siegfried Vogel",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Skitch Henderson",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Skitch Henderson & His Orchestra",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Skitch Henderson Orchestra",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Staatskapelle Berlin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Staatskapelle Dresden",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Stathis Kavouras",
+      "group": 10,
+      "song_count": 24
+    },
+    {
+      "id": "Stubby Kaye",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Symphony Of The Air",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Tasos Kostopoulos",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "The Jeff Alexander Choir",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "The Jets",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "The Sharks",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Theo Adam",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Traditional",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Tullio Serafin",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Victor Young",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Vincenzo Bellini",
+      "group": 10,
+      "song_count": 22
+    },
+    {
+      "id": "Vladimir Golschmann",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Walter Hauck",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "West Side Story Ensemble & Orchestra",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Wiener Philharmoniker",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wolfgang Amadeus Mozart",
+      "group": 10,
+      "song_count": 15
+    },
+    {
+      "id": "Wonderful Town Orchestra (1958)",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Yechiel Haggiz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Yehudi Menuhin",
+      "group": 1,
+      "song_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Albert Hay Malotte",
+      "target": "Mario Lanza",
+      "colab_count": 1
+    },
+    {
+      "source": "Albert Hay Malotte",
+      "target": "RCA Victor Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Albert Hay Malotte",
+      "target": "Ray Sinatra",
+      "colab_count": 1
+    },
+    {
+      "source": "Albert Hay Malotte",
+      "target": "The Jeff Alexander Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "Alfredo Catalani",
+      "target": "Alberto Erede",
+      "colab_count": 1
+    },
+    {
+      "source": "Alfredo Catalani",
+      "target": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+      "colab_count": 1
+    },
+    {
+      "source": "Alfredo Catalani",
+      "target": "Renata Tebaldi",
+      "colab_count": 1
+    },
+    {
+      "source": "Arturo Buzzi-Peccia",
+      "target": "Alfredo Antonini",
+      "colab_count": 2
+    },
+    {
+      "source": "Arturo Buzzi-Peccia",
+      "target": "Columbia Concert Orchestra",
+      "colab_count": 2
+    },
+    {
+      "source": "Arturo Buzzi-Peccia",
+      "target": "Richard Tucker",
+      "colab_count": 2
+    },
+    {
+      "source": "Cesare Andrea Bixio",
+      "target": "Alfredo Antonini",
+      "colab_count": 1
+    },
+    {
+      "source": "Cesare Andrea Bixio",
+      "target": "Columbia Concert Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Cesare Andrea Bixio",
+      "target": "Richard Tucker",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Gounod",
+      "target": "Celestina Casapietra",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Gounod",
+      "target": "Herbert Kegel",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Gounod",
+      "target": "Rundfunk-Sinfonieorchester Leipzig",
+      "colab_count": 1
+    },
+    {
+      "source": "Emanuele Nutile",
+      "target": "Alfredo Antonini",
+      "colab_count": 2
+    },
+    {
+      "source": "Emanuele Nutile",
+      "target": "Columbia Concert Orchestra",
+      "colab_count": 2
+    },
+    {
+      "source": "Emanuele Nutile",
+      "target": "Richard Tucker",
+      "colab_count": 2
+    },
+    {
+      "source": "Ernesto de Curtis",
+      "target": "Columbia Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Ernesto de Curtis",
+      "target": "Nicolas Flagello",
+      "colab_count": 1
+    },
+    {
+      "source": "Ernesto de Curtis",
+      "target": "Richard Tucker",
+      "colab_count": 1
+    },
+    {
+      "source": "Felix Mendelssohn",
+      "target": "Eugene Ormandy",
+      "colab_count": 1
+    },
+    {
+      "source": "Felix Mendelssohn",
+      "target": "Isaac Stern",
+      "colab_count": 1
+    },
+    {
+      "source": "Felix Mendelssohn",
+      "target": "Philadelphia Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Franz Liszt",
+      "target": "Alfred Wallenstein",
+      "colab_count": 4
+    },
+    {
+      "source": "Franz Liszt",
+      "target": "Arthur Rubinstein",
+      "colab_count": 4
+    },
+    {
+      "source": "Franz Liszt",
+      "target": "RCA Victor Symphony Orchestra",
+      "colab_count": 4
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Alberto Erede",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Grosses Opernorchester",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Hans Steinkopf",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Helge Rosvaenge",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "L'Orchestre de la Suisse Romande",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Renata Tebaldi",
+      "colab_count": 1
+    },
+    {
+      "source": "Gioachino Rossini",
+      "target": "Alberto Erede",
+      "colab_count": 1
+    },
+    {
+      "source": "Gioachino Rossini",
+      "target": "Alfredo Antonini",
+      "colab_count": 1
+    },
+    {
+      "source": "Gioachino Rossini",
+      "target": "Columbia Concert Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Gioachino Rossini",
+      "target": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+      "colab_count": 1
+    },
+    {
+      "source": "Gioachino Rossini",
+      "target": "Renata Tebaldi",
+      "colab_count": 1
+    },
+    {
+      "source": "Gioachino Rossini",
+      "target": "Richard Tucker",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Alberto Erede",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Antonino Votto",
+      "colab_count": 2
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Ingeborg Springer",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "L'Orchestre de la Suisse Romande",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Maria Callas",
+      "colab_count": 6
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Milan La Scala Chorus",
+      "colab_count": 6
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Orchestra Del Teatro Alla Scala, Milano",
+      "colab_count": 6
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Radiochor Leipzig",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Renata Tebaldi",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Siegfried Vogel",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Staatskapelle Dresden",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Tullio Serafin",
+      "colab_count": 4
+    },
+    {
+      "source": "Gustav Mahler",
+      "target": "Bruno Walter",
+      "colab_count": 1
+    },
+    {
+      "source": "Gustav Mahler",
+      "target": "Kathleen Ferrier",
+      "colab_count": 1
+    },
+    {
+      "source": "Gustav Mahler",
+      "target": "Wiener Philharmoniker",
+      "colab_count": 1
+    },
+    {
+      "source": "Guy d'Hardelot",
+      "target": "Constantine Callinicos",
+      "colab_count": 1
+    },
+    {
+      "source": "Guy d'Hardelot",
+      "target": "Mario Lanza",
+      "colab_count": 1
+    },
+    {
+      "source": "Guy d'Hardelot",
+      "target": "RCA Victor Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Harpo Marx",
+      "target": "Gerda M. Beilenson",
+      "colab_count": 1
+    },
+    {
+      "source": "Harpo Marx",
+      "target": "Mario Lanza",
+      "colab_count": 1
+    },
+    {
+      "source": "Harpo Marx",
+      "target": "RCA Victor Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Harpo Marx",
+      "target": "Ray Sinatra",
+      "colab_count": 1
+    },
+    {
+      "source": "Harpo Marx",
+      "target": "The Jeff Alexander Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "Issachar Miron",
+      "target": "Julius Grossman",
+      "colab_count": 1
+    },
+    {
+      "source": "Issachar Miron",
+      "target": "Richard Tucker",
+      "colab_count": 1
+    },
+    {
+      "source": "Issachar Miron",
+      "target": "Sholom Secunda",
+      "colab_count": 1
+    },
+    {
+      "source": "Issachar Miron",
+      "target": "Yechiel Haggiz",
+      "colab_count": 1
+    },
+    {
+      "source": "Jimmy Shirl",
+      "target": "Al Stillman",
+      "colab_count": 1
+    },
+    {
+      "source": "Jimmy Shirl",
+      "target": "Ervin M. Drake",
+      "colab_count": 1
+    },
+    {
+      "source": "Jimmy Shirl",
+      "target": "Irvin Graham",
+      "colab_count": 1
+    },
+    {
+      "source": "Jimmy Shirl",
+      "target": "Richard Tucker",
+      "colab_count": 1
+    },
+    {
+      "source": "Jimmy Shirl",
+      "target": "Skitch Henderson",
+      "colab_count": 1
+    },
+    {
+      "source": "Jimmy Shirl",
+      "target": "Skitch Henderson & His Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Jimmy Shirl",
+      "target": "Skitch Henderson Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Agnes Giebel",
+      "colab_count": 3
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Bernard Goldberg",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Charlotte Wolf-Matthaus",
+      "colab_count": 2
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Helmut Krebs",
+      "colab_count": 4
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Isaac Stern",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "John Wummer",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Karl Ristenpart",
+      "colab_count": 13
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Pablo Casals",
+      "colab_count": 2
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Prades Festival Orchestra",
+      "colab_count": 2
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "RIAS Kammerchor",
+      "colab_count": 3
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "RIAS Kammerorchester",
+      "colab_count": 13
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Walter Hauck",
+      "colab_count": 4
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Lucerne Festival Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Yehudi Menuhin",
+      "colab_count": 1
+    },
+    {
+      "source": "Johnny Green",
+      "target": "Jack Lawrence",
+      "colab_count": 1
+    },
+    {
+      "source": "Johnny Green",
+      "target": "Mario Lanza",
+      "colab_count": 1
+    },
+    {
+      "source": "Johnny Green",
+      "target": "Ray Sinatra",
+      "colab_count": 1
+    },
+    {
+      "source": "Jule Styne",
+      "target": "Carol Channing",
+      "colab_count": 2
+    },
+    {
+      "source": "Jule Styne",
+      "target": "Cholly Atkins",
+      "colab_count": 1
+    },
+    {
+      "source": "Jule Styne",
+      "target": "Gentlemen Prefer Blondes Ensemble",
+      "colab_count": 3
+    },
+    {
+      "source": "Jule Styne",
+      "target": "Honi Coles",
+      "colab_count": 1
+    },
+    {
+      "source": "Jule Styne",
+      "target": "Jack McCauley",
+      "colab_count": 1
+    },
+    {
+      "source": "Jule Styne",
+      "target": "Milton Rosenstock",
+      "colab_count": 3
+    },
+    {
+      "source": "Jule Styne",
+      "target": "Rex Evans",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Adolph Green",
+      "colab_count": 2
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Antonia Butler",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Ben Steinberg",
+      "colab_count": 2
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Betty Comden",
+      "colab_count": 2
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Candide Ensemble & Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Carol Lawrence",
+      "colab_count": 4
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Chita Rivera",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Columbia Wind Ensemble",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Cris Alexander",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Jean Arthur",
+      "colab_count": 2
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Larry Kert",
+      "colab_count": 3
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Lehman Engel",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Lukas Foss",
+      "colab_count": 4
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Marilyn Cooper",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Mark Brown",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Max Adrian",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Max Goberman",
+      "colab_count": 5
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Michael Clark",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Nancy Walker",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Nancy Williams",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "New York Philharmonic",
+      "colab_count": 4
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "On the Town Orchestra (1960)",
+      "colab_count": 2
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Peter Pan Cast Orchestra",
+      "colab_count": 2
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Reri Grist",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Robert Rounseville",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Rosalind Russell",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Samuel Krachmalnick",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Symphony Of The Air",
+      "colab_count": 4
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "The Jets",
+      "colab_count": 3
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "The Sharks",
+      "colab_count": 3
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "West Side Story Ensemble & Orchestra",
+      "colab_count": 2
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Wonderful Town Orchestra (1958)",
+      "colab_count": 1
+    },
+    {
+      "source": "Luigi Denza",
+      "target": "Columbia Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Luigi Denza",
+      "target": "Nicolas Flagello",
+      "colab_count": 1
+    },
+    {
+      "source": "Luigi Denza",
+      "target": "Richard Tucker",
+      "colab_count": 1
+    },
+    {
+      "source": "MDR Leipzig Radio Chorus",
+      "target": "Martin Ritzmann",
+      "colab_count": 1
+    },
+    {
+      "source": "MDR Leipzig Radio Chorus",
+      "target": "Rundfunk-Sinfonieorchester Leipzig",
+      "colab_count": 1
+    },
+    {
+      "source": "Noel Coward",
+      "target": "Andre Kostelanetz & His Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Noel Coward",
+      "target": "Frank Miller",
+      "colab_count": 1
+    },
+    {
+      "source": "Noel Coward",
+      "target": "Jascha Zayde",
+      "colab_count": 1
+    },
+    {
+      "source": "Noel Coward",
+      "target": "Julius Baker",
+      "colab_count": 1
+    },
+    {
+      "source": "Noel Coward",
+      "target": "Leonid Hambro",
+      "colab_count": 1
+    },
+    {
+      "source": "Pietro Mascagni",
+      "target": "Constantine Callinicos",
+      "colab_count": 1
+    },
+    {
+      "source": "Pietro Mascagni",
+      "target": "Mario Lanza",
+      "colab_count": 1
+    },
+    {
+      "source": "Pietro Mascagni",
+      "target": "RCA Victor Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Rodgers",
+      "target": "Richard Tucker",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Rodgers",
+      "target": "Skitch Henderson",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Rodgers",
+      "target": "Skitch Henderson & His Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Rodgers",
+      "target": "Skitch Henderson Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Anneliese Rothenberger",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Lisa della Casa",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Rudolf Neuhaus",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Staatskapelle Dresden",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Arturo Basile",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Maria Callas",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Orchestra Sinfonica Di Torino Della Rai",
+      "colab_count": 1
+    },
+    {
+      "source": "Rudolf Sieczynski",
+      "target": "Columbia Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Rudolf Sieczynski",
+      "target": "Franz Allers",
+      "colab_count": 1
+    },
+    {
+      "source": "Rudolf Sieczynski",
+      "target": "Richard Tucker",
+      "colab_count": 1
+    },
+    {
+      "source": "Sergei Rachmaninoff",
+      "target": "Arthur Rubinstein",
+      "colab_count": 1
+    },
+    {
+      "source": "Sergei Rachmaninoff",
+      "target": "NBC Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Sergei Rachmaninoff",
+      "target": "Vladimir Golschmann",
+      "colab_count": 1
+    },
+    {
+      "source": "Stathis Kavouras",
+      "target": "Giannis Konstantinou",
+      "colab_count": 8
+    },
+    {
+      "source": "Stathis Kavouras",
+      "target": "Giorgos Papadopoulos",
+      "colab_count": 8
+    },
+    {
+      "source": "Stathis Kavouras",
+      "target": "Tasos Kostopoulos",
+      "colab_count": 8
+    },
+    {
+      "source": "Stubby Kaye",
+      "target": "Douglas Deane",
+      "colab_count": 1
+    },
+    {
+      "source": "Stubby Kaye",
+      "target": "Isabel Bigley",
+      "colab_count": 1
+    },
+    {
+      "source": "Stubby Kaye",
+      "target": "Johnny Silver",
+      "colab_count": 1
+    },
+    {
+      "source": "Traditional",
+      "target": "Columbia Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Traditional",
+      "target": "Nicolas Flagello",
+      "colab_count": 1
+    },
+    {
+      "source": "Traditional",
+      "target": "Richard Tucker",
+      "colab_count": 1
+    },
+    {
+      "source": "Victor Young",
+      "target": "Richard Tucker",
+      "colab_count": 1
+    },
+    {
+      "source": "Victor Young",
+      "target": "Skitch Henderson",
+      "colab_count": 1
+    },
+    {
+      "source": "Victor Young",
+      "target": "Skitch Henderson & His Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Victor Young",
+      "target": "Skitch Henderson Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Vincenzo Bellini",
+      "target": "Arturo Basile",
+      "colab_count": 5
+    },
+    {
+      "source": "Vincenzo Bellini",
+      "target": "Columbia Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Vincenzo Bellini",
+      "target": "Fabio Luisi",
+      "colab_count": 1
+    },
+    {
+      "source": "Vincenzo Bellini",
+      "target": "Lucia Aliberti",
+      "colab_count": 1
+    },
+    {
+      "source": "Vincenzo Bellini",
+      "target": "Maria Callas",
+      "colab_count": 5
+    },
+    {
+      "source": "Vincenzo Bellini",
+      "target": "Nicolas Flagello",
+      "colab_count": 1
+    },
+    {
+      "source": "Vincenzo Bellini",
+      "target": "Orchester der Deutschen Oper Berlin",
+      "colab_count": 1
+    },
+    {
+      "source": "Vincenzo Bellini",
+      "target": "Orchestra Sinfonica Di Torino Della Rai",
+      "colab_count": 5
+    },
+    {
+      "source": "Vincenzo Bellini",
+      "target": "Paolo Gavanelli",
+      "colab_count": 1
+    },
+    {
+      "source": "Vincenzo Bellini",
+      "target": "Richard Tucker",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Alberto Erede",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Hermann Prey",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Otmar Suitner",
+      "colab_count": 3
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Peter Schreier",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Renata Tebaldi",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Robert Hanell",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Staatskapelle Berlin",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Staatskapelle Dresden",
+      "colab_count": 3
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Theo Adam",
+      "colab_count": 2
+    }
+  ]
+}

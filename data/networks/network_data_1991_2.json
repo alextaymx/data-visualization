@@ -1,0 +1,501 @@
+{
+  "nodes": [
+    {
+      "id": "\"Joseph And The Amazing Technicolor Dreamcoat\" 1991 London Cast",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Academy of St. Martin in the Fields",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ambrosian Opera Chorus",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Andrew Litton",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Andrew Lloyd Webber",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Angela Lansbury",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Antonio Vivaldi",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Armando Gama",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Aubrey Woods",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Benjamin Britten",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Bud Powell",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Carlos Petrel",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Cecilia Bartoli",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Chevelle Franklin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Choir of King's College, Cambridge",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Concentus Hungaricus",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "David Morales",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "David Ogden Stiers",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dexter Gordon",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Franz Liszt Chamber Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Heinz Zednik",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Hugo Dwyer",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "James Levine",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jason Donovan",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Jerry Orbach",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "John Williams",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Joshua Bell",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kenny Clarke",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kiri Te Kanawa",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kurt Moll",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Linzi Hateley",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Lourdes Ambriz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Matyas Antal",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Metropolitan Opera Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Norma Herrera",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pablo de Sarasate",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Paige O'Hara",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pierre Michelot",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rachel Masters",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Robby Benson",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Robert Lloyd",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Royal Philharmonic Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ruth Ziesak",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Shabba Ranks",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Simone Alaimo",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sir Georg Solti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sir Neville Marriner",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Stephen Cleobury",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sumi Jo",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Thomas Allen",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Vienna Chamber Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Walterio Pesqueira",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wiener Philharmoniker",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wolfgang Amadeus Mozart",
+      "group": 10,
+      "song_count": 20
+    }
+  ],
+  "links": [
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "\"Joseph And The Amazing Technicolor Dreamcoat\" 1991 London Cast",
+      "colab_count": 2
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Aubrey Woods",
+      "colab_count": 1
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Jason Donovan",
+      "colab_count": 2
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Linzi Hateley",
+      "colab_count": 2
+    },
+    {
+      "source": "Antonio Vivaldi",
+      "target": "Franz Liszt Chamber Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Antonio Vivaldi",
+      "target": "John Williams",
+      "colab_count": 1
+    },
+    {
+      "source": "Armando Gama",
+      "target": "Carlos Petrel",
+      "colab_count": 1
+    },
+    {
+      "source": "Armando Gama",
+      "target": "Lourdes Ambriz",
+      "colab_count": 1
+    },
+    {
+      "source": "Armando Gama",
+      "target": "Norma Herrera",
+      "colab_count": 1
+    },
+    {
+      "source": "Armando Gama",
+      "target": "Walterio Pesqueira",
+      "colab_count": 1
+    },
+    {
+      "source": "Benjamin Britten",
+      "target": "Choir of King's College, Cambridge",
+      "colab_count": 1
+    },
+    {
+      "source": "Benjamin Britten",
+      "target": "Rachel Masters",
+      "colab_count": 1
+    },
+    {
+      "source": "Benjamin Britten",
+      "target": "Stephen Cleobury",
+      "colab_count": 1
+    },
+    {
+      "source": "Dexter Gordon",
+      "target": "Bud Powell",
+      "colab_count": 1
+    },
+    {
+      "source": "Dexter Gordon",
+      "target": "Kenny Clarke",
+      "colab_count": 1
+    },
+    {
+      "source": "Dexter Gordon",
+      "target": "Pierre Michelot",
+      "colab_count": 1
+    },
+    {
+      "source": "Pablo de Sarasate",
+      "target": "Andrew Litton",
+      "colab_count": 1
+    },
+    {
+      "source": "Pablo de Sarasate",
+      "target": "Joshua Bell",
+      "colab_count": 1
+    },
+    {
+      "source": "Pablo de Sarasate",
+      "target": "Royal Philharmonic Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Robby Benson",
+      "target": "Angela Lansbury",
+      "colab_count": 1
+    },
+    {
+      "source": "Robby Benson",
+      "target": "David Ogden Stiers",
+      "colab_count": 1
+    },
+    {
+      "source": "Robby Benson",
+      "target": "Jerry Orbach",
+      "colab_count": 1
+    },
+    {
+      "source": "Robby Benson",
+      "target": "Paige O'Hara",
+      "colab_count": 1
+    },
+    {
+      "source": "Shabba Ranks",
+      "target": "Chevelle Franklin",
+      "colab_count": 1
+    },
+    {
+      "source": "Shabba Ranks",
+      "target": "David Morales",
+      "colab_count": 1
+    },
+    {
+      "source": "Shabba Ranks",
+      "target": "Hugo Dwyer",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Academy of St. Martin in the Fields",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Ambrosian Opera Chorus",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Cecilia Bartoli",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Concentus Hungaricus",
+      "colab_count": 2
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Heinz Zednik",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "James Levine",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Kiri Te Kanawa",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Kurt Moll",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Matyas Antal",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Metropolitan Opera Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Robert Lloyd",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Ruth Ziesak",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Simone Alaimo",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Sir Georg Solti",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Sir Neville Marriner",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Sumi Jo",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Thomas Allen",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Vienna Chamber Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Wiener Philharmoniker",
+      "colab_count": 1
+    }
+  ]
+}

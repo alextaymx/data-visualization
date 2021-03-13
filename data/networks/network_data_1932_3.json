@@ -1,0 +1,206 @@
+{
+  "nodes": [
+    {
+      "id": "Alida Rouffe",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Charpin",
+      "group": 10,
+      "song_count": 13
+    },
+    {
+      "id": "Edouart Delmont",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ernie Caceres",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Glenn Miller",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Joseph Boulle",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Marcel Pagnol",
+      "group": 10,
+      "song_count": 53
+    },
+    {
+      "id": "Maupi",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Milly Mathis",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Mouries",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Odette Roger",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Oriane Demazis",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Paula Kelly",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pierre Fresnay",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Raimu",
+      "group": 10,
+      "song_count": 10
+    },
+    {
+      "id": "Ray Eberle",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Tex Beneke",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "The Modernaires",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Vattier",
+      "group": 5,
+      "song_count": 5
+    }
+  ],
+  "links": [
+    {
+      "source": "Charpin",
+      "target": "Mouries",
+      "colab_count": 1
+    },
+    {
+      "source": "Charpin",
+      "target": "Raimu",
+      "colab_count": 1
+    },
+    {
+      "source": "Charpin",
+      "target": "Vattier",
+      "colab_count": 1
+    },
+    {
+      "source": "Glenn Miller",
+      "target": "Ernie Caceres",
+      "colab_count": 1
+    },
+    {
+      "source": "Glenn Miller",
+      "target": "Tex Beneke",
+      "colab_count": 1
+    },
+    {
+      "source": "Glenn Miller",
+      "target": "The Modernaires",
+      "colab_count": 1
+    },
+    {
+      "source": "Marcel Pagnol",
+      "target": "Alida Rouffe",
+      "colab_count": 3
+    },
+    {
+      "source": "Marcel Pagnol",
+      "target": "Charpin",
+      "colab_count": 10
+    },
+    {
+      "source": "Marcel Pagnol",
+      "target": "Edouart Delmont",
+      "colab_count": 1
+    },
+    {
+      "source": "Marcel Pagnol",
+      "target": "Joseph Boulle",
+      "colab_count": 1
+    },
+    {
+      "source": "Marcel Pagnol",
+      "target": "Maupi",
+      "colab_count": 5
+    },
+    {
+      "source": "Marcel Pagnol",
+      "target": "Milly Mathis",
+      "colab_count": 2
+    },
+    {
+      "source": "Marcel Pagnol",
+      "target": "Mouries",
+      "colab_count": 6
+    },
+    {
+      "source": "Marcel Pagnol",
+      "target": "Odette Roger",
+      "colab_count": 1
+    },
+    {
+      "source": "Marcel Pagnol",
+      "target": "Oriane Demazis",
+      "colab_count": 8
+    },
+    {
+      "source": "Marcel Pagnol",
+      "target": "Pierre Fresnay",
+      "colab_count": 3
+    },
+    {
+      "source": "Marcel Pagnol",
+      "target": "Raimu",
+      "colab_count": 9
+    },
+    {
+      "source": "Marcel Pagnol",
+      "target": "Vattier",
+      "colab_count": 4
+    },
+    {
+      "source": "Tex Beneke",
+      "target": "Paula Kelly",
+      "colab_count": 1
+    },
+    {
+      "source": "Tex Beneke",
+      "target": "Ray Eberle",
+      "colab_count": 1
+    },
+    {
+      "source": "Tex Beneke",
+      "target": "The Modernaires",
+      "colab_count": 1
+    }
+  ]
+}

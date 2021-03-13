@@ -1,0 +1,1381 @@
+{
+  "nodes": [
+    {
+      "id": "A. Caminha",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Alcides Caminha",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Alfredo Antonini",
+      "group": 10,
+      "song_count": 11
+    },
+    {
+      "id": "Alice Ghostley",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "American Symphony Orchestra",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Anny Felbermayer",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Art Pepper",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Arthur Sullivan",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Asha Bhosle",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ataulfo Alves",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Belgrade National Opera Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bert Michaels",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Betty Wand",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Carmen Gutierrez",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Carol Lawrence",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Chicago Ensemble",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Chita Rivera",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Christa Ludwig",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Cinderella Ensemble",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Clark Terry",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Columbia Symphony Orchestra",
+      "group": 10,
+      "song_count": 27
+    },
+    {
+      "id": "Cyl Farney",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "David Winters",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dorothy Stickney",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Doug Watkins",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Drago Dimitrievich",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Edith Adams",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Eliot Feld",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Elisabeth Schwarzkopf",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Elizabeth Taylor",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Erich Majkut",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Erick Friedman",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Ernie Henry",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Eugene Istomin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Franz Bierbach",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Franz Schubert",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "George Chakiris",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "George Hall",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Gerhard Unger",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Gerry Mulligan",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Ghantasala",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Giuseppe Verdi",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Glenn Gould",
+      "group": 10,
+      "song_count": 33
+    },
+    {
+      "id": "Guilherme De Brito",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Harry \"Sweets\" Edison",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Herbert von Karajan",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Horace Silver",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Howard Lindsay",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Iggie Wolfington",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ilka Chase",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Isaac Stern",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Israel Philharmonic Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jascha Heifetz",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Jim Bryant",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Jo Stafford",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Joanne Miya",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Johann Sebastian Bach",
+      "group": 10,
+      "song_count": 69
+    },
+    {
+      "id": "John Kander",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Johnny Green",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Johnny Mercer",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Jon Cypher",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Julie Andrews",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "K.Ravi",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Karl Friedrich",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kaye Ballard",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Ken Le Roy",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kenny Clarke",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Kerstin Meyer",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kreshimir Baranovich",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Larry Kert",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Leonard Bernstein",
+      "group": 10,
+      "song_count": 101
+    },
+    {
+      "id": "Leonard Rose",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Leopold Stokowski",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Ljuba Welitsch",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Louie Bellson",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Ludwig van Beethoven",
+      "group": 10,
+      "song_count": 45
+    },
+    {
+      "id": "Luiz Soberano",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Madhavapeddi Sathyam",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Manna Dey",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Maria Callas",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Maria Cruesa",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Marilyn Cooper",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Marjorie Thomas/Sir Geraint Evans/Richard Lewis/Elsie Morison/Owen Brannigan/Ian Wallace/John Cameron/Jeannette Sinclair/Monica Sinclair/Glyndebourne Chorus/Pro Arte Orchestra/Sir Malcolm Sargent",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Marni Nixon",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Max Goberman",
+      "group": 10,
+      "song_count": 10
+    },
+    {
+      "id": "Max Roach",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Mickey Calin",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Miles Davis",
+      "group": 10,
+      "song_count": 28
+    },
+    {
+      "id": "Milt Jackson",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Milton de Oliveira",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mirabeau De Oliveira",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mohammed Rafi",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Nelson Cavaquinho",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "New York Philharmonic",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Nicolai Gedda",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Nikolai Rimsky-Korsakov",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Norma Bengell",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Orchestra Del Teatro Alla Scala, Milano",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Oscar Peterson Trio",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Otto Edelmann",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "P. Susheela",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Paquita",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Paul Chambers",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Paul Kuen",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Paul Weston And His Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Percy Heath",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Philharmonia Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Philly Joe Jones",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pinchas Zukerman",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pithapuram Nageswara Rao",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pro Arte Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pyotr Ilyich Tchaikovsky",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Red Garland",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Reri Grist",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Richard Rodgers",
+      "group": 10,
+      "song_count": 39
+    },
+    {
+      "id": "Richard Strauss",
+      "group": 10,
+      "song_count": 15
+    },
+    {
+      "id": "Robert Penn",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Roberto Menescal",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ronaldo Boscoli",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Russ Tamblyn",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Shadow Wilson",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Shamshad Begum",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Sir Malcolm Sargent",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Sonny Rollins",
+      "group": 10,
+      "song_count": 23
+    },
+    {
+      "id": "Stan Getz",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Stanley Lebowsky",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Suzie Kaye",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Swarnalatha",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Teresa Stich-Randall",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "The New Symphony Orchestra Of London",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "The Pied Pipers",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Thelonious Monk",
+      "group": 10,
+      "song_count": 29
+    },
+    {
+      "id": "Thornton Lofthouse",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Tommy Flanagan",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Tony Mordente",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Vladimir Golschmann",
+      "group": 10,
+      "song_count": 18
+    },
+    {
+      "id": "West Side Story Ensemble",
+      "group": 10,
+      "song_count": 10
+    },
+    {
+      "id": "West Side Story Orchestra",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "West Side Story Original Broadway Cast",
+      "group": 10,
+      "song_count": 14
+    },
+    {
+      "id": "Wilbur Ware",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Yvonne Othon",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Zubin Mehta",
+      "group": 1,
+      "song_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Art Pepper",
+      "target": "Paul Chambers",
+      "colab_count": 1
+    },
+    {
+      "source": "Art Pepper",
+      "target": "Philly Joe Jones",
+      "colab_count": 1
+    },
+    {
+      "source": "Art Pepper",
+      "target": "Red Garland",
+      "colab_count": 1
+    },
+    {
+      "source": "Arthur Sullivan",
+      "target": "Marjorie Thomas/Sir Geraint Evans/Richard Lewis/Elsie Morison/Owen Brannigan/Ian Wallace/John Cameron/Jeannette Sinclair/Monica Sinclair/Glyndebourne Chorus/Pro Arte Orchestra/Sir Malcolm Sargent",
+      "colab_count": 1
+    },
+    {
+      "source": "Arthur Sullivan",
+      "target": "Pro Arte Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Arthur Sullivan",
+      "target": "Sir Malcolm Sargent",
+      "colab_count": 1
+    },
+    {
+      "source": "Ataulfo Alves",
+      "target": "A. Caminha",
+      "colab_count": 1
+    },
+    {
+      "source": "Ataulfo Alves",
+      "target": "Alcides Caminha",
+      "colab_count": 1
+    },
+    {
+      "source": "Ataulfo Alves",
+      "target": "Guilherme De Brito",
+      "colab_count": 1
+    },
+    {
+      "source": "Ataulfo Alves",
+      "target": "Luiz Soberano",
+      "colab_count": 1
+    },
+    {
+      "source": "Ataulfo Alves",
+      "target": "Maria Cruesa",
+      "colab_count": 1
+    },
+    {
+      "source": "Ataulfo Alves",
+      "target": "Milton de Oliveira",
+      "colab_count": 1
+    },
+    {
+      "source": "Ataulfo Alves",
+      "target": "Mirabeau De Oliveira",
+      "colab_count": 1
+    },
+    {
+      "source": "Ataulfo Alves",
+      "target": "Nelson Cavaquinho",
+      "colab_count": 1
+    },
+    {
+      "source": "Ataulfo Alves",
+      "target": "Paquita",
+      "colab_count": 1
+    },
+    {
+      "source": "Franz Schubert",
+      "target": "Eugene Istomin",
+      "colab_count": 1
+    },
+    {
+      "source": "Franz Schubert",
+      "target": "Isaac Stern",
+      "colab_count": 1
+    },
+    {
+      "source": "Franz Schubert",
+      "target": "Leonard Rose",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Herbert von Karajan",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Maria Callas",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Orchestra Del Teatro Alla Scala, Milano",
+      "colab_count": 1
+    },
+    {
+      "source": "Harry \"Sweets\" Edison",
+      "target": "Gerry Mulligan",
+      "colab_count": 2
+    },
+    {
+      "source": "Harry \"Sweets\" Edison",
+      "target": "Louie Bellson",
+      "colab_count": 2
+    },
+    {
+      "source": "Harry \"Sweets\" Edison",
+      "target": "Oscar Peterson Trio",
+      "colab_count": 2
+    },
+    {
+      "source": "Harry \"Sweets\" Edison",
+      "target": "Stan Getz",
+      "colab_count": 2
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Columbia Symphony Orchestra",
+      "colab_count": 18
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Erick Friedman",
+      "colab_count": 3
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Glenn Gould",
+      "colab_count": 18
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Jascha Heifetz",
+      "colab_count": 3
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Leonard Bernstein",
+      "colab_count": 3
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Sir Malcolm Sargent",
+      "colab_count": 3
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "The New Symphony Orchestra Of London",
+      "colab_count": 3
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Thornton Lofthouse",
+      "colab_count": 3
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Vladimir Golschmann",
+      "colab_count": 15
+    },
+    {
+      "source": "John Kander",
+      "target": "Chicago Ensemble",
+      "colab_count": 1
+    },
+    {
+      "source": "John Kander",
+      "target": "Chita Rivera",
+      "colab_count": 1
+    },
+    {
+      "source": "John Kander",
+      "target": "Stanley Lebowsky",
+      "colab_count": 1
+    },
+    {
+      "source": "Johnny Mercer",
+      "target": "Jo Stafford",
+      "colab_count": 1
+    },
+    {
+      "source": "Johnny Mercer",
+      "target": "Paul Weston And His Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Johnny Mercer",
+      "target": "The Pied Pipers",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Bert Michaels",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Betty Wand",
+      "colab_count": 2
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Carmen Gutierrez",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Carol Lawrence",
+      "colab_count": 7
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Chita Rivera",
+      "colab_count": 2
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "David Winters",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Eliot Feld",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Elizabeth Taylor",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "George Chakiris",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Jim Bryant",
+      "colab_count": 4
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Joanne Miya",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Johnny Green",
+      "colab_count": 7
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Ken Le Roy",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Larry Kert",
+      "colab_count": 5
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Marilyn Cooper",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Marni Nixon",
+      "colab_count": 3
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Max Goberman",
+      "colab_count": 10
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Mickey Calin",
+      "colab_count": 3
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Reri Grist",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Russ Tamblyn",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Suzie Kaye",
+      "colab_count": 2
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Tony Mordente",
+      "colab_count": 1
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "West Side Story Ensemble",
+      "colab_count": 10
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "West Side Story Orchestra",
+      "colab_count": 7
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "West Side Story Original Broadway Cast",
+      "colab_count": 14
+    },
+    {
+      "source": "Leonard Bernstein",
+      "target": "Yvonne Othon",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "American Symphony Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Columbia Symphony Orchestra",
+      "colab_count": 9
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Glenn Gould",
+      "colab_count": 15
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Leonard Bernstein",
+      "colab_count": 9
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Leopold Stokowski",
+      "colab_count": 3
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "New York Philharmonic",
+      "colab_count": 3
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Vladimir Golschmann",
+      "colab_count": 3
+    },
+    {
+      "source": "Madhavapeddi Sathyam",
+      "target": "Ghantasala",
+      "colab_count": 1
+    },
+    {
+      "source": "Madhavapeddi Sathyam",
+      "target": "K.Ravi",
+      "colab_count": 1
+    },
+    {
+      "source": "Madhavapeddi Sathyam",
+      "target": "P. Susheela",
+      "colab_count": 1
+    },
+    {
+      "source": "Madhavapeddi Sathyam",
+      "target": "Pithapuram Nageswara Rao",
+      "colab_count": 1
+    },
+    {
+      "source": "Madhavapeddi Sathyam",
+      "target": "Swarnalatha",
+      "colab_count": 1
+    },
+    {
+      "source": "Miles Davis",
+      "target": "Horace Silver",
+      "colab_count": 5
+    },
+    {
+      "source": "Miles Davis",
+      "target": "Kenny Clarke",
+      "colab_count": 7
+    },
+    {
+      "source": "Miles Davis",
+      "target": "Milt Jackson",
+      "colab_count": 2
+    },
+    {
+      "source": "Miles Davis",
+      "target": "Percy Heath",
+      "colab_count": 7
+    },
+    {
+      "source": "Miles Davis",
+      "target": "Sonny Rollins",
+      "colab_count": 5
+    },
+    {
+      "source": "Miles Davis",
+      "target": "Thelonious Monk",
+      "colab_count": 2
+    },
+    {
+      "source": "Nikolai Rimsky-Korsakov",
+      "target": "Belgrade National Opera Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Nikolai Rimsky-Korsakov",
+      "target": "Drago Dimitrievich",
+      "colab_count": 1
+    },
+    {
+      "source": "Nikolai Rimsky-Korsakov",
+      "target": "Kreshimir Baranovich",
+      "colab_count": 1
+    },
+    {
+      "source": "Pyotr Ilyich Tchaikovsky",
+      "target": "Israel Philharmonic Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Pyotr Ilyich Tchaikovsky",
+      "target": "Pinchas Zukerman",
+      "colab_count": 1
+    },
+    {
+      "source": "Pyotr Ilyich Tchaikovsky",
+      "target": "Zubin Mehta",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Rodgers",
+      "target": "Alfredo Antonini",
+      "colab_count": 11
+    },
+    {
+      "source": "Richard Rodgers",
+      "target": "Alice Ghostley",
+      "colab_count": 3
+    },
+    {
+      "source": "Richard Rodgers",
+      "target": "Cinderella Ensemble",
+      "colab_count": 2
+    },
+    {
+      "source": "Richard Rodgers",
+      "target": "Dorothy Stickney",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Rodgers",
+      "target": "Edith Adams",
+      "colab_count": 3
+    },
+    {
+      "source": "Richard Rodgers",
+      "target": "George Hall",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Rodgers",
+      "target": "Howard Lindsay",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Rodgers",
+      "target": "Iggie Wolfington",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Rodgers",
+      "target": "Ilka Chase",
+      "colab_count": 2
+    },
+    {
+      "source": "Richard Rodgers",
+      "target": "Jon Cypher",
+      "colab_count": 3
+    },
+    {
+      "source": "Richard Rodgers",
+      "target": "Julie Andrews",
+      "colab_count": 7
+    },
+    {
+      "source": "Richard Rodgers",
+      "target": "Kaye Ballard",
+      "colab_count": 3
+    },
+    {
+      "source": "Richard Rodgers",
+      "target": "Robert Penn",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Anny Felbermayer",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Christa Ludwig",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Elisabeth Schwarzkopf",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Erich Majkut",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Franz Bierbach",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Gerhard Unger",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Herbert von Karajan",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Karl Friedrich",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Kerstin Meyer",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Ljuba Welitsch",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Nicolai Gedda",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Otto Edelmann",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Paul Kuen",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Philharmonia Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Teresa Stich-Randall",
+      "colab_count": 1
+    },
+    {
+      "source": "Ronaldo Boscoli",
+      "target": "Cyl Farney",
+      "colab_count": 1
+    },
+    {
+      "source": "Ronaldo Boscoli",
+      "target": "Norma Bengell",
+      "colab_count": 1
+    },
+    {
+      "source": "Ronaldo Boscoli",
+      "target": "Roberto Menescal",
+      "colab_count": 1
+    },
+    {
+      "source": "Shamshad Begum",
+      "target": "Asha Bhosle",
+      "colab_count": 1
+    },
+    {
+      "source": "Shamshad Begum",
+      "target": "Manna Dey",
+      "colab_count": 1
+    },
+    {
+      "source": "Shamshad Begum",
+      "target": "Mohammed Rafi",
+      "colab_count": 1
+    },
+    {
+      "source": "Sonny Rollins",
+      "target": "Doug Watkins",
+      "colab_count": 5
+    },
+    {
+      "source": "Sonny Rollins",
+      "target": "Max Roach",
+      "colab_count": 5
+    },
+    {
+      "source": "Sonny Rollins",
+      "target": "Tommy Flanagan",
+      "colab_count": 5
+    },
+    {
+      "source": "Thelonious Monk",
+      "target": "Clark Terry",
+      "colab_count": 3
+    },
+    {
+      "source": "Thelonious Monk",
+      "target": "Ernie Henry",
+      "colab_count": 3
+    },
+    {
+      "source": "Thelonious Monk",
+      "target": "Gerry Mulligan",
+      "colab_count": 6
+    },
+    {
+      "source": "Thelonious Monk",
+      "target": "Shadow Wilson",
+      "colab_count": 6
+    },
+    {
+      "source": "Thelonious Monk",
+      "target": "Sonny Rollins",
+      "colab_count": 3
+    },
+    {
+      "source": "Thelonious Monk",
+      "target": "Wilbur Ware",
+      "colab_count": 6
+    }
+  ]
+}

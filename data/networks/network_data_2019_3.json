@@ -1,0 +1,1916 @@
+{
+  "nodes": [
+    {
+      "id": "$tupid Young",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "A Boogie Wit da Hoodie",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "ALLBLACK",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Adventure Time",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Afourteen",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Alan Walker",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Alex Brightman",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Almighty",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Amanda Shires",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Anitta",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Anuel AA",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Arcangel",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Ari Lennox",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "BLCKK",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "BRUHMANEGOD",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bas",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Beast Coast",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Becky G",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Billy Eichner",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Blue Ivy",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Brandi Carlile",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Brando",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Brantley Gilbert",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Brian May",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bryant Myers",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Brytiago",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Buddy",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Calboy",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Cardi B",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Casper Magico",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Cast of Frozen 2",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Cazzu",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Chencho Corleone",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Chief Keef",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Childish Gambino",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "City Girls",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "City Morgue",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Colt Ford",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "DJ Luian",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "DJ Scheme",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "DJ Snake",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "DaBaby",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "DaBoii",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Daddy Yankee",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Dalex",
+      "group": 10,
+      "song_count": 19
+    },
+    {
+      "id": "Danny Towers",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Darell",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Death Stranding: Timefall",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Deedee Magno Hall",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Denzel Curry",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Devin Dawson",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Diplo",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Donald Glover",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dreamville",
+      "group": 10,
+      "song_count": 29
+    },
+    {
+      "id": "Dreezy",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Duckwrth",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "EARTHGANG",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "El Alfa",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Eric North",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Erick the Architect",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Estelle",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Farruko",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Feid",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Fenix Flexin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Five Finger Death Punch",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Flatbush Zombies",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Game of Thrones",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Guapdad 4000",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Gunna",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "HARDY",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "HIXTAPE",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Half Metal Kaiba",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Idina Menzel",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Issa Gold",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "J Balvin",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "J. Cole",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "JD McCrary",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "JID",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "JOHNNASCUS",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jace",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Joey Bada$$",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jonas Brothers",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jonathan Groff",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Josh Gad",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Juhn",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Justin Quiles",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "K-391",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "KAROL G",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "KEVVO",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "KHEA",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Keke Palmer",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kenny Wayne Shepherd",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kerry Butler",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Khalid",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kristen Bell",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "LSD",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Labrinth",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Lauren Alaina",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Layton Greene",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "League of Legends",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "LiL CUBENSiS",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lil Baby",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Lil Darkie",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Lil Durk",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lil Yachty",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Loud Luxury",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Lukas Nelson",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lute",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lyanno",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Madeleine Martin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Major Lazer",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Maluma",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mambo Kingz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mangoo",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Maren Morris",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mariah Angeliq",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Meek Mill",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mez",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Michaela Dietz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Migos",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Mustard",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Myke Towers",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "NAV",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Natalie Hemby",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Natti Natasha",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Nicky Jam",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Nio Garcia",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Noriel",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Offset",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Offset Jim",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ombre2Choc Nation",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Omen",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ozuna",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Pitbull",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Playboi Carti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "PnB Rock",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Pouya",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Powers Pleasant",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Quality Control",
+      "group": 10,
+      "song_count": 11
+    },
+    {
+      "id": "Ramirez",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rauw Alejandro",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Reese LAFLARE",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rich Music LTD",
+      "group": 10,
+      "song_count": 11
+    },
+    {
+      "id": "Rob McClure",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rock Mafia",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Royalty the Kidd",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Roz Ryan",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "SAINt JHN",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "SOYEON of (G)I-DLE",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "SZA",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Saba",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sarah Stiles",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sebastian Yatra",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Sech",
+      "group": 10,
+      "song_count": 14
+    },
+    {
+      "id": "Selena Gomez",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Seth Rogen",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sia",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Ski Mask The Slump God",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Smino",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Smokepurpp",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Snoop Dogg",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sophia Anne Caruso",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "SosMula",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Steven Universe",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Tadoe",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Tainy",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "The Highwomen",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "The Weeknd",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Thutmose",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Travis Scott",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Trippie Redd",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "TrippyThaKid",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "True Damage",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Tungevaag",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ty Dolla $ign",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wendigo",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Willie Nelson",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wisin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "WizKid",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Young Nudy",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Young Thug",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Yung Gravy",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Zach Callison",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "ZillaKami",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Zion",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "benny blanco",
+      "group": 3,
+      "song_count": 3
+    }
+  ],
+  "links": [
+    {
+      "source": "ALLBLACK",
+      "target": "$tupid Young",
+      "colab_count": 1
+    },
+    {
+      "source": "ALLBLACK",
+      "target": "DaBoii",
+      "colab_count": 1
+    },
+    {
+      "source": "ALLBLACK",
+      "target": "Fenix Flexin",
+      "colab_count": 1
+    },
+    {
+      "source": "ALLBLACK",
+      "target": "Offset Jim",
+      "colab_count": 1
+    },
+    {
+      "source": "Adventure Time",
+      "target": "Donald Glover",
+      "colab_count": 1
+    },
+    {
+      "source": "Adventure Time",
+      "target": "Madeleine Martin",
+      "colab_count": 1
+    },
+    {
+      "source": "Adventure Time",
+      "target": "Roz Ryan",
+      "colab_count": 1
+    },
+    {
+      "source": "Alex Brightman",
+      "target": "Kerry Butler",
+      "colab_count": 1
+    },
+    {
+      "source": "Alex Brightman",
+      "target": "Rob McClure",
+      "colab_count": 1
+    },
+    {
+      "source": "Alex Brightman",
+      "target": "Sophia Anne Caruso",
+      "colab_count": 1
+    },
+    {
+      "source": "Anuel AA",
+      "target": "Daddy Yankee",
+      "colab_count": 1
+    },
+    {
+      "source": "Anuel AA",
+      "target": "J Balvin",
+      "colab_count": 1
+    },
+    {
+      "source": "Anuel AA",
+      "target": "KAROL G",
+      "colab_count": 1
+    },
+    {
+      "source": "Anuel AA",
+      "target": "Ozuna",
+      "colab_count": 1
+    },
+    {
+      "source": "Beast Coast",
+      "target": "Erick the Architect",
+      "colab_count": 1
+    },
+    {
+      "source": "Beast Coast",
+      "target": "Flatbush Zombies",
+      "colab_count": 1
+    },
+    {
+      "source": "Beast Coast",
+      "target": "Issa Gold",
+      "colab_count": 1
+    },
+    {
+      "source": "Beast Coast",
+      "target": "Joey Bada$$",
+      "colab_count": 1
+    },
+    {
+      "source": "Beast Coast",
+      "target": "Powers Pleasant",
+      "colab_count": 1
+    },
+    {
+      "source": "Billy Eichner",
+      "target": "Childish Gambino",
+      "colab_count": 1
+    },
+    {
+      "source": "Billy Eichner",
+      "target": "JD McCrary",
+      "colab_count": 1
+    },
+    {
+      "source": "Billy Eichner",
+      "target": "Seth Rogen",
+      "colab_count": 1
+    },
+    {
+      "source": "Blue Ivy",
+      "target": "SAINt JHN",
+      "colab_count": 1
+    },
+    {
+      "source": "Blue Ivy",
+      "target": "WizKid",
+      "colab_count": 1
+    },
+    {
+      "source": "Brantley Gilbert",
+      "target": "Colt Ford",
+      "colab_count": 1
+    },
+    {
+      "source": "Brantley Gilbert",
+      "target": "Lukas Nelson",
+      "colab_count": 1
+    },
+    {
+      "source": "Brantley Gilbert",
+      "target": "Willie Nelson",
+      "colab_count": 1
+    },
+    {
+      "source": "Calboy",
+      "target": "Lil Durk",
+      "colab_count": 1
+    },
+    {
+      "source": "Calboy",
+      "target": "Meek Mill",
+      "colab_count": 1
+    },
+    {
+      "source": "Calboy",
+      "target": "Young Thug",
+      "colab_count": 1
+    },
+    {
+      "source": "City Morgue",
+      "target": "Denzel Curry",
+      "colab_count": 1
+    },
+    {
+      "source": "City Morgue",
+      "target": "SosMula",
+      "colab_count": 1
+    },
+    {
+      "source": "City Morgue",
+      "target": "ZillaKami",
+      "colab_count": 1
+    },
+    {
+      "source": "DJ Luian",
+      "target": "Anuel AA",
+      "colab_count": 1
+    },
+    {
+      "source": "DJ Luian",
+      "target": "Brytiago",
+      "colab_count": 1
+    },
+    {
+      "source": "DJ Luian",
+      "target": "Darell",
+      "colab_count": 1
+    },
+    {
+      "source": "DJ Luian",
+      "target": "Mambo Kingz",
+      "colab_count": 1
+    },
+    {
+      "source": "DJ Luian",
+      "target": "Nicky Jam",
+      "colab_count": 1
+    },
+    {
+      "source": "DJ Scheme",
+      "target": "Danny Towers",
+      "colab_count": 1
+    },
+    {
+      "source": "DJ Scheme",
+      "target": "Lil Yachty",
+      "colab_count": 1
+    },
+    {
+      "source": "DJ Scheme",
+      "target": "Ski Mask The Slump God",
+      "colab_count": 1
+    },
+    {
+      "source": "DJ Snake",
+      "target": "Cardi B",
+      "colab_count": 1
+    },
+    {
+      "source": "DJ Snake",
+      "target": "Ozuna",
+      "colab_count": 1
+    },
+    {
+      "source": "DJ Snake",
+      "target": "Selena Gomez",
+      "colab_count": 1
+    },
+    {
+      "source": "Dalex",
+      "target": "Anitta",
+      "colab_count": 1
+    },
+    {
+      "source": "Dalex",
+      "target": "Cazzu",
+      "colab_count": 1
+    },
+    {
+      "source": "Dalex",
+      "target": "Chencho Corleone",
+      "colab_count": 1
+    },
+    {
+      "source": "Dalex",
+      "target": "Farruko",
+      "colab_count": 1
+    },
+    {
+      "source": "Dalex",
+      "target": "Feid",
+      "colab_count": 2
+    },
+    {
+      "source": "Dalex",
+      "target": "Juhn",
+      "colab_count": 1
+    },
+    {
+      "source": "Dalex",
+      "target": "Justin Quiles",
+      "colab_count": 2
+    },
+    {
+      "source": "Dalex",
+      "target": "KHEA",
+      "colab_count": 1
+    },
+    {
+      "source": "Dalex",
+      "target": "Natti Natasha",
+      "colab_count": 1
+    },
+    {
+      "source": "Dalex",
+      "target": "Nicky Jam",
+      "colab_count": 1
+    },
+    {
+      "source": "Dalex",
+      "target": "Sech",
+      "colab_count": 2
+    },
+    {
+      "source": "Dreamville",
+      "target": "Ari Lennox",
+      "colab_count": 1
+    },
+    {
+      "source": "Dreamville",
+      "target": "Bas",
+      "colab_count": 2
+    },
+    {
+      "source": "Dreamville",
+      "target": "Buddy",
+      "colab_count": 2
+    },
+    {
+      "source": "Dreamville",
+      "target": "DaBaby",
+      "colab_count": 1
+    },
+    {
+      "source": "Dreamville",
+      "target": "Dreezy",
+      "colab_count": 1
+    },
+    {
+      "source": "Dreamville",
+      "target": "EARTHGANG",
+      "colab_count": 3
+    },
+    {
+      "source": "Dreamville",
+      "target": "Guapdad 4000",
+      "colab_count": 2
+    },
+    {
+      "source": "Dreamville",
+      "target": "J. Cole",
+      "colab_count": 3
+    },
+    {
+      "source": "Dreamville",
+      "target": "JID",
+      "colab_count": 3
+    },
+    {
+      "source": "Dreamville",
+      "target": "Jace",
+      "colab_count": 1
+    },
+    {
+      "source": "Dreamville",
+      "target": "Lute",
+      "colab_count": 1
+    },
+    {
+      "source": "Dreamville",
+      "target": "Mez",
+      "colab_count": 1
+    },
+    {
+      "source": "Dreamville",
+      "target": "Omen",
+      "colab_count": 1
+    },
+    {
+      "source": "Dreamville",
+      "target": "Reese LAFLARE",
+      "colab_count": 1
+    },
+    {
+      "source": "Dreamville",
+      "target": "Saba",
+      "colab_count": 1
+    },
+    {
+      "source": "Dreamville",
+      "target": "Ski Mask The Slump God",
+      "colab_count": 1
+    },
+    {
+      "source": "Dreamville",
+      "target": "Smino",
+      "colab_count": 1
+    },
+    {
+      "source": "Dreamville",
+      "target": "Smokepurpp",
+      "colab_count": 1
+    },
+    {
+      "source": "Dreamville",
+      "target": "Ty Dolla $ign",
+      "colab_count": 1
+    },
+    {
+      "source": "Dreamville",
+      "target": "Young Nudy",
+      "colab_count": 1
+    },
+    {
+      "source": "Five Finger Death Punch",
+      "target": "Brantley Gilbert",
+      "colab_count": 1
+    },
+    {
+      "source": "Five Finger Death Punch",
+      "target": "Brian May",
+      "colab_count": 1
+    },
+    {
+      "source": "Five Finger Death Punch",
+      "target": "Kenny Wayne Shepherd",
+      "colab_count": 1
+    },
+    {
+      "source": "HIXTAPE",
+      "target": "Devin Dawson",
+      "colab_count": 1
+    },
+    {
+      "source": "HIXTAPE",
+      "target": "HARDY",
+      "colab_count": 1
+    },
+    {
+      "source": "HIXTAPE",
+      "target": "Lauren Alaina",
+      "colab_count": 1
+    },
+    {
+      "source": "Justin Quiles",
+      "target": "Dalex",
+      "colab_count": 1
+    },
+    {
+      "source": "Justin Quiles",
+      "target": "Farruko",
+      "colab_count": 1
+    },
+    {
+      "source": "Justin Quiles",
+      "target": "Natti Natasha",
+      "colab_count": 1
+    },
+    {
+      "source": "Justin Quiles",
+      "target": "Zion",
+      "colab_count": 1
+    },
+    {
+      "source": "K-391",
+      "target": "Alan Walker",
+      "colab_count": 1
+    },
+    {
+      "source": "K-391",
+      "target": "Mangoo",
+      "colab_count": 1
+    },
+    {
+      "source": "K-391",
+      "target": "Tungevaag",
+      "colab_count": 1
+    },
+    {
+      "source": "KEVVO",
+      "target": "Arcangel",
+      "colab_count": 1
+    },
+    {
+      "source": "KEVVO",
+      "target": "Brytiago",
+      "colab_count": 1
+    },
+    {
+      "source": "KEVVO",
+      "target": "Chencho Corleone",
+      "colab_count": 1
+    },
+    {
+      "source": "KEVVO",
+      "target": "Darell",
+      "colab_count": 1
+    },
+    {
+      "source": "KEVVO",
+      "target": "Farruko",
+      "colab_count": 1
+    },
+    {
+      "source": "KEVVO",
+      "target": "Myke Towers",
+      "colab_count": 1
+    },
+    {
+      "source": "Kristen Bell",
+      "target": "Cast of Frozen 2",
+      "colab_count": 1
+    },
+    {
+      "source": "Kristen Bell",
+      "target": "Idina Menzel",
+      "colab_count": 1
+    },
+    {
+      "source": "Kristen Bell",
+      "target": "Jonathan Groff",
+      "colab_count": 1
+    },
+    {
+      "source": "Kristen Bell",
+      "target": "Josh Gad",
+      "colab_count": 1
+    },
+    {
+      "source": "Lil Darkie",
+      "target": "Afourteen",
+      "colab_count": 1
+    },
+    {
+      "source": "Lil Darkie",
+      "target": "BLCKK",
+      "colab_count": 1
+    },
+    {
+      "source": "Lil Darkie",
+      "target": "BRUHMANEGOD",
+      "colab_count": 1
+    },
+    {
+      "source": "Lil Darkie",
+      "target": "Eric North",
+      "colab_count": 1
+    },
+    {
+      "source": "Lil Darkie",
+      "target": "Half Metal Kaiba",
+      "colab_count": 1
+    },
+    {
+      "source": "Lil Darkie",
+      "target": "JOHNNASCUS",
+      "colab_count": 1
+    },
+    {
+      "source": "Lil Darkie",
+      "target": "LiL CUBENSiS",
+      "colab_count": 1
+    },
+    {
+      "source": "Lil Darkie",
+      "target": "Royalty the Kidd",
+      "colab_count": 1
+    },
+    {
+      "source": "Lil Darkie",
+      "target": "Wendigo",
+      "colab_count": 1
+    },
+    {
+      "source": "Loud Luxury",
+      "target": "Brando",
+      "colab_count": 1
+    },
+    {
+      "source": "Loud Luxury",
+      "target": "Nicky Jam",
+      "colab_count": 1
+    },
+    {
+      "source": "Loud Luxury",
+      "target": "Pitbull",
+      "colab_count": 1
+    },
+    {
+      "source": "Major Lazer",
+      "target": "Death Stranding: Timefall",
+      "colab_count": 1
+    },
+    {
+      "source": "Major Lazer",
+      "target": "Diplo",
+      "colab_count": 2
+    },
+    {
+      "source": "Major Lazer",
+      "target": "El Alfa",
+      "colab_count": 1
+    },
+    {
+      "source": "Major Lazer",
+      "target": "J Balvin",
+      "colab_count": 1
+    },
+    {
+      "source": "Major Lazer",
+      "target": "Khalid",
+      "colab_count": 1
+    },
+    {
+      "source": "Migos",
+      "target": "KAROL G",
+      "colab_count": 1
+    },
+    {
+      "source": "Migos",
+      "target": "Rock Mafia",
+      "colab_count": 1
+    },
+    {
+      "source": "Migos",
+      "target": "Snoop Dogg",
+      "colab_count": 1
+    },
+    {
+      "source": "Mustard",
+      "target": "A Boogie Wit da Hoodie",
+      "colab_count": 1
+    },
+    {
+      "source": "Mustard",
+      "target": "NAV",
+      "colab_count": 1
+    },
+    {
+      "source": "Mustard",
+      "target": "Playboi Carti",
+      "colab_count": 1
+    },
+    {
+      "source": "Myke Towers",
+      "target": "Arcangel",
+      "colab_count": 1
+    },
+    {
+      "source": "Myke Towers",
+      "target": "Farruko",
+      "colab_count": 1
+    },
+    {
+      "source": "Myke Towers",
+      "target": "Sech",
+      "colab_count": 1
+    },
+    {
+      "source": "Myke Towers",
+      "target": "Zion",
+      "colab_count": 1
+    },
+    {
+      "source": "Nio Garcia",
+      "target": "Casper Magico",
+      "colab_count": 1
+    },
+    {
+      "source": "Nio Garcia",
+      "target": "Darell",
+      "colab_count": 1
+    },
+    {
+      "source": "Nio Garcia",
+      "target": "Myke Towers",
+      "colab_count": 1
+    },
+    {
+      "source": "Nio Garcia",
+      "target": "Rauw Alejandro",
+      "colab_count": 1
+    },
+    {
+      "source": "Noriel",
+      "target": "Almighty",
+      "colab_count": 1
+    },
+    {
+      "source": "Noriel",
+      "target": "Myke Towers",
+      "colab_count": 1
+    },
+    {
+      "source": "Noriel",
+      "target": "Rauw Alejandro",
+      "colab_count": 1
+    },
+    {
+      "source": "Ombre2Choc Nation",
+      "target": "Chief Keef",
+      "colab_count": 1
+    },
+    {
+      "source": "Ombre2Choc Nation",
+      "target": "Tadoe",
+      "colab_count": 1
+    },
+    {
+      "source": "Ombre2Choc Nation",
+      "target": "Trippie Redd",
+      "colab_count": 1
+    },
+    {
+      "source": "Ozuna",
+      "target": "Anuel AA",
+      "colab_count": 1
+    },
+    {
+      "source": "Ozuna",
+      "target": "Daddy Yankee",
+      "colab_count": 1
+    },
+    {
+      "source": "Ozuna",
+      "target": "Farruko",
+      "colab_count": 1
+    },
+    {
+      "source": "Ozuna",
+      "target": "J Balvin",
+      "colab_count": 1
+    },
+    {
+      "source": "Quality Control",
+      "target": "City Girls",
+      "colab_count": 2
+    },
+    {
+      "source": "Quality Control",
+      "target": "DaBaby",
+      "colab_count": 1
+    },
+    {
+      "source": "Quality Control",
+      "target": "Gunna",
+      "colab_count": 1
+    },
+    {
+      "source": "Quality Control",
+      "target": "Layton Greene",
+      "colab_count": 2
+    },
+    {
+      "source": "Quality Control",
+      "target": "Lil Baby",
+      "colab_count": 2
+    },
+    {
+      "source": "Quality Control",
+      "target": "Offset",
+      "colab_count": 1
+    },
+    {
+      "source": "Quality Control",
+      "target": "PnB Rock",
+      "colab_count": 2
+    },
+    {
+      "source": "Rauw Alejandro",
+      "target": "Bryant Myers",
+      "colab_count": 1
+    },
+    {
+      "source": "Rauw Alejandro",
+      "target": "Chencho Corleone",
+      "colab_count": 1
+    },
+    {
+      "source": "Rauw Alejandro",
+      "target": "Dalex",
+      "colab_count": 1
+    },
+    {
+      "source": "Rauw Alejandro",
+      "target": "KEVVO",
+      "colab_count": 1
+    },
+    {
+      "source": "Rauw Alejandro",
+      "target": "Lyanno",
+      "colab_count": 1
+    },
+    {
+      "source": "Rich Music LTD",
+      "target": "Dalex",
+      "colab_count": 2
+    },
+    {
+      "source": "Rich Music LTD",
+      "target": "Feid",
+      "colab_count": 2
+    },
+    {
+      "source": "Rich Music LTD",
+      "target": "Justin Quiles",
+      "colab_count": 2
+    },
+    {
+      "source": "Rich Music LTD",
+      "target": "Mariah Angeliq",
+      "colab_count": 1
+    },
+    {
+      "source": "Rich Music LTD",
+      "target": "Sech",
+      "colab_count": 2
+    },
+    {
+      "source": "Rich Music LTD",
+      "target": "Wisin",
+      "colab_count": 1
+    },
+    {
+      "source": "Rich Music LTD",
+      "target": "Zion",
+      "colab_count": 1
+    },
+    {
+      "source": "SZA",
+      "target": "Game of Thrones",
+      "colab_count": 1
+    },
+    {
+      "source": "SZA",
+      "target": "The Weeknd",
+      "colab_count": 1
+    },
+    {
+      "source": "SZA",
+      "target": "Travis Scott",
+      "colab_count": 1
+    },
+    {
+      "source": "Sebastian Yatra",
+      "target": "Daddy Yankee",
+      "colab_count": 1
+    },
+    {
+      "source": "Sebastian Yatra",
+      "target": "Jonas Brothers",
+      "colab_count": 1
+    },
+    {
+      "source": "Sebastian Yatra",
+      "target": "Natti Natasha",
+      "colab_count": 1
+    },
+    {
+      "source": "Sech",
+      "target": "Anuel AA",
+      "colab_count": 1
+    },
+    {
+      "source": "Sech",
+      "target": "Dalex",
+      "colab_count": 1
+    },
+    {
+      "source": "Sech",
+      "target": "Darell",
+      "colab_count": 1
+    },
+    {
+      "source": "Sech",
+      "target": "Farruko",
+      "colab_count": 1
+    },
+    {
+      "source": "Sech",
+      "target": "Justin Quiles",
+      "colab_count": 1
+    },
+    {
+      "source": "Sech",
+      "target": "Maluma",
+      "colab_count": 1
+    },
+    {
+      "source": "Sech",
+      "target": "Nicky Jam",
+      "colab_count": 2
+    },
+    {
+      "source": "Sech",
+      "target": "Ozuna",
+      "colab_count": 1
+    },
+    {
+      "source": "Sia",
+      "target": "Diplo",
+      "colab_count": 2
+    },
+    {
+      "source": "Sia",
+      "target": "LSD",
+      "colab_count": 2
+    },
+    {
+      "source": "Sia",
+      "target": "Labrinth",
+      "colab_count": 2
+    },
+    {
+      "source": "Steven Universe",
+      "target": "Deedee Magno Hall",
+      "colab_count": 1
+    },
+    {
+      "source": "Steven Universe",
+      "target": "Estelle",
+      "colab_count": 1
+    },
+    {
+      "source": "Steven Universe",
+      "target": "Michaela Dietz",
+      "colab_count": 1
+    },
+    {
+      "source": "Steven Universe",
+      "target": "Sarah Stiles",
+      "colab_count": 1
+    },
+    {
+      "source": "Steven Universe",
+      "target": "Zach Callison",
+      "colab_count": 1
+    },
+    {
+      "source": "The Highwomen",
+      "target": "Amanda Shires",
+      "colab_count": 1
+    },
+    {
+      "source": "The Highwomen",
+      "target": "Brandi Carlile",
+      "colab_count": 1
+    },
+    {
+      "source": "The Highwomen",
+      "target": "Maren Morris",
+      "colab_count": 1
+    },
+    {
+      "source": "The Highwomen",
+      "target": "Natalie Hemby",
+      "colab_count": 1
+    },
+    {
+      "source": "True Damage",
+      "target": "Becky G",
+      "colab_count": 1
+    },
+    {
+      "source": "True Damage",
+      "target": "Duckwrth",
+      "colab_count": 1
+    },
+    {
+      "source": "True Damage",
+      "target": "Keke Palmer",
+      "colab_count": 1
+    },
+    {
+      "source": "True Damage",
+      "target": "League of Legends",
+      "colab_count": 1
+    },
+    {
+      "source": "True Damage",
+      "target": "SOYEON of (G)I-DLE",
+      "colab_count": 1
+    },
+    {
+      "source": "True Damage",
+      "target": "Thutmose",
+      "colab_count": 1
+    },
+    {
+      "source": "Yung Gravy",
+      "target": "Pouya",
+      "colab_count": 1
+    },
+    {
+      "source": "Yung Gravy",
+      "target": "Ramirez",
+      "colab_count": 1
+    },
+    {
+      "source": "Yung Gravy",
+      "target": "TrippyThaKid",
+      "colab_count": 1
+    },
+    {
+      "source": "benny blanco",
+      "target": "J Balvin",
+      "colab_count": 1
+    },
+    {
+      "source": "benny blanco",
+      "target": "Selena Gomez",
+      "colab_count": 1
+    },
+    {
+      "source": "benny blanco",
+      "target": "Tainy",
+      "colab_count": 1
+    }
+  ]
+}

@@ -1,0 +1,1576 @@
+{
+  "nodes": [
+    {
+      "id": "2004 Hawaii Music Awards Compilation Of The Year",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "50 Cent",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Alex Lacamoire",
+      "group": 10,
+      "song_count": 10
+    },
+    {
+      "id": "Allan Thomas",
+      "group": 10,
+      "song_count": 29
+    },
+    {
+      "id": "Angela Gheorghiu",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ann Harada",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Art Neville",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "B.B. King",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bill Engvall",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Blackalicious",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bone Crusher",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Bonnie Raitt",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Boo",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Buddy Fo",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Buddy Guy",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Busta Rhymes",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "C-Rayz Walz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Carole Shelley",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Charles Michael Brotman",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Chingy",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Christopher Fitzgerald",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Country Comfort",
+      "group": 10,
+      "song_count": 29
+    },
+    {
+      "id": "Cristy Candler",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "DNA",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Danny Kaleikini",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Darlene Ahuna",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Dave Chamberlain",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "David Newton",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Deepti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dennis Pavao",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Diabolic",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dr Zeus",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Dr. John",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Eminem",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Eric Clapton",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Gabby Pahinui",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "George Helm",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Georges Bizet",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Ghostface Killah",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Gift Of Gab",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Gotti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Houston",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "I-20",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Idina Menzel",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Immortal Technique",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "J-Hood",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "JAY-Z",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jadakiss",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Jan Neuberger",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jay Larrin",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Jeff Foxworthy",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Jennifer Barnhart",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jim Jones",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Jim Tomlinson",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jimmie Vaughan",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Joe Recca",
+      "group": 10,
+      "song_count": 29
+    },
+    {
+      "id": "John Tartaglia",
+      "group": 10,
+      "song_count": 10
+    },
+    {
+      "id": "Jordan Gelber",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Joyo Velarde",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Juelz Santana",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "KK",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kahala Moon",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Ken Emerson",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Kohala",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Kristin Chenoweth",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Larry The Cable Guy",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Leo Norbert Butz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lloyd Banks",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lorna Lim",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Loucipher",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Loy Mendonsa",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Luny Tunes",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Lyrics Born",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Mark Ronson",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Master P",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Master Rakesh",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Matt Home",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Melveen Leed",
+      "group": 10,
+      "song_count": 29
+    },
+    {
+      "id": "Michel Plasson",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Michelle Federer",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Moe Keale",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Natalie Venetia Belcon",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Nate Dogg",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Nathan Aweau",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Neal Slateford",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Nick Batt",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Norbert Leo Butz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Noriega",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Obie Trice",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Orchestre National Du Capitole De Toulouse",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pauline Wilson",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Peter Moon",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Poison Pen",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pumpkinhead",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "R. Kelly",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Rick Lyon",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Robert Cazimero",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Robert Cray",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Robi Kahakalau",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Roland Cazimero",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Ron White",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sadhana Sargam",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Saigon",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sean McCourt",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Shaan",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Shankar-Ehsaan-Loy",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Sheek Louch",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Shortie",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sonu Nigam",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Stacey Kent",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Stephanie D'Abruzzo",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Stephen Oremus",
+      "group": 10,
+      "song_count": 10
+    },
+    {
+      "id": "Stephen Schwartz",
+      "group": 10,
+      "song_count": 42
+    },
+    {
+      "id": "Styles P",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sujata Bhattacharya",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Suzanne Vega",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Teresa Bright",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "The Diplomats",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "The Invitations",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "The Sunday Manoa",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Tito \"El Bambino\"",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Tonedeff",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Trife",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Udit Narayan",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Vasundhara Das",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wolff",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Zion & Lennox",
+      "group": 1,
+      "song_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Allan Thomas",
+      "target": "2004 Hawaii Music Awards Compilation Of The Year",
+      "colab_count": 1
+    },
+    {
+      "source": "Allan Thomas",
+      "target": "Buddy Fo",
+      "colab_count": 1
+    },
+    {
+      "source": "Allan Thomas",
+      "target": "Charles Michael Brotman",
+      "colab_count": 1
+    },
+    {
+      "source": "Allan Thomas",
+      "target": "Country Comfort",
+      "colab_count": 1
+    },
+    {
+      "source": "Allan Thomas",
+      "target": "Danny Kaleikini",
+      "colab_count": 1
+    },
+    {
+      "source": "Allan Thomas",
+      "target": "Darlene Ahuna",
+      "colab_count": 1
+    },
+    {
+      "source": "Allan Thomas",
+      "target": "Dennis Pavao",
+      "colab_count": 1
+    },
+    {
+      "source": "Allan Thomas",
+      "target": "Gabby Pahinui",
+      "colab_count": 1
+    },
+    {
+      "source": "Allan Thomas",
+      "target": "George Helm",
+      "colab_count": 1
+    },
+    {
+      "source": "Allan Thomas",
+      "target": "Jay Larrin",
+      "colab_count": 1
+    },
+    {
+      "source": "Allan Thomas",
+      "target": "Joe Recca",
+      "colab_count": 1
+    },
+    {
+      "source": "Allan Thomas",
+      "target": "Kahala Moon",
+      "colab_count": 1
+    },
+    {
+      "source": "Allan Thomas",
+      "target": "Ken Emerson",
+      "colab_count": 1
+    },
+    {
+      "source": "Allan Thomas",
+      "target": "Kohala",
+      "colab_count": 1
+    },
+    {
+      "source": "Allan Thomas",
+      "target": "Lorna Lim",
+      "colab_count": 1
+    },
+    {
+      "source": "Allan Thomas",
+      "target": "Melveen Leed",
+      "colab_count": 1
+    },
+    {
+      "source": "Allan Thomas",
+      "target": "Moe Keale",
+      "colab_count": 1
+    },
+    {
+      "source": "Allan Thomas",
+      "target": "Nathan Aweau",
+      "colab_count": 1
+    },
+    {
+      "source": "Allan Thomas",
+      "target": "Pauline Wilson",
+      "colab_count": 1
+    },
+    {
+      "source": "Allan Thomas",
+      "target": "Peter Moon",
+      "colab_count": 1
+    },
+    {
+      "source": "Allan Thomas",
+      "target": "Robert Cazimero",
+      "colab_count": 1
+    },
+    {
+      "source": "Allan Thomas",
+      "target": "Robi Kahakalau",
+      "colab_count": 1
+    },
+    {
+      "source": "Allan Thomas",
+      "target": "Roland Cazimero",
+      "colab_count": 1
+    },
+    {
+      "source": "Allan Thomas",
+      "target": "Teresa Bright",
+      "colab_count": 1
+    },
+    {
+      "source": "Allan Thomas",
+      "target": "The Invitations",
+      "colab_count": 1
+    },
+    {
+      "source": "Allan Thomas",
+      "target": "The Sunday Manoa",
+      "colab_count": 1
+    },
+    {
+      "source": "Bone Crusher",
+      "target": "Busta Rhymes",
+      "colab_count": 1
+    },
+    {
+      "source": "Bone Crusher",
+      "target": "Jadakiss",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "2004 Hawaii Music Awards Compilation Of The Year",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Allan Thomas",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Buddy Fo",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Charles Michael Brotman",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Danny Kaleikini",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Darlene Ahuna",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Dennis Pavao",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Gabby Pahinui",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "George Helm",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Jay Larrin",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Joe Recca",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Kahala Moon",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Ken Emerson",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Kohala",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Lorna Lim",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Melveen Leed",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Moe Keale",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Nathan Aweau",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Pauline Wilson",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Peter Moon",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Robert Cazimero",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Robi Kahakalau",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Roland Cazimero",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Teresa Bright",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "The Invitations",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "The Sunday Manoa",
+      "colab_count": 1
+    },
+    {
+      "source": "DNA",
+      "target": "Neal Slateford",
+      "colab_count": 1
+    },
+    {
+      "source": "DNA",
+      "target": "Nick Batt",
+      "colab_count": 1
+    },
+    {
+      "source": "DNA",
+      "target": "Suzanne Vega",
+      "colab_count": 1
+    },
+    {
+      "source": "Dr Zeus",
+      "target": "Deepti",
+      "colab_count": 1
+    },
+    {
+      "source": "Dr Zeus",
+      "target": "Master Rakesh",
+      "colab_count": 1
+    },
+    {
+      "source": "Dr Zeus",
+      "target": "Shortie",
+      "colab_count": 1
+    },
+    {
+      "source": "Georges Bizet",
+      "target": "Angela Gheorghiu",
+      "colab_count": 1
+    },
+    {
+      "source": "Georges Bizet",
+      "target": "Michel Plasson",
+      "colab_count": 1
+    },
+    {
+      "source": "Georges Bizet",
+      "target": "Orchestre National Du Capitole De Toulouse",
+      "colab_count": 1
+    },
+    {
+      "source": "Georges Bizet",
+      "target": "Wolff",
+      "colab_count": 1
+    },
+    {
+      "source": "Houston",
+      "target": "Chingy",
+      "colab_count": 1
+    },
+    {
+      "source": "Houston",
+      "target": "I-20",
+      "colab_count": 1
+    },
+    {
+      "source": "Houston",
+      "target": "Nate Dogg",
+      "colab_count": 1
+    },
+    {
+      "source": "Immortal Technique",
+      "target": "C-Rayz Walz",
+      "colab_count": 1
+    },
+    {
+      "source": "Immortal Technique",
+      "target": "Diabolic",
+      "colab_count": 1
+    },
+    {
+      "source": "Immortal Technique",
+      "target": "Loucipher",
+      "colab_count": 1
+    },
+    {
+      "source": "Immortal Technique",
+      "target": "Poison Pen",
+      "colab_count": 1
+    },
+    {
+      "source": "Immortal Technique",
+      "target": "Pumpkinhead",
+      "colab_count": 1
+    },
+    {
+      "source": "Immortal Technique",
+      "target": "Tonedeff",
+      "colab_count": 1
+    },
+    {
+      "source": "Jeff Foxworthy",
+      "target": "Bill Engvall",
+      "colab_count": 1
+    },
+    {
+      "source": "Jeff Foxworthy",
+      "target": "Larry The Cable Guy",
+      "colab_count": 1
+    },
+    {
+      "source": "Jeff Foxworthy",
+      "target": "Ron White",
+      "colab_count": 1
+    },
+    {
+      "source": "Jimmie Vaughan",
+      "target": "Art Neville",
+      "colab_count": 1
+    },
+    {
+      "source": "Jimmie Vaughan",
+      "target": "B.B. King",
+      "colab_count": 1
+    },
+    {
+      "source": "Jimmie Vaughan",
+      "target": "Bonnie Raitt",
+      "colab_count": 1
+    },
+    {
+      "source": "Jimmie Vaughan",
+      "target": "Buddy Guy",
+      "colab_count": 1
+    },
+    {
+      "source": "Jimmie Vaughan",
+      "target": "Dr. John",
+      "colab_count": 1
+    },
+    {
+      "source": "Jimmie Vaughan",
+      "target": "Eric Clapton",
+      "colab_count": 1
+    },
+    {
+      "source": "Jimmie Vaughan",
+      "target": "Robert Cray",
+      "colab_count": 1
+    },
+    {
+      "source": "Joe Recca",
+      "target": "2004 Hawaii Music Awards Compilation Of The Year",
+      "colab_count": 1
+    },
+    {
+      "source": "Joe Recca",
+      "target": "Allan Thomas",
+      "colab_count": 1
+    },
+    {
+      "source": "Joe Recca",
+      "target": "Buddy Fo",
+      "colab_count": 1
+    },
+    {
+      "source": "Joe Recca",
+      "target": "Charles Michael Brotman",
+      "colab_count": 1
+    },
+    {
+      "source": "Joe Recca",
+      "target": "Country Comfort",
+      "colab_count": 1
+    },
+    {
+      "source": "Joe Recca",
+      "target": "Danny Kaleikini",
+      "colab_count": 1
+    },
+    {
+      "source": "Joe Recca",
+      "target": "Darlene Ahuna",
+      "colab_count": 1
+    },
+    {
+      "source": "Joe Recca",
+      "target": "Dennis Pavao",
+      "colab_count": 1
+    },
+    {
+      "source": "Joe Recca",
+      "target": "Gabby Pahinui",
+      "colab_count": 1
+    },
+    {
+      "source": "Joe Recca",
+      "target": "George Helm",
+      "colab_count": 1
+    },
+    {
+      "source": "Joe Recca",
+      "target": "Jay Larrin",
+      "colab_count": 1
+    },
+    {
+      "source": "Joe Recca",
+      "target": "Kahala Moon",
+      "colab_count": 1
+    },
+    {
+      "source": "Joe Recca",
+      "target": "Ken Emerson",
+      "colab_count": 1
+    },
+    {
+      "source": "Joe Recca",
+      "target": "Kohala",
+      "colab_count": 1
+    },
+    {
+      "source": "Joe Recca",
+      "target": "Lorna Lim",
+      "colab_count": 1
+    },
+    {
+      "source": "Joe Recca",
+      "target": "Melveen Leed",
+      "colab_count": 1
+    },
+    {
+      "source": "Joe Recca",
+      "target": "Moe Keale",
+      "colab_count": 1
+    },
+    {
+      "source": "Joe Recca",
+      "target": "Nathan Aweau",
+      "colab_count": 1
+    },
+    {
+      "source": "Joe Recca",
+      "target": "Pauline Wilson",
+      "colab_count": 1
+    },
+    {
+      "source": "Joe Recca",
+      "target": "Peter Moon",
+      "colab_count": 1
+    },
+    {
+      "source": "Joe Recca",
+      "target": "Robert Cazimero",
+      "colab_count": 1
+    },
+    {
+      "source": "Joe Recca",
+      "target": "Robi Kahakalau",
+      "colab_count": 1
+    },
+    {
+      "source": "Joe Recca",
+      "target": "Roland Cazimero",
+      "colab_count": 1
+    },
+    {
+      "source": "Joe Recca",
+      "target": "Teresa Bright",
+      "colab_count": 1
+    },
+    {
+      "source": "Joe Recca",
+      "target": "The Invitations",
+      "colab_count": 1
+    },
+    {
+      "source": "Joe Recca",
+      "target": "The Sunday Manoa",
+      "colab_count": 1
+    },
+    {
+      "source": "John Tartaglia",
+      "target": "Ann Harada",
+      "colab_count": 2
+    },
+    {
+      "source": "John Tartaglia",
+      "target": "Jennifer Barnhart",
+      "colab_count": 1
+    },
+    {
+      "source": "John Tartaglia",
+      "target": "Jordan Gelber",
+      "colab_count": 2
+    },
+    {
+      "source": "John Tartaglia",
+      "target": "Natalie Venetia Belcon",
+      "colab_count": 2
+    },
+    {
+      "source": "John Tartaglia",
+      "target": "Rick Lyon",
+      "colab_count": 1
+    },
+    {
+      "source": "John Tartaglia",
+      "target": "Stephanie D'Abruzzo",
+      "colab_count": 2
+    },
+    {
+      "source": "Luny Tunes",
+      "target": "Noriega",
+      "colab_count": 1
+    },
+    {
+      "source": "Luny Tunes",
+      "target": "Tito \"El Bambino\"",
+      "colab_count": 1
+    },
+    {
+      "source": "Luny Tunes",
+      "target": "Zion & Lennox",
+      "colab_count": 1
+    },
+    {
+      "source": "Lyrics Born",
+      "target": "Blackalicious",
+      "colab_count": 1
+    },
+    {
+      "source": "Lyrics Born",
+      "target": "Gift Of Gab",
+      "colab_count": 1
+    },
+    {
+      "source": "Lyrics Born",
+      "target": "Joyo Velarde",
+      "colab_count": 1
+    },
+    {
+      "source": "Mark Ronson",
+      "target": "Ghostface Killah",
+      "colab_count": 1
+    },
+    {
+      "source": "Mark Ronson",
+      "target": "Nate Dogg",
+      "colab_count": 1
+    },
+    {
+      "source": "Mark Ronson",
+      "target": "Saigon",
+      "colab_count": 1
+    },
+    {
+      "source": "Mark Ronson",
+      "target": "Trife",
+      "colab_count": 1
+    },
+    {
+      "source": "Melveen Leed",
+      "target": "2004 Hawaii Music Awards Compilation Of The Year",
+      "colab_count": 1
+    },
+    {
+      "source": "Melveen Leed",
+      "target": "Allan Thomas",
+      "colab_count": 1
+    },
+    {
+      "source": "Melveen Leed",
+      "target": "Buddy Fo",
+      "colab_count": 1
+    },
+    {
+      "source": "Melveen Leed",
+      "target": "Charles Michael Brotman",
+      "colab_count": 1
+    },
+    {
+      "source": "Melveen Leed",
+      "target": "Country Comfort",
+      "colab_count": 1
+    },
+    {
+      "source": "Melveen Leed",
+      "target": "Danny Kaleikini",
+      "colab_count": 1
+    },
+    {
+      "source": "Melveen Leed",
+      "target": "Darlene Ahuna",
+      "colab_count": 1
+    },
+    {
+      "source": "Melveen Leed",
+      "target": "Dennis Pavao",
+      "colab_count": 1
+    },
+    {
+      "source": "Melveen Leed",
+      "target": "Gabby Pahinui",
+      "colab_count": 1
+    },
+    {
+      "source": "Melveen Leed",
+      "target": "George Helm",
+      "colab_count": 1
+    },
+    {
+      "source": "Melveen Leed",
+      "target": "Jay Larrin",
+      "colab_count": 1
+    },
+    {
+      "source": "Melveen Leed",
+      "target": "Joe Recca",
+      "colab_count": 1
+    },
+    {
+      "source": "Melveen Leed",
+      "target": "Kahala Moon",
+      "colab_count": 1
+    },
+    {
+      "source": "Melveen Leed",
+      "target": "Ken Emerson",
+      "colab_count": 1
+    },
+    {
+      "source": "Melveen Leed",
+      "target": "Kohala",
+      "colab_count": 1
+    },
+    {
+      "source": "Melveen Leed",
+      "target": "Lorna Lim",
+      "colab_count": 1
+    },
+    {
+      "source": "Melveen Leed",
+      "target": "Moe Keale",
+      "colab_count": 1
+    },
+    {
+      "source": "Melveen Leed",
+      "target": "Nathan Aweau",
+      "colab_count": 1
+    },
+    {
+      "source": "Melveen Leed",
+      "target": "Pauline Wilson",
+      "colab_count": 1
+    },
+    {
+      "source": "Melveen Leed",
+      "target": "Peter Moon",
+      "colab_count": 1
+    },
+    {
+      "source": "Melveen Leed",
+      "target": "Robert Cazimero",
+      "colab_count": 1
+    },
+    {
+      "source": "Melveen Leed",
+      "target": "Robi Kahakalau",
+      "colab_count": 1
+    },
+    {
+      "source": "Melveen Leed",
+      "target": "Roland Cazimero",
+      "colab_count": 1
+    },
+    {
+      "source": "Melveen Leed",
+      "target": "Teresa Bright",
+      "colab_count": 1
+    },
+    {
+      "source": "Melveen Leed",
+      "target": "The Invitations",
+      "colab_count": 1
+    },
+    {
+      "source": "Melveen Leed",
+      "target": "The Sunday Manoa",
+      "colab_count": 1
+    },
+    {
+      "source": "Obie Trice",
+      "target": "50 Cent",
+      "colab_count": 1
+    },
+    {
+      "source": "Obie Trice",
+      "target": "Eminem",
+      "colab_count": 1
+    },
+    {
+      "source": "Obie Trice",
+      "target": "Lloyd Banks",
+      "colab_count": 1
+    },
+    {
+      "source": "R. Kelly",
+      "target": "Boo",
+      "colab_count": 1
+    },
+    {
+      "source": "R. Kelly",
+      "target": "Gotti",
+      "colab_count": 1
+    },
+    {
+      "source": "R. Kelly",
+      "target": "JAY-Z",
+      "colab_count": 1
+    },
+    {
+      "source": "Shankar-Ehsaan-Loy",
+      "target": "KK",
+      "colab_count": 1
+    },
+    {
+      "source": "Shankar-Ehsaan-Loy",
+      "target": "Loy Mendonsa",
+      "colab_count": 1
+    },
+    {
+      "source": "Shankar-Ehsaan-Loy",
+      "target": "Sadhana Sargam",
+      "colab_count": 1
+    },
+    {
+      "source": "Shankar-Ehsaan-Loy",
+      "target": "Shaan",
+      "colab_count": 1
+    },
+    {
+      "source": "Shankar-Ehsaan-Loy",
+      "target": "Sonu Nigam",
+      "colab_count": 1
+    },
+    {
+      "source": "Shankar-Ehsaan-Loy",
+      "target": "Sujata Bhattacharya",
+      "colab_count": 1
+    },
+    {
+      "source": "Shankar-Ehsaan-Loy",
+      "target": "Udit Narayan",
+      "colab_count": 1
+    },
+    {
+      "source": "Shankar-Ehsaan-Loy",
+      "target": "Vasundhara Das",
+      "colab_count": 1
+    },
+    {
+      "source": "Sheek Louch",
+      "target": "J-Hood",
+      "colab_count": 1
+    },
+    {
+      "source": "Sheek Louch",
+      "target": "Jadakiss",
+      "colab_count": 1
+    },
+    {
+      "source": "Sheek Louch",
+      "target": "Styles P",
+      "colab_count": 1
+    },
+    {
+      "source": "Stacey Kent",
+      "target": "Dave Chamberlain",
+      "colab_count": 1
+    },
+    {
+      "source": "Stacey Kent",
+      "target": "David Newton",
+      "colab_count": 1
+    },
+    {
+      "source": "Stacey Kent",
+      "target": "Jim Tomlinson",
+      "colab_count": 1
+    },
+    {
+      "source": "Stacey Kent",
+      "target": "Matt Home",
+      "colab_count": 1
+    },
+    {
+      "source": "Stephen Schwartz",
+      "target": "Alex Lacamoire",
+      "colab_count": 10
+    },
+    {
+      "source": "Stephen Schwartz",
+      "target": "Carole Shelley",
+      "colab_count": 1
+    },
+    {
+      "source": "Stephen Schwartz",
+      "target": "Christopher Fitzgerald",
+      "colab_count": 1
+    },
+    {
+      "source": "Stephen Schwartz",
+      "target": "Cristy Candler",
+      "colab_count": 1
+    },
+    {
+      "source": "Stephen Schwartz",
+      "target": "Idina Menzel",
+      "colab_count": 8
+    },
+    {
+      "source": "Stephen Schwartz",
+      "target": "Jan Neuberger",
+      "colab_count": 1
+    },
+    {
+      "source": "Stephen Schwartz",
+      "target": "Kristin Chenoweth",
+      "colab_count": 6
+    },
+    {
+      "source": "Stephen Schwartz",
+      "target": "Leo Norbert Butz",
+      "colab_count": 1
+    },
+    {
+      "source": "Stephen Schwartz",
+      "target": "Michelle Federer",
+      "colab_count": 1
+    },
+    {
+      "source": "Stephen Schwartz",
+      "target": "Norbert Leo Butz",
+      "colab_count": 1
+    },
+    {
+      "source": "Stephen Schwartz",
+      "target": "Sean McCourt",
+      "colab_count": 1
+    },
+    {
+      "source": "Stephen Schwartz",
+      "target": "Stephen Oremus",
+      "colab_count": 10
+    },
+    {
+      "source": "The Diplomats",
+      "target": "Jim Jones",
+      "colab_count": 2
+    },
+    {
+      "source": "The Diplomats",
+      "target": "Juelz Santana",
+      "colab_count": 1
+    },
+    {
+      "source": "The Diplomats",
+      "target": "Master P",
+      "colab_count": 1
+    }
+  ]
+}

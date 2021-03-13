@@ -1,0 +1,546 @@
+{
+  "nodes": [
+    {
+      "id": "Academy of St. Martin in the Fields",
+      "group": 10,
+      "song_count": 14
+    },
+    {
+      "id": "Academy of St. Martin in the Fields Chorus",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Agnes Baltsa",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Alexander Oliver",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Alfred Prinz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ambrosian Opera Chorus",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Amsterdam Baroque Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Anne Howells",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Berliner Philharmoniker",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Christoph Willibald Gluck",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "David Bell",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Deborah Rees",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Felicity Lott",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Helmut Froschauer",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Herbert von Karajan",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Imogen Cooper",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ivan Moravec",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Janet Perry",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jerry Douglas",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Johann Sebastian Bach",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "John McCarthy",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "John Tomlinson",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Karlheinz Zoeller",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Laszlo Heltay",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Leon Spierer",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Levon Chilingirian",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Louisa Kennedy",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Luciana Serra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Luciano Pavarotti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ludwig van Beethoven",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "National Philharmonic Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Osian Ellis",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Patricia Payne",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Riccardo Chailly",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Richard Stilwell",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Robin Leggate",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sam Bush",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Samuel Ramey",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sir Colin Davis",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sir Neville Marriner",
+      "group": 10,
+      "song_count": 14
+    },
+    {
+      "id": "Staatskapelle Dresden",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Todd Phillips",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Tomaso Albinoni",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Ton Koopman",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Tony Rice",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Umberto Giordano",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Vassar Clements",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Vinson Cole",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wiener Philharmoniker",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wiener Singverein",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Willard White",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "William Bennett",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wolfgang Amadeus Mozart",
+      "group": 10,
+      "song_count": 68
+    },
+    {
+      "id": "Yo-Yo Ma",
+      "group": 1,
+      "song_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Christoph Willibald Gluck",
+      "target": "Berliner Philharmoniker",
+      "colab_count": 1
+    },
+    {
+      "source": "Christoph Willibald Gluck",
+      "target": "Herbert von Karajan",
+      "colab_count": 1
+    },
+    {
+      "source": "Christoph Willibald Gluck",
+      "target": "Karlheinz Zoeller",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Amsterdam Baroque Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Berliner Philharmoniker",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "David Bell",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Herbert von Karajan",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Ton Koopman",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Yo-Yo Ma",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Agnes Baltsa",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Berliner Philharmoniker",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Helmut Froschauer",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Herbert von Karajan",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Janet Perry",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Vinson Cole",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Wiener Singverein",
+      "colab_count": 1
+    },
+    {
+      "source": "Tomaso Albinoni",
+      "target": "Berliner Philharmoniker",
+      "colab_count": 1
+    },
+    {
+      "source": "Tomaso Albinoni",
+      "target": "David Bell",
+      "colab_count": 1
+    },
+    {
+      "source": "Tomaso Albinoni",
+      "target": "Herbert von Karajan",
+      "colab_count": 1
+    },
+    {
+      "source": "Tomaso Albinoni",
+      "target": "Leon Spierer",
+      "colab_count": 1
+    },
+    {
+      "source": "Tony Rice",
+      "target": "Jerry Douglas",
+      "colab_count": 2
+    },
+    {
+      "source": "Tony Rice",
+      "target": "Sam Bush",
+      "colab_count": 2
+    },
+    {
+      "source": "Tony Rice",
+      "target": "Todd Phillips",
+      "colab_count": 2
+    },
+    {
+      "source": "Tony Rice",
+      "target": "Vassar Clements",
+      "colab_count": 2
+    },
+    {
+      "source": "Umberto Giordano",
+      "target": "Luciano Pavarotti",
+      "colab_count": 1
+    },
+    {
+      "source": "Umberto Giordano",
+      "target": "National Philharmonic Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Umberto Giordano",
+      "target": "Riccardo Chailly",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Academy of St. Martin in the Fields",
+      "colab_count": 14
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Academy of St. Martin in the Fields Chorus",
+      "colab_count": 5
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Alexander Oliver",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Alfred Prinz",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Ambrosian Opera Chorus",
+      "colab_count": 2
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Anne Howells",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Deborah Rees",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Felicity Lott",
+      "colab_count": 3
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Imogen Cooper",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Ivan Moravec",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "John McCarthy",
+      "colab_count": 2
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "John Tomlinson",
+      "colab_count": 2
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Laszlo Heltay",
+      "colab_count": 5
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Levon Chilingirian",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Louisa Kennedy",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Luciana Serra",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Osian Ellis",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Patricia Payne",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Richard Stilwell",
+      "colab_count": 2
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Robin Leggate",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Samuel Ramey",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Sir Colin Davis",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Sir Neville Marriner",
+      "colab_count": 14
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Staatskapelle Dresden",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Wiener Philharmoniker",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Willard White",
+      "colab_count": 2
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "William Bennett",
+      "colab_count": 1
+    }
+  ]
+}

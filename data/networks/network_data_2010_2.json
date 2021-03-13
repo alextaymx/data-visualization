@@ -1,0 +1,1066 @@
+{
+  "nodes": [
+    {
+      "id": "Alan Wayne",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Alyson Stoner",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Bashy",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Benjamin Schmid",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Big Man",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Birdman",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "BizzyMain",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bon Iver",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Brad Garrett",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bukanas De Culiacan",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Cachorro",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Calle 13",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Cartel De Santa",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Char Ligera",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Chip Tha Ripper",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Chris Brown",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Common",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Cosculluela",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "CyHi The Prynce",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "DJ Khaled",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "DMX",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "De La Ghetto",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Demi Lovato",
+      "group": 10,
+      "song_count": 10
+    },
+    {
+      "id": "Denis Matsuev",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Devin The Dude",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Drake",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dyland & Lenny",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "El Komander",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "El Millonario",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "El Movimiento Alterado",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ensemble - Tangled",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Erik Estrada",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Fabolous",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Franco \"El Gorilla\"",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "GLC",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Gorillaz",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Graham Harvey",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Green Day",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Gucci Mane",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Hans Graf",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Irv Da PHENOM",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "JAY-Z",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Ja Rule",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jay Sean",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jeffrey Tambor",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jeremy Brown",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Jim Tomlinson",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Joe Jonas",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "John Gallagher Jr.",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "John Legend",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "John Parricelli",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Jordan Francis",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kano",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kanye West",
+      "group": 10,
+      "song_count": 11
+    },
+    {
+      "id": "Kevin Rudolf",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Kid Cudi",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Lil Wayne",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lloyd Banks",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Los 2 Primos",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Los Buchones de Culiacan",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Los Buitres De Culiacan Sinaloa",
+      "group": 10,
+      "song_count": 10
+    },
+    {
+      "id": "Los Nuevos Elegantes",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ludacris",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Luny Tunes",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mandy Moore",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Maria Rita",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mariinsky Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Matt Skelton",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Matthew \"Mdot\" Finley",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Meaghan Martin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Melanie Fiona",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Method Man",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mozarteum Orchestra Salzburg",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Nas",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Nick Jonas",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Nicki Minaj",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Nicole Wray",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Noel Torres",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "OJ Da Juiceman",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Oscar Garcia",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pusha T",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "RZA",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rebecca Naomi Jones",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rick Ross",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Rocko",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rogelio Martinez 'El Rm'",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Roshon Fegan",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ryan Leslie",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Scarface",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Sergei Rachmaninoff",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Shawty Lo",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Snoop Dogg",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Stacey Kent",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Stark Sands",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Susana Baca",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Swizz Beatz",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "T-Pain",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "T.I.",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Tech N9ne Collabos",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Tego Calderon",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Tela",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "The American Idiot Broadway Company",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "The National Orchestra for Arabic Music",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "The Roots",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Too $hort",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Valery Gergiev",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Vida Baja",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Waka Flocka Flame",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wichi",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wisin & Yandel",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Wolfgang Amadeus Mozart",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Yo Gotti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Zachary Levi",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Zion",
+      "group": 1,
+      "song_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Calle 13",
+      "target": "Maria Rita",
+      "colab_count": 1
+    },
+    {
+      "source": "Calle 13",
+      "target": "Susana Baca",
+      "colab_count": 1
+    },
+    {
+      "source": "Cartel De Santa",
+      "target": "Big Man",
+      "colab_count": 1
+    },
+    {
+      "source": "Cartel De Santa",
+      "target": "Cachorro",
+      "colab_count": 1
+    },
+    {
+      "source": "Cartel De Santa",
+      "target": "El Millonario",
+      "colab_count": 1
+    },
+    {
+      "source": "Cartel De Santa",
+      "target": "Vida Baja",
+      "colab_count": 1
+    },
+    {
+      "source": "Cartel De Santa",
+      "target": "Wichi",
+      "colab_count": 1
+    },
+    {
+      "source": "Chris Brown",
+      "target": "Drake",
+      "colab_count": 1
+    },
+    {
+      "source": "Chris Brown",
+      "target": "Fabolous",
+      "colab_count": 1
+    },
+    {
+      "source": "Chris Brown",
+      "target": "Kanye West",
+      "colab_count": 1
+    },
+    {
+      "source": "Chris Brown",
+      "target": "Rick Ross",
+      "colab_count": 1
+    },
+    {
+      "source": "Chris Brown",
+      "target": "T.I.",
+      "colab_count": 1
+    },
+    {
+      "source": "DJ Khaled",
+      "target": "Ludacris",
+      "colab_count": 2
+    },
+    {
+      "source": "DJ Khaled",
+      "target": "Rick Ross",
+      "colab_count": 2
+    },
+    {
+      "source": "DJ Khaled",
+      "target": "Snoop Dogg",
+      "colab_count": 2
+    },
+    {
+      "source": "DJ Khaled",
+      "target": "T-Pain",
+      "colab_count": 2
+    },
+    {
+      "source": "DMX",
+      "target": "Ja Rule",
+      "colab_count": 1
+    },
+    {
+      "source": "DMX",
+      "target": "Method Man",
+      "colab_count": 1
+    },
+    {
+      "source": "DMX",
+      "target": "Nas",
+      "colab_count": 1
+    },
+    {
+      "source": "Demi Lovato",
+      "target": "Alyson Stoner",
+      "colab_count": 3
+    },
+    {
+      "source": "Demi Lovato",
+      "target": "Char Ligera",
+      "colab_count": 1
+    },
+    {
+      "source": "Demi Lovato",
+      "target": "Joe Jonas",
+      "colab_count": 1
+    },
+    {
+      "source": "Demi Lovato",
+      "target": "Jordan Francis",
+      "colab_count": 1
+    },
+    {
+      "source": "Demi Lovato",
+      "target": "Matthew \"Mdot\" Finley",
+      "colab_count": 1
+    },
+    {
+      "source": "Demi Lovato",
+      "target": "Meaghan Martin",
+      "colab_count": 1
+    },
+    {
+      "source": "Demi Lovato",
+      "target": "Nick Jonas",
+      "colab_count": 1
+    },
+    {
+      "source": "Demi Lovato",
+      "target": "Roshon Fegan",
+      "colab_count": 1
+    },
+    {
+      "source": "Dyland & Lenny",
+      "target": "Luny Tunes",
+      "colab_count": 1
+    },
+    {
+      "source": "Dyland & Lenny",
+      "target": "Zion",
+      "colab_count": 1
+    },
+    {
+      "source": "Gorillaz",
+      "target": "Bashy",
+      "colab_count": 1
+    },
+    {
+      "source": "Gorillaz",
+      "target": "Kano",
+      "colab_count": 1
+    },
+    {
+      "source": "Gorillaz",
+      "target": "The National Orchestra for Arabic Music",
+      "colab_count": 1
+    },
+    {
+      "source": "Green Day",
+      "target": "John Gallagher Jr.",
+      "colab_count": 1
+    },
+    {
+      "source": "Green Day",
+      "target": "Rebecca Naomi Jones",
+      "colab_count": 1
+    },
+    {
+      "source": "Green Day",
+      "target": "Stark Sands",
+      "colab_count": 1
+    },
+    {
+      "source": "Green Day",
+      "target": "The American Idiot Broadway Company",
+      "colab_count": 1
+    },
+    {
+      "source": "Gucci Mane",
+      "target": "Nicki Minaj",
+      "colab_count": 1
+    },
+    {
+      "source": "Gucci Mane",
+      "target": "OJ Da Juiceman",
+      "colab_count": 1
+    },
+    {
+      "source": "Gucci Mane",
+      "target": "Rocko",
+      "colab_count": 1
+    },
+    {
+      "source": "Gucci Mane",
+      "target": "Shawty Lo",
+      "colab_count": 1
+    },
+    {
+      "source": "Gucci Mane",
+      "target": "Waka Flocka Flame",
+      "colab_count": 1
+    },
+    {
+      "source": "Gucci Mane",
+      "target": "Yo Gotti",
+      "colab_count": 1
+    },
+    {
+      "source": "John Legend",
+      "target": "Common",
+      "colab_count": 1
+    },
+    {
+      "source": "John Legend",
+      "target": "Melanie Fiona",
+      "colab_count": 1
+    },
+    {
+      "source": "John Legend",
+      "target": "The Roots",
+      "colab_count": 1
+    },
+    {
+      "source": "Kanye West",
+      "target": "Bon Iver",
+      "colab_count": 1
+    },
+    {
+      "source": "Kanye West",
+      "target": "CyHi The Prynce",
+      "colab_count": 1
+    },
+    {
+      "source": "Kanye West",
+      "target": "JAY-Z",
+      "colab_count": 2
+    },
+    {
+      "source": "Kanye West",
+      "target": "Nicki Minaj",
+      "colab_count": 1
+    },
+    {
+      "source": "Kanye West",
+      "target": "Pusha T",
+      "colab_count": 1
+    },
+    {
+      "source": "Kanye West",
+      "target": "RZA",
+      "colab_count": 1
+    },
+    {
+      "source": "Kanye West",
+      "target": "Rick Ross",
+      "colab_count": 1
+    },
+    {
+      "source": "Kanye West",
+      "target": "Swizz Beatz",
+      "colab_count": 1
+    },
+    {
+      "source": "Kevin Rudolf",
+      "target": "Birdman",
+      "colab_count": 1
+    },
+    {
+      "source": "Kevin Rudolf",
+      "target": "Jay Sean",
+      "colab_count": 1
+    },
+    {
+      "source": "Kevin Rudolf",
+      "target": "Lil Wayne",
+      "colab_count": 1
+    },
+    {
+      "source": "Kid Cudi",
+      "target": "Chip Tha Ripper",
+      "colab_count": 1
+    },
+    {
+      "source": "Kid Cudi",
+      "target": "GLC",
+      "colab_count": 1
+    },
+    {
+      "source": "Kid Cudi",
+      "target": "Nicole Wray",
+      "colab_count": 1
+    },
+    {
+      "source": "Lloyd Banks",
+      "target": "Fabolous",
+      "colab_count": 1
+    },
+    {
+      "source": "Lloyd Banks",
+      "target": "Kanye West",
+      "colab_count": 1
+    },
+    {
+      "source": "Lloyd Banks",
+      "target": "Ryan Leslie",
+      "colab_count": 1
+    },
+    {
+      "source": "Lloyd Banks",
+      "target": "Swizz Beatz",
+      "colab_count": 1
+    },
+    {
+      "source": "Los Buitres De Culiacan Sinaloa",
+      "target": "Bukanas De Culiacan",
+      "colab_count": 1
+    },
+    {
+      "source": "Los Buitres De Culiacan Sinaloa",
+      "target": "El Komander",
+      "colab_count": 1
+    },
+    {
+      "source": "Los Buitres De Culiacan Sinaloa",
+      "target": "El Movimiento Alterado",
+      "colab_count": 1
+    },
+    {
+      "source": "Los Buitres De Culiacan Sinaloa",
+      "target": "Erik Estrada",
+      "colab_count": 1
+    },
+    {
+      "source": "Los Buitres De Culiacan Sinaloa",
+      "target": "Los 2 Primos",
+      "colab_count": 1
+    },
+    {
+      "source": "Los Buitres De Culiacan Sinaloa",
+      "target": "Los Buchones de Culiacan",
+      "colab_count": 1
+    },
+    {
+      "source": "Los Buitres De Culiacan Sinaloa",
+      "target": "Los Nuevos Elegantes",
+      "colab_count": 1
+    },
+    {
+      "source": "Los Buitres De Culiacan Sinaloa",
+      "target": "Noel Torres",
+      "colab_count": 1
+    },
+    {
+      "source": "Los Buitres De Culiacan Sinaloa",
+      "target": "Oscar Garcia",
+      "colab_count": 1
+    },
+    {
+      "source": "Los Buitres De Culiacan Sinaloa",
+      "target": "Rogelio Martinez 'El Rm'",
+      "colab_count": 1
+    },
+    {
+      "source": "Mandy Moore",
+      "target": "Brad Garrett",
+      "colab_count": 1
+    },
+    {
+      "source": "Mandy Moore",
+      "target": "Ensemble - Tangled",
+      "colab_count": 1
+    },
+    {
+      "source": "Mandy Moore",
+      "target": "Jeffrey Tambor",
+      "colab_count": 1
+    },
+    {
+      "source": "Mandy Moore",
+      "target": "Zachary Levi",
+      "colab_count": 1
+    },
+    {
+      "source": "Scarface",
+      "target": "Devin The Dude",
+      "colab_count": 1
+    },
+    {
+      "source": "Scarface",
+      "target": "Tela",
+      "colab_count": 1
+    },
+    {
+      "source": "Scarface",
+      "target": "Too $hort",
+      "colab_count": 1
+    },
+    {
+      "source": "Sergei Rachmaninoff",
+      "target": "Denis Matsuev",
+      "colab_count": 1
+    },
+    {
+      "source": "Sergei Rachmaninoff",
+      "target": "Mariinsky Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Sergei Rachmaninoff",
+      "target": "Valery Gergiev",
+      "colab_count": 1
+    },
+    {
+      "source": "Stacey Kent",
+      "target": "Graham Harvey",
+      "colab_count": 2
+    },
+    {
+      "source": "Stacey Kent",
+      "target": "Jeremy Brown",
+      "colab_count": 3
+    },
+    {
+      "source": "Stacey Kent",
+      "target": "Jim Tomlinson",
+      "colab_count": 2
+    },
+    {
+      "source": "Stacey Kent",
+      "target": "John Parricelli",
+      "colab_count": 2
+    },
+    {
+      "source": "Stacey Kent",
+      "target": "Matt Skelton",
+      "colab_count": 3
+    },
+    {
+      "source": "Tech N9ne Collabos",
+      "target": "Alan Wayne",
+      "colab_count": 1
+    },
+    {
+      "source": "Tech N9ne Collabos",
+      "target": "BizzyMain",
+      "colab_count": 1
+    },
+    {
+      "source": "Tech N9ne Collabos",
+      "target": "Irv Da PHENOM",
+      "colab_count": 1
+    },
+    {
+      "source": "Wisin & Yandel",
+      "target": "Cosculluela",
+      "colab_count": 1
+    },
+    {
+      "source": "Wisin & Yandel",
+      "target": "De La Ghetto",
+      "colab_count": 1
+    },
+    {
+      "source": "Wisin & Yandel",
+      "target": "Franco \"El Gorilla\"",
+      "colab_count": 1
+    },
+    {
+      "source": "Wisin & Yandel",
+      "target": "Tego Calderon",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Benjamin Schmid",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Hans Graf",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Mozarteum Orchestra Salzburg",
+      "colab_count": 1
+    }
+  ]
+}

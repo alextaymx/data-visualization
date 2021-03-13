@@ -1,0 +1,271 @@
+{
+  "nodes": [
+    {
+      "id": "Academy of St. Martin in the Fields",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Academy of St. Martin in the Fields Chorus",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Andy Irvine",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Antonio Vivaldi",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Arthur Thompson",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Barbara Hendricks",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Christopher Deane",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Claudio Scimone",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Cleveland Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "David Measham",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Florence Quivar",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Francois Clemmons",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "George Frideric Handel",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "George Gershwin",
+      "group": 10,
+      "song_count": 13
+    },
+    {
+      "id": "I Solisti Veneti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "James Galway",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "James Vincent Pickens",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Juan Carlos Rybin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jules Massenet",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Kevin Burke",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Lorin Levee",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lorin Maazel",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Los Angeles Philharmonic",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Michael Tilson Thomas",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "National Philharmonic Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Paul Brady",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Samuel Hagan",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sir Neville Marriner",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "The Cleveland Orchestra Chorus",
+      "group": 1,
+      "song_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Andy Irvine",
+      "target": "Kevin Burke",
+      "colab_count": 2
+    },
+    {
+      "source": "Andy Irvine",
+      "target": "Paul Brady",
+      "colab_count": 2
+    },
+    {
+      "source": "Antonio Vivaldi",
+      "target": "Claudio Scimone",
+      "colab_count": 1
+    },
+    {
+      "source": "Antonio Vivaldi",
+      "target": "I Solisti Veneti",
+      "colab_count": 1
+    },
+    {
+      "source": "Antonio Vivaldi",
+      "target": "Juan Carlos Rybin",
+      "colab_count": 1
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "Academy of St. Martin in the Fields",
+      "colab_count": 1
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "Academy of St. Martin in the Fields Chorus",
+      "colab_count": 1
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "Sir Neville Marriner",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Arthur Thompson",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Barbara Hendricks",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Christopher Deane",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Cleveland Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Florence Quivar",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Francois Clemmons",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "James Vincent Pickens",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Lorin Levee",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Lorin Maazel",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Los Angeles Philharmonic",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Michael Tilson Thomas",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Samuel Hagan",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "The Cleveland Orchestra Chorus",
+      "colab_count": 1
+    },
+    {
+      "source": "Jules Massenet",
+      "target": "David Measham",
+      "colab_count": 1
+    },
+    {
+      "source": "Jules Massenet",
+      "target": "James Galway",
+      "colab_count": 1
+    },
+    {
+      "source": "Jules Massenet",
+      "target": "National Philharmonic Orchestra",
+      "colab_count": 1
+    }
+  ]
+}

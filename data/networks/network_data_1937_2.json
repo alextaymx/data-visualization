@@ -1,0 +1,366 @@
+{
+  "nodes": [
+    {
+      "id": "Alice Faye",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bavarian Radio Symphony Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bily Gilbert",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Carl Maria von Weber",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Charles Bealick",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Charles Probert",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Chris Richardson",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Clyde Rogers",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Darius Milhaud",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dick Powell",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Eddie Stone",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Edward Isidor Bergman",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Erik Satie",
+      "group": 10,
+      "song_count": 17
+    },
+    {
+      "id": "Erna Berger",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Francis Poulenc",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Freddy Martin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Freddy Martin & His Orchestra",
+      "group": 10,
+      "song_count": 14
+    },
+    {
+      "id": "George Green",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Glenn Loren Hughes",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Harry O. McKeehan",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jack Francis Fina",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Johnny Cash",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kris Kristofferson",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lorin Maazel",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Madeleine Carroll",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Norman L. Bailey",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Orchestra Sinfonica Della Rai Di Roma",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pierre Bernac",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Richard Wagner",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Robert Cecil White",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Russ Klein",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sig Rumann",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Staatskapelle Berlin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Suzanne Danco",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "The Highwaymen",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "The Ritz Brothers",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Waltraud Meier",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Waylon Jennings",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Willie Nelson",
+      "group": 1,
+      "song_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Carl Maria von Weber",
+      "target": "Erna Berger",
+      "colab_count": 1
+    },
+    {
+      "source": "Carl Maria von Weber",
+      "target": "Staatskapelle Berlin",
+      "colab_count": 1
+    },
+    {
+      "source": "Dick Powell",
+      "target": "Alice Faye",
+      "colab_count": 1
+    },
+    {
+      "source": "Dick Powell",
+      "target": "Bily Gilbert",
+      "colab_count": 1
+    },
+    {
+      "source": "Dick Powell",
+      "target": "Madeleine Carroll",
+      "colab_count": 1
+    },
+    {
+      "source": "Dick Powell",
+      "target": "Sig Rumann",
+      "colab_count": 1
+    },
+    {
+      "source": "Dick Powell",
+      "target": "The Ritz Brothers",
+      "colab_count": 1
+    },
+    {
+      "source": "Erik Satie",
+      "target": "Darius Milhaud",
+      "colab_count": 1
+    },
+    {
+      "source": "Erik Satie",
+      "target": "Francis Poulenc",
+      "colab_count": 7
+    },
+    {
+      "source": "Erik Satie",
+      "target": "Orchestra Sinfonica Della Rai Di Roma",
+      "colab_count": 1
+    },
+    {
+      "source": "Erik Satie",
+      "target": "Pierre Bernac",
+      "colab_count": 7
+    },
+    {
+      "source": "Erik Satie",
+      "target": "Suzanne Danco",
+      "colab_count": 1
+    },
+    {
+      "source": "Freddy Martin & His Orchestra",
+      "target": "Charles Bealick",
+      "colab_count": 1
+    },
+    {
+      "source": "Freddy Martin & His Orchestra",
+      "target": "Charles Probert",
+      "colab_count": 1
+    },
+    {
+      "source": "Freddy Martin & His Orchestra",
+      "target": "Chris Richardson",
+      "colab_count": 1
+    },
+    {
+      "source": "Freddy Martin & His Orchestra",
+      "target": "Clyde Rogers",
+      "colab_count": 1
+    },
+    {
+      "source": "Freddy Martin & His Orchestra",
+      "target": "Eddie Stone",
+      "colab_count": 1
+    },
+    {
+      "source": "Freddy Martin & His Orchestra",
+      "target": "Edward Isidor Bergman",
+      "colab_count": 1
+    },
+    {
+      "source": "Freddy Martin & His Orchestra",
+      "target": "Freddy Martin",
+      "colab_count": 1
+    },
+    {
+      "source": "Freddy Martin & His Orchestra",
+      "target": "George Green",
+      "colab_count": 1
+    },
+    {
+      "source": "Freddy Martin & His Orchestra",
+      "target": "Glenn Loren Hughes",
+      "colab_count": 1
+    },
+    {
+      "source": "Freddy Martin & His Orchestra",
+      "target": "Harry O. McKeehan",
+      "colab_count": 1
+    },
+    {
+      "source": "Freddy Martin & His Orchestra",
+      "target": "Jack Francis Fina",
+      "colab_count": 1
+    },
+    {
+      "source": "Freddy Martin & His Orchestra",
+      "target": "Norman L. Bailey",
+      "colab_count": 1
+    },
+    {
+      "source": "Freddy Martin & His Orchestra",
+      "target": "Robert Cecil White",
+      "colab_count": 1
+    },
+    {
+      "source": "Freddy Martin & His Orchestra",
+      "target": "Russ Klein",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Bavarian Radio Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Lorin Maazel",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Waltraud Meier",
+      "colab_count": 1
+    },
+    {
+      "source": "The Highwaymen",
+      "target": "Johnny Cash",
+      "colab_count": 1
+    },
+    {
+      "source": "The Highwaymen",
+      "target": "Kris Kristofferson",
+      "colab_count": 1
+    },
+    {
+      "source": "The Highwaymen",
+      "target": "Waylon Jennings",
+      "colab_count": 1
+    },
+    {
+      "source": "The Highwaymen",
+      "target": "Willie Nelson",
+      "colab_count": 1
+    }
+  ]
+}

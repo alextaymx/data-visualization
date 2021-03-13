@@ -1,0 +1,566 @@
+{
+  "nodes": [
+    {
+      "id": "Alfred Wallenstein",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Arthur Rubinstein",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Berliner Philharmoniker",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Bill Evans",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Christa Ludwig",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "David Oistrakh",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Dietrich Fischer-Dieskau",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Elisabeth Schwarzkopf",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Eugene Goossens",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Ferdinand Leitner",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Franz Liszt",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "George Malcolm",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Gerhard Unger",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Giacomo Puccini",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Gil Evans",
+      "group": 10,
+      "song_count": 16
+    },
+    {
+      "id": "Gottlob Frick",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Hank Mobley",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Herbert von Karajan",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Igor Oistrakh",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Ingeborg Hallstein",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jascha Heifetz",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Jim Hall",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Jimmy Cobb",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Johann Sebastian Bach",
+      "group": 10,
+      "song_count": 15
+    },
+    {
+      "id": "Johannes Brahms",
+      "group": 10,
+      "song_count": 21
+    },
+    {
+      "id": "John Lennon",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Lamberto Gardelli",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lee Holdridge",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Leonard Bernstein",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ludwig van Beethoven",
+      "group": 10,
+      "song_count": 15
+    },
+    {
+      "id": "Max Bruch",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Miles Davis",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "New York Philharmonic",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Orchestra del Maggio Musicale Fiorentino",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Otto Klemperer",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Paul Chambers",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Paul McCartney",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Philharmonia Chorus/Wilhelm Pitz/Philharmonia Orchestra/Otto Klemperer",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Philharmonia Orchestra",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Philly Joe Jones",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "RCA Victor Symphony Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ralph Downes",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Reinhold Schmid",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Renata Tebaldi",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ron Carter",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Royal Philharmonic Orchestra",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Rudolf Serkin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sir Malcolm Sargent",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "The New Symphony Orchestra Of London",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "The Philharmonia Chorus",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Wiener Singverein",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Wilhelm Kempff",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wilma Lipp",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wolfgang Amadeus Mozart",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Wolfgang Meyer",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Wynton Kelly",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Zoot Sims",
+      "group": 2,
+      "song_count": 2
+    }
+  ],
+  "links": [
+    {
+      "source": "Bill Evans",
+      "target": "Jim Hall",
+      "colab_count": 2
+    },
+    {
+      "source": "Bill Evans",
+      "target": "Philly Joe Jones",
+      "colab_count": 2
+    },
+    {
+      "source": "Bill Evans",
+      "target": "Ron Carter",
+      "colab_count": 2
+    },
+    {
+      "source": "Bill Evans",
+      "target": "Zoot Sims",
+      "colab_count": 2
+    },
+    {
+      "source": "Franz Liszt",
+      "target": "Alfred Wallenstein",
+      "colab_count": 1
+    },
+    {
+      "source": "Franz Liszt",
+      "target": "Arthur Rubinstein",
+      "colab_count": 1
+    },
+    {
+      "source": "Franz Liszt",
+      "target": "RCA Victor Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Lamberto Gardelli",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Orchestra del Maggio Musicale Fiorentino",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Renata Tebaldi",
+      "colab_count": 1
+    },
+    {
+      "source": "Gil Evans",
+      "target": "Hank Mobley",
+      "colab_count": 3
+    },
+    {
+      "source": "Gil Evans",
+      "target": "Jimmy Cobb",
+      "colab_count": 3
+    },
+    {
+      "source": "Gil Evans",
+      "target": "Miles Davis",
+      "colab_count": 3
+    },
+    {
+      "source": "Gil Evans",
+      "target": "Paul Chambers",
+      "colab_count": 3
+    },
+    {
+      "source": "Gil Evans",
+      "target": "Wynton Kelly",
+      "colab_count": 3
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "David Oistrakh",
+      "colab_count": 3
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Eugene Goossens",
+      "colab_count": 3
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "George Malcolm",
+      "colab_count": 3
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Igor Oistrakh",
+      "colab_count": 3
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Royal Philharmonic Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Dietrich Fischer-Dieskau",
+      "colab_count": 3
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Elisabeth Schwarzkopf",
+      "colab_count": 3
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Otto Klemperer",
+      "colab_count": 3
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Philharmonia Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Ralph Downes",
+      "colab_count": 3
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Reinhold Schmid",
+      "colab_count": 3
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "The Philharmonia Chorus",
+      "colab_count": 3
+    },
+    {
+      "source": "John Lennon",
+      "target": "Lee Holdridge",
+      "colab_count": 1
+    },
+    {
+      "source": "John Lennon",
+      "target": "Paul McCartney",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Berliner Philharmoniker",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Christa Ludwig",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Ferdinand Leitner",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Gerhard Unger",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Gottlob Frick",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Ingeborg Hallstein",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Leonard Bernstein",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "New York Philharmonic",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Otto Klemperer",
+      "colab_count": 2
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Philharmonia Chorus/Wilhelm Pitz/Philharmonia Orchestra/Otto Klemperer",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Philharmonia Orchestra",
+      "colab_count": 2
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Rudolf Serkin",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Wilhelm Kempff",
+      "colab_count": 1
+    },
+    {
+      "source": "Max Bruch",
+      "target": "Jascha Heifetz",
+      "colab_count": 3
+    },
+    {
+      "source": "Max Bruch",
+      "target": "Sir Malcolm Sargent",
+      "colab_count": 3
+    },
+    {
+      "source": "Max Bruch",
+      "target": "The New Symphony Orchestra Of London",
+      "colab_count": 3
+    },
+    {
+      "source": "Miles Davis",
+      "target": "Gil Evans",
+      "colab_count": 1
+    },
+    {
+      "source": "Miles Davis",
+      "target": "Hank Mobley",
+      "colab_count": 1
+    },
+    {
+      "source": "Miles Davis",
+      "target": "Jimmy Cobb",
+      "colab_count": 1
+    },
+    {
+      "source": "Miles Davis",
+      "target": "Paul Chambers",
+      "colab_count": 1
+    },
+    {
+      "source": "Miles Davis",
+      "target": "Wynton Kelly",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Berliner Philharmoniker",
+      "colab_count": 3
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Herbert von Karajan",
+      "colab_count": 3
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Wiener Singverein",
+      "colab_count": 3
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Wilma Lipp",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Wolfgang Meyer",
+      "colab_count": 2
+    }
+  ]
+}

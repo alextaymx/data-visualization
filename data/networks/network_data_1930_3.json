@@ -1,0 +1,161 @@
+{
+  "nodes": [
+    {
+      "id": "E. Moraiti",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "G. Nakos",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Georgia Mittaki",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Giorgos Papasideris",
+      "group": 10,
+      "song_count": 22
+    },
+    {
+      "id": "K. Roukounas",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Klarino G. Anestopoulos",
+      "group": 10,
+      "song_count": 13
+    },
+    {
+      "id": "Klarino KOstas Giaouzos",
+      "group": 10,
+      "song_count": 13
+    },
+    {
+      "id": "Klarinos Nikos Karakostas",
+      "group": 10,
+      "song_count": 13
+    },
+    {
+      "id": "Lefteris Melemelis",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "S. Loukopoulos",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "\\",
+      "group": 1,
+      "song_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "E. Moraiti",
+      "target": "Georgia Mittaki",
+      "colab_count": 2
+    },
+    {
+      "source": "E. Moraiti",
+      "target": "Klarino G. Anestopoulos",
+      "colab_count": 2
+    },
+    {
+      "source": "E. Moraiti",
+      "target": "Klarino KOstas Giaouzos",
+      "colab_count": 2
+    },
+    {
+      "source": "E. Moraiti",
+      "target": "Klarinos Nikos Karakostas",
+      "colab_count": 2
+    },
+    {
+      "source": "G. Nakos",
+      "target": "Klarino G. Anestopoulos",
+      "colab_count": 1
+    },
+    {
+      "source": "G. Nakos",
+      "target": "Klarino KOstas Giaouzos",
+      "colab_count": 1
+    },
+    {
+      "source": "G. Nakos",
+      "target": "Klarinos Nikos Karakostas",
+      "colab_count": 1
+    },
+    {
+      "source": "Giorgos Papasideris",
+      "target": "Klarino G. Anestopoulos",
+      "colab_count": 7
+    },
+    {
+      "source": "Giorgos Papasideris",
+      "target": "Klarino KOstas Giaouzos",
+      "colab_count": 7
+    },
+    {
+      "source": "Giorgos Papasideris",
+      "target": "Klarinos Nikos Karakostas",
+      "colab_count": 7
+    },
+    {
+      "source": "Giorgos Papasideris",
+      "target": "\\",
+      "colab_count": 1
+    },
+    {
+      "source": "K. Roukounas",
+      "target": "Klarino G. Anestopoulos",
+      "colab_count": 1
+    },
+    {
+      "source": "K. Roukounas",
+      "target": "Klarino KOstas Giaouzos",
+      "colab_count": 1
+    },
+    {
+      "source": "K. Roukounas",
+      "target": "Klarinos Nikos Karakostas",
+      "colab_count": 1
+    },
+    {
+      "source": "Lefteris Melemelis",
+      "target": "Klarino G. Anestopoulos",
+      "colab_count": 1
+    },
+    {
+      "source": "Lefteris Melemelis",
+      "target": "Klarino KOstas Giaouzos",
+      "colab_count": 1
+    },
+    {
+      "source": "Lefteris Melemelis",
+      "target": "Klarinos Nikos Karakostas",
+      "colab_count": 1
+    },
+    {
+      "source": "S. Loukopoulos",
+      "target": "Klarino G. Anestopoulos",
+      "colab_count": 1
+    },
+    {
+      "source": "S. Loukopoulos",
+      "target": "Klarino KOstas Giaouzos",
+      "colab_count": 1
+    },
+    {
+      "source": "S. Loukopoulos",
+      "target": "Klarinos Nikos Karakostas",
+      "colab_count": 1
+    }
+  ]
+}

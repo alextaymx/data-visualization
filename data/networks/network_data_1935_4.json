@@ -1,0 +1,751 @@
+{
+  "nodes": [
+    {
+      "id": "Alfred Newman",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Alois Melichar",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Arno Schellenberg",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Arthur Fiedler",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Arturo Toscanini",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Benny Goodman",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Benny Goodman Quartet",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Boston Pops Orchestra",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Christel Goltz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dorel Livianu",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Douglas, George",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Earl Wild",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Eduardo di Capua",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Erna Berger",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Esther Rethy",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Eugen Mirea",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Franz Alfred Schmidt",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Frederica von Stade",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Gene Krupa",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "George Gershwin",
+      "group": 10,
+      "song_count": 14
+    },
+    {
+      "id": "Giacomo Puccini",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Giuseppe Verdi",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Hanns Lange",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Hans Hermann Nissen",
+      "group": 10,
+      "song_count": 18
+    },
+    {
+      "id": "Helene Jung",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Helge Rosvaenge",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Hermann Greiner",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Hollywood Bowl Symphony Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "I. Vasilescu",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "In Motion",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Isaac Stern",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "James Conlon",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jascha Heifetz",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Johannes Brahms",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Josef Herrmann",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Julius Patzak",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Kakkia Mendri",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Klaus Hermanns",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Leonard Bernstein",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Leonard Pennario",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Leontyne Price",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Lidia Likiardopoulou",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lionel Hampton",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Ludwig Eybisch",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Ludwig van Beethoven",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Margarete Teschemacher",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Martin Kremer",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Max Reger",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Metropolitan Opera Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mitglieder der Staatskapelle Berlin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "N. Constantinescu",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "New Philharmonia Orchestra",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "New York Philharmonic",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Nikos Gizis",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pietro Mascagni",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Richard Strauss",
+      "group": 10,
+      "song_count": 10
+    },
+    {
+      "id": "Richard Wagner",
+      "group": 10,
+      "song_count": 112
+    },
+    {
+      "id": "Rudolf Dittrich",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Rudolf Schmalnauer",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Samuel Barber",
+      "group": 10,
+      "song_count": 21
+    },
+    {
+      "id": "Serge Smirnoff",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Staatskapelle Berlin",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Staatskapelle Dresden",
+      "group": 10,
+      "song_count": 29
+    },
+    {
+      "id": "Staatsopernchor Dresden",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sven Nilsson",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Teddy Wilson",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Thomas Schippers",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Torsten Ralf",
+      "group": 10,
+      "song_count": 11
+    },
+    {
+      "id": "Weiss, George D.",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wolfgang Martin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "X. Stellaki",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "n/a",
+      "group": 3,
+      "song_count": 3
+    }
+  ],
+  "links": [
+    {
+      "source": "Benny Goodman",
+      "target": "Benny Goodman Quartet",
+      "colab_count": 1
+    },
+    {
+      "source": "Benny Goodman",
+      "target": "Gene Krupa",
+      "colab_count": 1
+    },
+    {
+      "source": "Benny Goodman",
+      "target": "Lionel Hampton",
+      "colab_count": 1
+    },
+    {
+      "source": "Benny Goodman",
+      "target": "Teddy Wilson",
+      "colab_count": 1
+    },
+    {
+      "source": "Benny Goodman Quartet",
+      "target": "Benny Goodman",
+      "colab_count": 1
+    },
+    {
+      "source": "Benny Goodman Quartet",
+      "target": "Gene Krupa",
+      "colab_count": 1
+    },
+    {
+      "source": "Benny Goodman Quartet",
+      "target": "Lionel Hampton",
+      "colab_count": 1
+    },
+    {
+      "source": "Benny Goodman Quartet",
+      "target": "Teddy Wilson",
+      "colab_count": 1
+    },
+    {
+      "source": "Eduardo di Capua",
+      "target": "Alois Melichar",
+      "colab_count": 2
+    },
+    {
+      "source": "Eduardo di Capua",
+      "target": "Julius Patzak",
+      "colab_count": 2
+    },
+    {
+      "source": "Eduardo di Capua",
+      "target": "Mitglieder der Staatskapelle Berlin",
+      "colab_count": 1
+    },
+    {
+      "source": "Eduardo di Capua",
+      "target": "Staatskapelle Berlin",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Alfred Newman",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Arthur Fiedler",
+      "colab_count": 4
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Boston Pops Orchestra",
+      "colab_count": 4
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Earl Wild",
+      "colab_count": 3
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Hollywood Bowl Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Leonard Pennario",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Franz Alfred Schmidt",
+      "colab_count": 2
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Helge Rosvaenge",
+      "colab_count": 2
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Staatskapelle Berlin",
+      "colab_count": 2
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Staatskapelle Dresden",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Torsten Ralf",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Josef Herrmann",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Staatskapelle Dresden",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Torsten Ralf",
+      "colab_count": 1
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Arturo Toscanini",
+      "colab_count": 2
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Jascha Heifetz",
+      "colab_count": 2
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "New York Philharmonic",
+      "colab_count": 2
+    },
+    {
+      "source": "Kakkia Mendri",
+      "target": "Lidia Likiardopoulou",
+      "colab_count": 1
+    },
+    {
+      "source": "Kakkia Mendri",
+      "target": "Nikos Gizis",
+      "colab_count": 1
+    },
+    {
+      "source": "Kakkia Mendri",
+      "target": "X. Stellaki",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Josef Herrmann",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Margarete Teschemacher",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Staatskapelle Dresden",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Staatsopernchor Dresden",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Torsten Ralf",
+      "colab_count": 1
+    },
+    {
+      "source": "Max Reger",
+      "target": "Erna Berger",
+      "colab_count": 1
+    },
+    {
+      "source": "Max Reger",
+      "target": "Staatskapelle Berlin",
+      "colab_count": 1
+    },
+    {
+      "source": "Max Reger",
+      "target": "Wolfgang Martin",
+      "colab_count": 1
+    },
+    {
+      "source": "N. Constantinescu",
+      "target": "Dorel Livianu",
+      "colab_count": 1
+    },
+    {
+      "source": "N. Constantinescu",
+      "target": "Eugen Mirea",
+      "colab_count": 1
+    },
+    {
+      "source": "N. Constantinescu",
+      "target": "I. Vasilescu",
+      "colab_count": 1
+    },
+    {
+      "source": "Pietro Mascagni",
+      "target": "Christel Goltz",
+      "colab_count": 1
+    },
+    {
+      "source": "Pietro Mascagni",
+      "target": "Staatskapelle Dresden",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Esther Rethy",
+      "colab_count": 2
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Margarete Teschemacher",
+      "colab_count": 2
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Staatskapelle Dresden",
+      "colab_count": 5
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Torsten Ralf",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Arno Schellenberg",
+      "colab_count": 6
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Hanns Lange",
+      "colab_count": 6
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Hans Hermann Nissen",
+      "colab_count": 18
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Helene Jung",
+      "colab_count": 3
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Hermann Greiner",
+      "colab_count": 5
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Josef Herrmann",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Klaus Hermanns",
+      "colab_count": 5
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Ludwig Eybisch",
+      "colab_count": 5
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Margarete Teschemacher",
+      "colab_count": 6
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Martin Kremer",
+      "colab_count": 9
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Rudolf Dittrich",
+      "colab_count": 5
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Rudolf Schmalnauer",
+      "colab_count": 5
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Serge Smirnoff",
+      "colab_count": 5
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Staatskapelle Dresden",
+      "colab_count": 20
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Sven Nilsson",
+      "colab_count": 6
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Torsten Ralf",
+      "colab_count": 7
+    },
+    {
+      "source": "Samuel Barber",
+      "target": "Frederica von Stade",
+      "colab_count": 1
+    },
+    {
+      "source": "Samuel Barber",
+      "target": "Isaac Stern",
+      "colab_count": 3
+    },
+    {
+      "source": "Samuel Barber",
+      "target": "James Conlon",
+      "colab_count": 1
+    },
+    {
+      "source": "Samuel Barber",
+      "target": "Leonard Bernstein",
+      "colab_count": 3
+    },
+    {
+      "source": "Samuel Barber",
+      "target": "Leontyne Price",
+      "colab_count": 3
+    },
+    {
+      "source": "Samuel Barber",
+      "target": "Metropolitan Opera Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Samuel Barber",
+      "target": "New Philharmonia Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Samuel Barber",
+      "target": "New York Philharmonic",
+      "colab_count": 3
+    },
+    {
+      "source": "Samuel Barber",
+      "target": "Thomas Schippers",
+      "colab_count": 3
+    },
+    {
+      "source": "n/a",
+      "target": "Douglas, George",
+      "colab_count": 1
+    },
+    {
+      "source": "n/a",
+      "target": "In Motion",
+      "colab_count": 1
+    },
+    {
+      "source": "n/a",
+      "target": "Weiss, George D.",
+      "colab_count": 1
+    }
+  ]
+}

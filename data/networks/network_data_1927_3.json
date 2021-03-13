@@ -1,0 +1,196 @@
+{
+  "nodes": [
+    {
+      "id": "Albert Cornellier",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Ch&#339;ur Piero Coppola",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Emile Rousseau",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Francesco Bartolomeo Conti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Helmut Walcha",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Henriette Lebard",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Johann Sebastian Bach",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Karl Straube",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Louis Morturier",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Louis Musy",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Lucy Perelli",
+      "group": 10,
+      "song_count": 13
+    },
+    {
+      "id": "Marinette Fenoyer",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Max von Schillings",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Orchestre Piero Coppola",
+      "group": 10,
+      "song_count": 73
+    },
+    {
+      "id": "Paul Payen",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Piero Coppola",
+      "group": 10,
+      "song_count": 17
+    },
+    {
+      "id": "Richard Wagner",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Staatskapelle Berlin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Thomanerchor Leipzig",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Yvonne Brothier",
+      "group": 5,
+      "song_count": 5
+    }
+  ],
+  "links": [
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Helmut Walcha",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Karl Straube",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Thomanerchor Leipzig",
+      "colab_count": 1
+    },
+    {
+      "source": "Orchestre Piero Coppola",
+      "target": "Albert Cornellier",
+      "colab_count": 4
+    },
+    {
+      "source": "Orchestre Piero Coppola",
+      "target": "Ch&#339;ur Piero Coppola",
+      "colab_count": 4
+    },
+    {
+      "source": "Orchestre Piero Coppola",
+      "target": "Emile Rousseau",
+      "colab_count": 4
+    },
+    {
+      "source": "Orchestre Piero Coppola",
+      "target": "Henriette Lebard",
+      "colab_count": 6
+    },
+    {
+      "source": "Orchestre Piero Coppola",
+      "target": "Louis Morturier",
+      "colab_count": 3
+    },
+    {
+      "source": "Orchestre Piero Coppola",
+      "target": "Louis Musy",
+      "colab_count": 7
+    },
+    {
+      "source": "Orchestre Piero Coppola",
+      "target": "Lucy Perelli",
+      "colab_count": 13
+    },
+    {
+      "source": "Orchestre Piero Coppola",
+      "target": "Marinette Fenoyer",
+      "colab_count": 6
+    },
+    {
+      "source": "Orchestre Piero Coppola",
+      "target": "Paul Payen",
+      "colab_count": 4
+    },
+    {
+      "source": "Orchestre Piero Coppola",
+      "target": "Piero Coppola",
+      "colab_count": 17
+    },
+    {
+      "source": "Orchestre Piero Coppola",
+      "target": "Yvonne Brothier",
+      "colab_count": 5
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Francesco Bartolomeo Conti",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Johann Sebastian Bach",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Max von Schillings",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Staatskapelle Berlin",
+      "colab_count": 1
+    }
+  ]
+}

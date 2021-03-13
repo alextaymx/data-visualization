@@ -1,0 +1,631 @@
+{
+  "nodes": [
+    {
+      "id": "\"Cats\" 1983 Broadway Cast",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "A. Pignagnoli",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Advance",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Agnes Baltsa",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Amsterdam Baroque Orchestra",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Andrew Lloyd Webber",
+      "group": 10,
+      "song_count": 52
+    },
+    {
+      "id": "Anna Mcneely",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Anthony Newman",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Anthony Rolfe Johnson",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Berliner Philharmoniker",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Betty Buckley",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Bonnie Simmons",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Catherine Robbin",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Charles Brett",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Chor der Deutschen Oper Berlin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Christine Langner",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Cynthia Onrubia",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "D. Raimondi",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Donna King",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Elizabeth Wilcock",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "English Baroque Soloists",
+      "group": 10,
+      "song_count": 21
+    },
+    {
+      "id": "English Chamber Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Francesco Paolo Tosti",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "George Frideric Handel",
+      "group": 10,
+      "song_count": 76
+    },
+    {
+      "id": "Georges Bizet",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Gewandhausorchester Leipzig",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Giuseppe Sinopoli",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Giuseppe Verdi",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Harry Groener",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Hector Jaime Mercado",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Herbert von Karajan",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "I. Spagna",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Janet L. Hubert",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jeremiah Clarke",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Jessye Norman",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Johann Sebastian Bach",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "John Eliot Gardiner",
+      "group": 10,
+      "song_count": 21
+    },
+    {
+      "id": "Ken Page",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Kenneth Ard",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kurt Masur",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "L.WESLEY",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Luciano Pavarotti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Luigi Boccherini",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Margaret Marshall",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Orchester der Deutschen Oper Berlin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Philharmonia Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Piero Gamba",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Reed Jones",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rene Ceballos",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rene Clemente",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Richard Strauss",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Robert Hale",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Saul Quirke",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Simon Standage",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Stephen Hanan",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Steven Gelfer",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Terrence Mann",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "The English Concert",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "The Monteverdi Choir",
+      "group": 10,
+      "song_count": 18
+    },
+    {
+      "id": "Timothy Scott",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Ton Koopman",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Trevor Pinnock",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "V. Patterson",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wendy Edmead",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Wynton Marsalis",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Yo-Yo Ma",
+      "group": 8,
+      "song_count": 8
+    }
+  ],
+  "links": [
+    {
+      "source": "Advance",
+      "target": "A. Pignagnoli",
+      "colab_count": 1
+    },
+    {
+      "source": "Advance",
+      "target": "D. Raimondi",
+      "colab_count": 1
+    },
+    {
+      "source": "Advance",
+      "target": "I. Spagna",
+      "colab_count": 1
+    },
+    {
+      "source": "Advance",
+      "target": "L.WESLEY",
+      "colab_count": 1
+    },
+    {
+      "source": "Advance",
+      "target": "V. Patterson",
+      "colab_count": 1
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "\"Cats\" 1983 Broadway Cast",
+      "colab_count": 12
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Anna Mcneely",
+      "colab_count": 2
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Betty Buckley",
+      "colab_count": 2
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Bonnie Simmons",
+      "colab_count": 4
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Christine Langner",
+      "colab_count": 1
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Cynthia Onrubia",
+      "colab_count": 2
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Donna King",
+      "colab_count": 4
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Harry Groener",
+      "colab_count": 3
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Hector Jaime Mercado",
+      "colab_count": 2
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Janet L. Hubert",
+      "colab_count": 1
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Ken Page",
+      "colab_count": 2
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Kenneth Ard",
+      "colab_count": 1
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Reed Jones",
+      "colab_count": 1
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Rene Ceballos",
+      "colab_count": 1
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Rene Clemente",
+      "colab_count": 1
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Stephen Hanan",
+      "colab_count": 3
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Steven Gelfer",
+      "colab_count": 1
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Terrence Mann",
+      "colab_count": 3
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Timothy Scott",
+      "colab_count": 4
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Wendy Edmead",
+      "colab_count": 2
+    },
+    {
+      "source": "Francesco Paolo Tosti",
+      "target": "Luciano Pavarotti",
+      "colab_count": 1
+    },
+    {
+      "source": "Francesco Paolo Tosti",
+      "target": "Philharmonia Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Francesco Paolo Tosti",
+      "target": "Piero Gamba",
+      "colab_count": 1
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "Anthony Rolfe Johnson",
+      "colab_count": 2
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "Catherine Robbin",
+      "colab_count": 3
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "Charles Brett",
+      "colab_count": 1
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "Elizabeth Wilcock",
+      "colab_count": 1
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "English Baroque Soloists",
+      "colab_count": 21
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "John Eliot Gardiner",
+      "colab_count": 21
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "Margaret Marshall",
+      "colab_count": 2
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "Robert Hale",
+      "colab_count": 3
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "Saul Quirke",
+      "colab_count": 1
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "Simon Standage",
+      "colab_count": 1
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "The English Concert",
+      "colab_count": 1
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "The Monteverdi Choir",
+      "colab_count": 18
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "Trevor Pinnock",
+      "colab_count": 1
+    },
+    {
+      "source": "Georges Bizet",
+      "target": "Agnes Baltsa",
+      "colab_count": 1
+    },
+    {
+      "source": "Georges Bizet",
+      "target": "Berliner Philharmoniker",
+      "colab_count": 1
+    },
+    {
+      "source": "Georges Bizet",
+      "target": "Herbert von Karajan",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Chor der Deutschen Oper Berlin",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Giuseppe Sinopoli",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Orchester der Deutschen Oper Berlin",
+      "colab_count": 1
+    },
+    {
+      "source": "Jeremiah Clarke",
+      "target": "Anthony Newman",
+      "colab_count": 1
+    },
+    {
+      "source": "Jeremiah Clarke",
+      "target": "English Chamber Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Jeremiah Clarke",
+      "target": "Wynton Marsalis",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Amsterdam Baroque Orchestra",
+      "colab_count": 4
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Ton Koopman",
+      "colab_count": 4
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Yo-Yo Ma",
+      "colab_count": 4
+    },
+    {
+      "source": "Luigi Boccherini",
+      "target": "Amsterdam Baroque Orchestra",
+      "colab_count": 4
+    },
+    {
+      "source": "Luigi Boccherini",
+      "target": "Ton Koopman",
+      "colab_count": 4
+    },
+    {
+      "source": "Luigi Boccherini",
+      "target": "Yo-Yo Ma",
+      "colab_count": 4
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Gewandhausorchester Leipzig",
+      "colab_count": 3
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Jessye Norman",
+      "colab_count": 3
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Kurt Masur",
+      "colab_count": 3
+    }
+  ]
+}

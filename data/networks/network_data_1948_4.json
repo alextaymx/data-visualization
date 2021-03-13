@@ -1,0 +1,611 @@
+{
+  "nodes": [
+    {
+      "id": "Arthur Gleghorn",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Arturo Toscanini",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Bell Telephone Hour Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bharat Vyas",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Bruno Walter",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Columbia Symphony Orchestra",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Dinu Lipatti",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Donald Voorhees",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dorothy Remsen",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Efrem Kurtz",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Elisabeth Schwarzkopf",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Eva Marton",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Fausto Cleva",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Florindo Andreolli",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Francesco Valentino",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Geeta Dutt",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "George Neikrug",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Giacomo Puccini",
+      "group": 10,
+      "song_count": 96
+    },
+    {
+      "id": "Gianandrea Gavazzeni",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Gillian Knight",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Giuseppe Antonicelli",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Hans Hotter",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Henryk Wieniawski",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Herbert von Karajan",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Hungarian State Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Igor Stravinsky",
+      "group": 10,
+      "song_count": 18
+    },
+    {
+      "id": "Ingvar Wixell",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Isaac Stern",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Israel Baker",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Issachar Miron",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Jascha Heifetz",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Johannes Brahms",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Joseph Szigeti",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Julius Grossman",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Julius Patzak",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Kalman Bloch",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Kiri Te Kanawa",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Ljuba Welitch",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "London Philharmonic Orchestra",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "London Symphony Orchestra",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Lorin Maazel",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Ludwig van Beethoven",
+      "group": 10,
+      "song_count": 31
+    },
+    {
+      "id": "Max Rudolf",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Metropolitan Opera Orchestra",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Michael Tilson Thomas",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Moti Bai",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Munich Radio Orchestra",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "New York Philharmonic",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Otis Igleman",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Philharmonia Orchestra",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Renata Scotto",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Richard Tucker",
+      "group": 10,
+      "song_count": 13
+    },
+    {
+      "id": "Robert Craft",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Robert Schumann",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Sanford Schonbach",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Sholom Secunda",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Sir John Pritchard",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Uma Devi",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wiener Philharmoniker",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Wiener Singverein",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Yechiel Haggiz",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Zohrabai Ambalawali",
+      "group": 1,
+      "song_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Bharat Vyas",
+      "target": "Geeta Dutt",
+      "colab_count": 1
+    },
+    {
+      "source": "Bharat Vyas",
+      "target": "Moti Bai",
+      "colab_count": 1
+    },
+    {
+      "source": "Bharat Vyas",
+      "target": "Uma Devi",
+      "colab_count": 1
+    },
+    {
+      "source": "Bharat Vyas",
+      "target": "Zohrabai Ambalawali",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Columbia Symphony Orchestra",
+      "colab_count": 5
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Eva Marton",
+      "colab_count": 6
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Fausto Cleva",
+      "colab_count": 5
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Florindo Andreolli",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Francesco Valentino",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Gianandrea Gavazzeni",
+      "colab_count": 2
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Gillian Knight",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Giuseppe Antonicelli",
+      "colab_count": 4
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Hungarian State Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Ingvar Wixell",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Kiri Te Kanawa",
+      "colab_count": 9
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Ljuba Welitch",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "London Philharmonic Orchestra",
+      "colab_count": 8
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "London Symphony Orchestra",
+      "colab_count": 4
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Lorin Maazel",
+      "colab_count": 5
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Max Rudolf",
+      "colab_count": 2
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Metropolitan Opera Orchestra",
+      "colab_count": 6
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Michael Tilson Thomas",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Munich Radio Orchestra",
+      "colab_count": 6
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Philharmonia Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Renata Scotto",
+      "colab_count": 5
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Richard Tucker",
+      "colab_count": 11
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Sir John Pritchard",
+      "colab_count": 8
+    },
+    {
+      "source": "Henryk Wieniawski",
+      "target": "Efrem Kurtz",
+      "colab_count": 2
+    },
+    {
+      "source": "Henryk Wieniawski",
+      "target": "Isaac Stern",
+      "colab_count": 2
+    },
+    {
+      "source": "Henryk Wieniawski",
+      "target": "New York Philharmonic",
+      "colab_count": 2
+    },
+    {
+      "source": "Igor Stravinsky",
+      "target": "Arthur Gleghorn",
+      "colab_count": 2
+    },
+    {
+      "source": "Igor Stravinsky",
+      "target": "Dorothy Remsen",
+      "colab_count": 2
+    },
+    {
+      "source": "Igor Stravinsky",
+      "target": "George Neikrug",
+      "colab_count": 2
+    },
+    {
+      "source": "Igor Stravinsky",
+      "target": "Israel Baker",
+      "colab_count": 2
+    },
+    {
+      "source": "Igor Stravinsky",
+      "target": "Kalman Bloch",
+      "colab_count": 2
+    },
+    {
+      "source": "Igor Stravinsky",
+      "target": "Otis Igleman",
+      "colab_count": 2
+    },
+    {
+      "source": "Igor Stravinsky",
+      "target": "Robert Craft",
+      "colab_count": 4
+    },
+    {
+      "source": "Igor Stravinsky",
+      "target": "Sanford Schonbach",
+      "colab_count": 2
+    },
+    {
+      "source": "Issachar Miron",
+      "target": "Julius Grossman",
+      "colab_count": 2
+    },
+    {
+      "source": "Issachar Miron",
+      "target": "Richard Tucker",
+      "colab_count": 2
+    },
+    {
+      "source": "Issachar Miron",
+      "target": "Sholom Secunda",
+      "colab_count": 2
+    },
+    {
+      "source": "Issachar Miron",
+      "target": "Yechiel Haggiz",
+      "colab_count": 2
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Arturo Toscanini",
+      "colab_count": 2
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Bell Telephone Hour Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Donald Voorhees",
+      "colab_count": 1
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Jascha Heifetz",
+      "colab_count": 3
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "New York Philharmonic",
+      "colab_count": 2
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Bruno Walter",
+      "colab_count": 2
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Elisabeth Schwarzkopf",
+      "colab_count": 2
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Hans Hotter",
+      "colab_count": 2
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Herbert von Karajan",
+      "colab_count": 6
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Joseph Szigeti",
+      "colab_count": 2
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Julius Patzak",
+      "colab_count": 3
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "New York Philharmonic",
+      "colab_count": 2
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Wiener Philharmoniker",
+      "colab_count": 6
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Wiener Singverein",
+      "colab_count": 6
+    },
+    {
+      "source": "Robert Schumann",
+      "target": "Dinu Lipatti",
+      "colab_count": 3
+    },
+    {
+      "source": "Robert Schumann",
+      "target": "Herbert von Karajan",
+      "colab_count": 3
+    },
+    {
+      "source": "Robert Schumann",
+      "target": "Philharmonia Orchestra",
+      "colab_count": 3
+    }
+  ]
+}

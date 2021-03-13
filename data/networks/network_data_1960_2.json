@@ -1,0 +1,1421 @@
+{
+  "nodes": [
+    {
+      "id": "A.C. Smyth",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Alexander Schreiner",
+      "group": 10,
+      "song_count": 29
+    },
+    {
+      "id": "Alfred Wallenstein",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Arthur Rubinstein",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Arthur Sullivan",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Asha Bhosle",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Barbara Doherty",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Barry Humphries",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bobby Timmons",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Brad Mehldau",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Brian Blade",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bruce Yarnell",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bruno Walter",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bye Bye Birdie Ensemble",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Carl Maria von Weber",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Charles Strouse",
+      "group": 10,
+      "song_count": 42
+    },
+    {
+      "id": "Chita Rivera",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Christian McBride",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Columbia Symphony Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "David Nadien",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dick Gautier",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Dick Van Dyke",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Donaldson Bell",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dr. William S. Pitts",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Edvard Grieg",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Elliot Lawrence",
+      "group": 10,
+      "song_count": 11
+    },
+    {
+      "id": "Eugene Ormandy",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "FRIEDRICH F. FLEMMING",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Frank Asper",
+      "group": 10,
+      "song_count": 16
+    },
+    {
+      "id": "Franz Allers",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Franz Liszt",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Frederick Loewe",
+      "group": 10,
+      "song_count": 14
+    },
+    {
+      "id": "George A. Minor",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "George Blackwell",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "George Careless",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "George Frideric Handel",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "George Warren",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Georges Bizet",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Giovanni Gabrieli",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "H. MILLARD",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "James Gannon",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "James Ramsey Murray",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Jean-Joseph Mouret",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Jennifer Vyvyan",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jessica Albright",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Johannes Brahms",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "John Bacchus Dykes",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "John Cullum",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "John Hughes",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "John McCarthy",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Josef Krips",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Joseph Barnby",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Julie Andrews",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Keith Hampshire",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Leonard Bernstein",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Lewis D. Edwards",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Lionel Bart",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "London Symphony Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Louise Quick",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lowell Mason",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Ludwig van Beethoven",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Manna Dey",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Marijane Maricle",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Martin Luther",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Mohammed Rafi",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mormon Tabernacle Choir",
+      "group": 10,
+      "song_count": 29
+    },
+    {
+      "id": "Nancy Wilson",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Nat Adderley",
+      "group": 10,
+      "song_count": 11
+    },
+    {
+      "id": "New York Philharmonic",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Orchestra",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Orchestre National de la Radiodiffusion-Television Francaise",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Paul Lynde",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Peabo Bryson",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Percy Heath",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Philadelphia Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Philharmonia Virtuosi",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Philharmonia Virtuosi of New York",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Philip Paul Bliss",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Pyotr Ilyich Tchaikovsky",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "RCA Victor Symphony Orchestra",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Richard Burgin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Richard Burton",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Richard Kapp",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Richard P. Condie",
+      "group": 10,
+      "song_count": 31
+    },
+    {
+      "id": "Robert Lowry",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Ron Moody",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Royal Philharmonic Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rudolf Petrak",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "S. D. Batish",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "S. MCBURNEY",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Sam Jones",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Shirley Verrett",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sir Thomas Beecham",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Sonia Fraser",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sudha Malhotra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Susan Watson",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "The Camelot Ensemble",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "The Chicago Brass Ensemble",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "The Cleveland Brass Ensemble",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "The Philadelphia Brass Ensemble",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "The Philadelphia Brass Ensemble & Percussion",
+      "group": 10,
+      "song_count": 13
+    },
+    {
+      "id": "The Strings of the Philadelphia Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Thomas Hastings",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Thomas Koschat",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Traditional",
+      "group": 10,
+      "song_count": 16
+    },
+    {
+      "id": "Vicki Belmonte",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "WILLIAM G. TOMER",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Wes Montgomery",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "William Henry Monk",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Wolfgang Amadeus Mozart",
+      "group": 4,
+      "song_count": 4
+    }
+  ],
+  "links": [
+    {
+      "source": "A.C. Smyth",
+      "target": "Alexander Schreiner",
+      "colab_count": 1
+    },
+    {
+      "source": "A.C. Smyth",
+      "target": "Frank Asper",
+      "colab_count": 1
+    },
+    {
+      "source": "A.C. Smyth",
+      "target": "Mormon Tabernacle Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "A.C. Smyth",
+      "target": "Richard P. Condie",
+      "colab_count": 1
+    },
+    {
+      "source": "Arthur Sullivan",
+      "target": "Alexander Schreiner",
+      "colab_count": 1
+    },
+    {
+      "source": "Arthur Sullivan",
+      "target": "Mormon Tabernacle Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "Arthur Sullivan",
+      "target": "Richard P. Condie",
+      "colab_count": 1
+    },
+    {
+      "source": "Arthur Sullivan",
+      "target": "The Philadelphia Brass Ensemble & Percussion",
+      "colab_count": 1
+    },
+    {
+      "source": "Carl Maria von Weber",
+      "target": "Alexander Schreiner",
+      "colab_count": 1
+    },
+    {
+      "source": "Carl Maria von Weber",
+      "target": "Mormon Tabernacle Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "Carl Maria von Weber",
+      "target": "Richard P. Condie",
+      "colab_count": 1
+    },
+    {
+      "source": "Carl Maria von Weber",
+      "target": "The Philadelphia Brass Ensemble & Percussion",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Strouse",
+      "target": "Barbara Doherty",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Strouse",
+      "target": "Bye Bye Birdie Ensemble",
+      "colab_count": 6
+    },
+    {
+      "source": "Charles Strouse",
+      "target": "Chita Rivera",
+      "colab_count": 6
+    },
+    {
+      "source": "Charles Strouse",
+      "target": "Dick Gautier",
+      "colab_count": 3
+    },
+    {
+      "source": "Charles Strouse",
+      "target": "Dick Van Dyke",
+      "colab_count": 4
+    },
+    {
+      "source": "Charles Strouse",
+      "target": "Elliot Lawrence",
+      "colab_count": 11
+    },
+    {
+      "source": "Charles Strouse",
+      "target": "George Blackwell",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Strouse",
+      "target": "Jessica Albright",
+      "colab_count": 2
+    },
+    {
+      "source": "Charles Strouse",
+      "target": "Louise Quick",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Strouse",
+      "target": "Marijane Maricle",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Strouse",
+      "target": "Paul Lynde",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Strouse",
+      "target": "Susan Watson",
+      "colab_count": 3
+    },
+    {
+      "source": "Charles Strouse",
+      "target": "Vicki Belmonte",
+      "colab_count": 2
+    },
+    {
+      "source": "Dr. William S. Pitts",
+      "target": "Alexander Schreiner",
+      "colab_count": 1
+    },
+    {
+      "source": "Dr. William S. Pitts",
+      "target": "Mormon Tabernacle Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "Dr. William S. Pitts",
+      "target": "Richard P. Condie",
+      "colab_count": 1
+    },
+    {
+      "source": "Dr. William S. Pitts",
+      "target": "The Philadelphia Brass Ensemble & Percussion",
+      "colab_count": 1
+    },
+    {
+      "source": "Edvard Grieg",
+      "target": "Alfred Wallenstein",
+      "colab_count": 3
+    },
+    {
+      "source": "Edvard Grieg",
+      "target": "Arthur Rubinstein",
+      "colab_count": 3
+    },
+    {
+      "source": "Edvard Grieg",
+      "target": "RCA Victor Symphony Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "FRIEDRICH F. FLEMMING",
+      "target": "Alexander Schreiner",
+      "colab_count": 1
+    },
+    {
+      "source": "FRIEDRICH F. FLEMMING",
+      "target": "Frank Asper",
+      "colab_count": 1
+    },
+    {
+      "source": "FRIEDRICH F. FLEMMING",
+      "target": "Mormon Tabernacle Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "FRIEDRICH F. FLEMMING",
+      "target": "Richard P. Condie",
+      "colab_count": 1
+    },
+    {
+      "source": "Franz Liszt",
+      "target": "Alfred Wallenstein",
+      "colab_count": 4
+    },
+    {
+      "source": "Franz Liszt",
+      "target": "Arthur Rubinstein",
+      "colab_count": 4
+    },
+    {
+      "source": "Franz Liszt",
+      "target": "RCA Victor Symphony Orchestra",
+      "colab_count": 4
+    },
+    {
+      "source": "Frederick Loewe",
+      "target": "Bruce Yarnell",
+      "colab_count": 1
+    },
+    {
+      "source": "Frederick Loewe",
+      "target": "Franz Allers",
+      "colab_count": 4
+    },
+    {
+      "source": "Frederick Loewe",
+      "target": "James Gannon",
+      "colab_count": 1
+    },
+    {
+      "source": "Frederick Loewe",
+      "target": "John Cullum",
+      "colab_count": 1
+    },
+    {
+      "source": "Frederick Loewe",
+      "target": "Julie Andrews",
+      "colab_count": 3
+    },
+    {
+      "source": "Frederick Loewe",
+      "target": "Richard Burton",
+      "colab_count": 2
+    },
+    {
+      "source": "Frederick Loewe",
+      "target": "The Camelot Ensemble",
+      "colab_count": 2
+    },
+    {
+      "source": "George A. Minor",
+      "target": "Alexander Schreiner",
+      "colab_count": 1
+    },
+    {
+      "source": "George A. Minor",
+      "target": "Mormon Tabernacle Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "George A. Minor",
+      "target": "Richard P. Condie",
+      "colab_count": 1
+    },
+    {
+      "source": "George A. Minor",
+      "target": "The Philadelphia Brass Ensemble & Percussion",
+      "colab_count": 1
+    },
+    {
+      "source": "George Careless",
+      "target": "Alexander Schreiner",
+      "colab_count": 2
+    },
+    {
+      "source": "George Careless",
+      "target": "Frank Asper",
+      "colab_count": 2
+    },
+    {
+      "source": "George Careless",
+      "target": "Mormon Tabernacle Choir",
+      "colab_count": 2
+    },
+    {
+      "source": "George Careless",
+      "target": "Richard P. Condie",
+      "colab_count": 2
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "John McCarthy",
+      "colab_count": 1
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "Royal Philharmonic Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "George Frideric Handel",
+      "target": "Sir Thomas Beecham",
+      "colab_count": 1
+    },
+    {
+      "source": "George Warren",
+      "target": "Alexander Schreiner",
+      "colab_count": 1
+    },
+    {
+      "source": "George Warren",
+      "target": "Mormon Tabernacle Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "George Warren",
+      "target": "Richard P. Condie",
+      "colab_count": 1
+    },
+    {
+      "source": "George Warren",
+      "target": "The Philadelphia Brass Ensemble & Percussion",
+      "colab_count": 1
+    },
+    {
+      "source": "Georges Bizet",
+      "target": "Orchestre National de la Radiodiffusion-Television Francaise",
+      "colab_count": 1
+    },
+    {
+      "source": "Georges Bizet",
+      "target": "Sir Thomas Beecham",
+      "colab_count": 1
+    },
+    {
+      "source": "Giovanni Gabrieli",
+      "target": "Richard Burgin",
+      "colab_count": 1
+    },
+    {
+      "source": "Giovanni Gabrieli",
+      "target": "The Chicago Brass Ensemble",
+      "colab_count": 1
+    },
+    {
+      "source": "Giovanni Gabrieli",
+      "target": "The Cleveland Brass Ensemble",
+      "colab_count": 1
+    },
+    {
+      "source": "Giovanni Gabrieli",
+      "target": "The Philadelphia Brass Ensemble",
+      "colab_count": 1
+    },
+    {
+      "source": "H. MILLARD",
+      "target": "Alexander Schreiner",
+      "colab_count": 1
+    },
+    {
+      "source": "H. MILLARD",
+      "target": "Frank Asper",
+      "colab_count": 1
+    },
+    {
+      "source": "H. MILLARD",
+      "target": "Mormon Tabernacle Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "H. MILLARD",
+      "target": "Richard P. Condie",
+      "colab_count": 1
+    },
+    {
+      "source": "James Ramsey Murray",
+      "target": "Leonard Bernstein",
+      "colab_count": 1
+    },
+    {
+      "source": "James Ramsey Murray",
+      "target": "New York Philharmonic",
+      "colab_count": 1
+    },
+    {
+      "source": "James Ramsey Murray",
+      "target": "Richard P. Condie",
+      "colab_count": 1
+    },
+    {
+      "source": "James Ramsey Murray",
+      "target": "Traditional",
+      "colab_count": 1
+    },
+    {
+      "source": "Jean-Joseph Mouret",
+      "target": "Philharmonia Virtuosi",
+      "colab_count": 1
+    },
+    {
+      "source": "Jean-Joseph Mouret",
+      "target": "Philharmonia Virtuosi of New York",
+      "colab_count": 1
+    },
+    {
+      "source": "Jean-Joseph Mouret",
+      "target": "Richard Kapp",
+      "colab_count": 1
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Bruno Walter",
+      "colab_count": 1
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Columbia Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "New York Philharmonic",
+      "colab_count": 1
+    },
+    {
+      "source": "John Bacchus Dykes",
+      "target": "Alexander Schreiner",
+      "colab_count": 3
+    },
+    {
+      "source": "John Bacchus Dykes",
+      "target": "Frank Asper",
+      "colab_count": 1
+    },
+    {
+      "source": "John Bacchus Dykes",
+      "target": "Mormon Tabernacle Choir",
+      "colab_count": 3
+    },
+    {
+      "source": "John Bacchus Dykes",
+      "target": "Richard P. Condie",
+      "colab_count": 3
+    },
+    {
+      "source": "John Bacchus Dykes",
+      "target": "The Philadelphia Brass Ensemble & Percussion",
+      "colab_count": 2
+    },
+    {
+      "source": "John Hughes",
+      "target": "Alexander Schreiner",
+      "colab_count": 1
+    },
+    {
+      "source": "John Hughes",
+      "target": "Frank Asper",
+      "colab_count": 1
+    },
+    {
+      "source": "John Hughes",
+      "target": "Mormon Tabernacle Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "John Hughes",
+      "target": "Richard P. Condie",
+      "colab_count": 1
+    },
+    {
+      "source": "Joseph Barnby",
+      "target": "Alexander Schreiner",
+      "colab_count": 1
+    },
+    {
+      "source": "Joseph Barnby",
+      "target": "Mormon Tabernacle Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "Joseph Barnby",
+      "target": "Richard P. Condie",
+      "colab_count": 1
+    },
+    {
+      "source": "Joseph Barnby",
+      "target": "The Philadelphia Brass Ensemble & Percussion",
+      "colab_count": 1
+    },
+    {
+      "source": "Lewis D. Edwards",
+      "target": "Alexander Schreiner",
+      "colab_count": 1
+    },
+    {
+      "source": "Lewis D. Edwards",
+      "target": "Frank Asper",
+      "colab_count": 1
+    },
+    {
+      "source": "Lewis D. Edwards",
+      "target": "Mormon Tabernacle Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "Lewis D. Edwards",
+      "target": "Richard P. Condie",
+      "colab_count": 1
+    },
+    {
+      "source": "Lionel Bart",
+      "target": "Barry Humphries",
+      "colab_count": 1
+    },
+    {
+      "source": "Lionel Bart",
+      "target": "Keith Hampshire",
+      "colab_count": 1
+    },
+    {
+      "source": "Lionel Bart",
+      "target": "Orchestra",
+      "colab_count": 2
+    },
+    {
+      "source": "Lionel Bart",
+      "target": "Ron Moody",
+      "colab_count": 1
+    },
+    {
+      "source": "Lionel Bart",
+      "target": "Sonia Fraser",
+      "colab_count": 1
+    },
+    {
+      "source": "Lowell Mason",
+      "target": "Alexander Schreiner",
+      "colab_count": 1
+    },
+    {
+      "source": "Lowell Mason",
+      "target": "Mormon Tabernacle Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "Lowell Mason",
+      "target": "Richard P. Condie",
+      "colab_count": 1
+    },
+    {
+      "source": "Lowell Mason",
+      "target": "The Philadelphia Brass Ensemble & Percussion",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Donaldson Bell",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Jennifer Vyvyan",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Josef Krips",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "London Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Rudolf Petrak",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Shirley Verrett",
+      "colab_count": 1
+    },
+    {
+      "source": "Manna Dey",
+      "target": "Asha Bhosle",
+      "colab_count": 1
+    },
+    {
+      "source": "Manna Dey",
+      "target": "Mohammed Rafi",
+      "colab_count": 1
+    },
+    {
+      "source": "Manna Dey",
+      "target": "S. D. Batish",
+      "colab_count": 1
+    },
+    {
+      "source": "Manna Dey",
+      "target": "Sudha Malhotra",
+      "colab_count": 1
+    },
+    {
+      "source": "Martin Luther",
+      "target": "Alexander Schreiner",
+      "colab_count": 1
+    },
+    {
+      "source": "Martin Luther",
+      "target": "Frank Asper",
+      "colab_count": 1
+    },
+    {
+      "source": "Martin Luther",
+      "target": "Mormon Tabernacle Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "Martin Luther",
+      "target": "Richard P. Condie",
+      "colab_count": 1
+    },
+    {
+      "source": "Nat Adderley",
+      "target": "Bobby Timmons",
+      "colab_count": 3
+    },
+    {
+      "source": "Nat Adderley",
+      "target": "Percy Heath",
+      "colab_count": 2
+    },
+    {
+      "source": "Nat Adderley",
+      "target": "Sam Jones",
+      "colab_count": 3
+    },
+    {
+      "source": "Nat Adderley",
+      "target": "Wes Montgomery",
+      "colab_count": 3
+    },
+    {
+      "source": "Peabo Bryson",
+      "target": "Brad Mehldau",
+      "colab_count": 1
+    },
+    {
+      "source": "Peabo Bryson",
+      "target": "Brian Blade",
+      "colab_count": 1
+    },
+    {
+      "source": "Peabo Bryson",
+      "target": "Christian McBride",
+      "colab_count": 1
+    },
+    {
+      "source": "Peabo Bryson",
+      "target": "Nancy Wilson",
+      "colab_count": 1
+    },
+    {
+      "source": "Philip Paul Bliss",
+      "target": "Alexander Schreiner",
+      "colab_count": 1
+    },
+    {
+      "source": "Philip Paul Bliss",
+      "target": "Frank Asper",
+      "colab_count": 1
+    },
+    {
+      "source": "Philip Paul Bliss",
+      "target": "Mormon Tabernacle Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "Philip Paul Bliss",
+      "target": "Richard P. Condie",
+      "colab_count": 1
+    },
+    {
+      "source": "Pyotr Ilyich Tchaikovsky",
+      "target": "David Nadien",
+      "colab_count": 1
+    },
+    {
+      "source": "Pyotr Ilyich Tchaikovsky",
+      "target": "Eugene Ormandy",
+      "colab_count": 1
+    },
+    {
+      "source": "Pyotr Ilyich Tchaikovsky",
+      "target": "Leonard Bernstein",
+      "colab_count": 1
+    },
+    {
+      "source": "Pyotr Ilyich Tchaikovsky",
+      "target": "New York Philharmonic",
+      "colab_count": 1
+    },
+    {
+      "source": "Pyotr Ilyich Tchaikovsky",
+      "target": "Philadelphia Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Pyotr Ilyich Tchaikovsky",
+      "target": "The Strings of the Philadelphia Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Robert Lowry",
+      "target": "Alexander Schreiner",
+      "colab_count": 1
+    },
+    {
+      "source": "Robert Lowry",
+      "target": "Mormon Tabernacle Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "Robert Lowry",
+      "target": "Richard P. Condie",
+      "colab_count": 1
+    },
+    {
+      "source": "Robert Lowry",
+      "target": "The Philadelphia Brass Ensemble & Percussion",
+      "colab_count": 1
+    },
+    {
+      "source": "S. MCBURNEY",
+      "target": "Alexander Schreiner",
+      "colab_count": 1
+    },
+    {
+      "source": "S. MCBURNEY",
+      "target": "Frank Asper",
+      "colab_count": 1
+    },
+    {
+      "source": "S. MCBURNEY",
+      "target": "Mormon Tabernacle Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "S. MCBURNEY",
+      "target": "Richard P. Condie",
+      "colab_count": 1
+    },
+    {
+      "source": "Thomas Hastings",
+      "target": "Alexander Schreiner",
+      "colab_count": 1
+    },
+    {
+      "source": "Thomas Hastings",
+      "target": "Mormon Tabernacle Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "Thomas Hastings",
+      "target": "Richard P. Condie",
+      "colab_count": 1
+    },
+    {
+      "source": "Thomas Hastings",
+      "target": "The Philadelphia Brass Ensemble & Percussion",
+      "colab_count": 1
+    },
+    {
+      "source": "Thomas Koschat",
+      "target": "Alexander Schreiner",
+      "colab_count": 1
+    },
+    {
+      "source": "Thomas Koschat",
+      "target": "Frank Asper",
+      "colab_count": 1
+    },
+    {
+      "source": "Thomas Koschat",
+      "target": "Mormon Tabernacle Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "Thomas Koschat",
+      "target": "Richard P. Condie",
+      "colab_count": 1
+    },
+    {
+      "source": "Traditional",
+      "target": "Alexander Schreiner",
+      "colab_count": 3
+    },
+    {
+      "source": "Traditional",
+      "target": "Frank Asper",
+      "colab_count": 3
+    },
+    {
+      "source": "Traditional",
+      "target": "Leonard Bernstein",
+      "colab_count": 1
+    },
+    {
+      "source": "Traditional",
+      "target": "Mormon Tabernacle Choir",
+      "colab_count": 3
+    },
+    {
+      "source": "Traditional",
+      "target": "New York Philharmonic",
+      "colab_count": 1
+    },
+    {
+      "source": "Traditional",
+      "target": "Richard P. Condie",
+      "colab_count": 4
+    },
+    {
+      "source": "WILLIAM G. TOMER",
+      "target": "Alexander Schreiner",
+      "colab_count": 1
+    },
+    {
+      "source": "WILLIAM G. TOMER",
+      "target": "Mormon Tabernacle Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "WILLIAM G. TOMER",
+      "target": "Richard P. Condie",
+      "colab_count": 1
+    },
+    {
+      "source": "WILLIAM G. TOMER",
+      "target": "The Philadelphia Brass Ensemble & Percussion",
+      "colab_count": 1
+    },
+    {
+      "source": "William Henry Monk",
+      "target": "Alexander Schreiner",
+      "colab_count": 1
+    },
+    {
+      "source": "William Henry Monk",
+      "target": "Mormon Tabernacle Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "William Henry Monk",
+      "target": "Richard P. Condie",
+      "colab_count": 1
+    },
+    {
+      "source": "William Henry Monk",
+      "target": "The Philadelphia Brass Ensemble & Percussion",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Alexander Schreiner",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Frank Asper",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Mormon Tabernacle Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Richard P. Condie",
+      "colab_count": 1
+    }
+  ]
+}

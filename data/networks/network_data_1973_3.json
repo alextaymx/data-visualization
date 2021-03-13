@@ -1,0 +1,241 @@
+{
+  "nodes": [
+    {
+      "id": "Berliner Philharmoniker",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Bob Bingham",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Chor der Deutschen Oper Berlin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dave Madden",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Debbie Reynolds",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Elizabeth Harwood",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Giacomo Puccini",
+      "group": 10,
+      "song_count": 36
+    },
+    {
+      "id": "Gianni Maffeo",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Henry Gibson",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Herbert von Karajan",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Irwin Kostal",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "John Alldis Choir",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Kurt Yaghjian",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "London Philharmonic Orchestra",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Luciano Pavarotti",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Mirella Freni",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Nicolai Ghiaurov",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Paul Thomas",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pier Francesco Poli",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Piero de Palma",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rolando Panerai",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Ted Neeley",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Tom Krause",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wandsworth School Boys Choir",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Zubin Mehta",
+      "group": 2,
+      "song_count": 2
+    }
+  ],
+  "links": [
+    {
+      "source": "Giacomo Puccini",
+      "target": "Berliner Philharmoniker",
+      "colab_count": 5
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Chor der Deutschen Oper Berlin",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Elizabeth Harwood",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Gianni Maffeo",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Herbert von Karajan",
+      "colab_count": 5
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "John Alldis Choir",
+      "colab_count": 2
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "London Philharmonic Orchestra",
+      "colab_count": 2
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Luciano Pavarotti",
+      "colab_count": 6
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Mirella Freni",
+      "colab_count": 3
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Nicolai Ghiaurov",
+      "colab_count": 2
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Pier Francesco Poli",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Piero de Palma",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Rolando Panerai",
+      "colab_count": 2
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Tom Krause",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Wandsworth School Boys Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Zubin Mehta",
+      "colab_count": 2
+    },
+    {
+      "source": "Irwin Kostal",
+      "target": "Dave Madden",
+      "colab_count": 1
+    },
+    {
+      "source": "Irwin Kostal",
+      "target": "Debbie Reynolds",
+      "colab_count": 1
+    },
+    {
+      "source": "Irwin Kostal",
+      "target": "Henry Gibson",
+      "colab_count": 1
+    },
+    {
+      "source": "Ted Neeley",
+      "target": "Bob Bingham",
+      "colab_count": 1
+    },
+    {
+      "source": "Ted Neeley",
+      "target": "Kurt Yaghjian",
+      "colab_count": 1
+    },
+    {
+      "source": "Ted Neeley",
+      "target": "Paul Thomas",
+      "colab_count": 1
+    }
+  ]
+}

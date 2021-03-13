@@ -1,0 +1,366 @@
+{
+  "nodes": [
+    {
+      "id": "Benjamin Britten",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Birgit Nilsson",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Choir Of Downside School, Purley",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Claude Debussy",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Columbia Symphony Orchestra",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Curtis Fuller",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Daniel Barenboim",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Earnest Johnson",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "English Chamber Orchestra",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Franco Corelli",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Giacomo Puccini",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Glenn Gould",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Herbie Hancock",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Isaac Stern",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Itzhak Perlman",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "James Brown",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "James Spaulding",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Joe Chambers",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Johann Sebastian Bach",
+      "group": 10,
+      "song_count": 23
+    },
+    {
+      "id": "John Williams",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "London Symphony Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lorin Maazel",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mack Thompson",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Magic Sam",
+      "group": 10,
+      "song_count": 36
+    },
+    {
+      "id": "Mighty Joe Young",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Milton Katims",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "New York Philharmonic",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Odie Payne III",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Odie Payne, Jr.",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Richard Strauss",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Ron Carter",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Sir Georg Solti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Stockholm Slim",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Vladimir Golschmann",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wandsworth School Boys Choir",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wayne Shorter",
+      "group": 10,
+      "song_count": 15
+    },
+    {
+      "id": "Wiener Philharmoniker",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Zubin Mehta",
+      "group": 5,
+      "song_count": 5
+    }
+  ],
+  "links": [
+    {
+      "source": "Benjamin Britten",
+      "target": "Choir Of Downside School, Purley",
+      "colab_count": 1
+    },
+    {
+      "source": "Benjamin Britten",
+      "target": "London Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Benjamin Britten",
+      "target": "Wandsworth School Boys Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "Claude Debussy",
+      "target": "Columbia Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Claude Debussy",
+      "target": "Isaac Stern",
+      "colab_count": 1
+    },
+    {
+      "source": "Claude Debussy",
+      "target": "Milton Katims",
+      "colab_count": 1
+    },
+    {
+      "source": "Daniel Barenboim",
+      "target": "English Chamber Orchestra",
+      "colab_count": 2
+    },
+    {
+      "source": "Daniel Barenboim",
+      "target": "James Brown",
+      "colab_count": 2
+    },
+    {
+      "source": "Daniel Barenboim",
+      "target": "John Williams",
+      "colab_count": 2
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Franco Corelli",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Lorin Maazel",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Columbia Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Glenn Gould",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Isaac Stern",
+      "colab_count": 5
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Itzhak Perlman",
+      "colab_count": 5
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "New York Philharmonic",
+      "colab_count": 5
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Vladimir Golschmann",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Zubin Mehta",
+      "colab_count": 5
+    },
+    {
+      "source": "Magic Sam",
+      "target": "Earnest Johnson",
+      "colab_count": 7
+    },
+    {
+      "source": "Magic Sam",
+      "target": "Mack Thompson",
+      "colab_count": 2
+    },
+    {
+      "source": "Magic Sam",
+      "target": "Mighty Joe Young",
+      "colab_count": 9
+    },
+    {
+      "source": "Magic Sam",
+      "target": "Odie Payne III",
+      "colab_count": 2
+    },
+    {
+      "source": "Magic Sam",
+      "target": "Odie Payne, Jr.",
+      "colab_count": 7
+    },
+    {
+      "source": "Magic Sam",
+      "target": "Stockholm Slim",
+      "colab_count": 9
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Birgit Nilsson",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Sir Georg Solti",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Wiener Philharmoniker",
+      "colab_count": 1
+    },
+    {
+      "source": "Wayne Shorter",
+      "target": "Curtis Fuller",
+      "colab_count": 3
+    },
+    {
+      "source": "Wayne Shorter",
+      "target": "Herbie Hancock",
+      "colab_count": 3
+    },
+    {
+      "source": "Wayne Shorter",
+      "target": "James Spaulding",
+      "colab_count": 3
+    },
+    {
+      "source": "Wayne Shorter",
+      "target": "Joe Chambers",
+      "colab_count": 3
+    },
+    {
+      "source": "Wayne Shorter",
+      "target": "Ron Carter",
+      "colab_count": 3
+    }
+  ]
+}

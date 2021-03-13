@@ -1,0 +1,261 @@
+{
+  "nodes": [
+    {
+      "id": "Adolph Green",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Arthur Rubinstein",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Carl Maria von Weber",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Chicago Symphony Orchestra",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Chor Der Staatsoper Berlin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Claude Debussy",
+      "group": 10,
+      "song_count": 130
+    },
+    {
+      "id": "Claudio Arrau",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Detroit Symphony Orchestra",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Emanuel Feuermann",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Gerhard Steeger",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jascha Heifetz",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Johann Strauss II",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Johannes Brahms",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "John Reardon",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Karl Krueger",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Kenneth Bridges",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Lady in the Dark Ensemble (1963)",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Ludwig van Beethoven",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Orchestre Symphonique De Paris",
+      "group": 10,
+      "song_count": 65
+    },
+    {
+      "id": "Richard Strauss",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Rise Stevens",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Robert Schumann",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Roger Desormiere",
+      "group": 10,
+      "song_count": 65
+    },
+    {
+      "id": "Staatskapelle Berlin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Walther Ludwig",
+      "group": 1,
+      "song_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Adolph Green",
+      "target": "John Reardon",
+      "colab_count": 2
+    },
+    {
+      "source": "Adolph Green",
+      "target": "Kenneth Bridges",
+      "colab_count": 1
+    },
+    {
+      "source": "Adolph Green",
+      "target": "Lady in the Dark Ensemble (1963)",
+      "colab_count": 2
+    },
+    {
+      "source": "Adolph Green",
+      "target": "Rise Stevens",
+      "colab_count": 1
+    },
+    {
+      "source": "Carl Maria von Weber",
+      "target": "Chicago Symphony Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Carl Maria von Weber",
+      "target": "Claudio Arrau",
+      "colab_count": 3
+    },
+    {
+      "source": "Claude Debussy",
+      "target": "Orchestre Symphonique De Paris",
+      "colab_count": 65
+    },
+    {
+      "source": "Claude Debussy",
+      "target": "Roger Desormiere",
+      "colab_count": 65
+    },
+    {
+      "source": "Johann Strauss II",
+      "target": "Chor Der Staatsoper Berlin",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Strauss II",
+      "target": "Gerhard Steeger",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Strauss II",
+      "target": "Staatskapelle Berlin",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Strauss II",
+      "target": "Walther Ludwig",
+      "colab_count": 1
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Arthur Rubinstein",
+      "colab_count": 4
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Emanuel Feuermann",
+      "colab_count": 4
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Jascha Heifetz",
+      "colab_count": 4
+    },
+    {
+      "source": "Kenneth Bridges",
+      "target": "John Reardon",
+      "colab_count": 1
+    },
+    {
+      "source": "Kenneth Bridges",
+      "target": "Lady in the Dark Ensemble (1963)",
+      "colab_count": 1
+    },
+    {
+      "source": "Kenneth Bridges",
+      "target": "Rise Stevens",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Arthur Rubinstein",
+      "colab_count": 4
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Emanuel Feuermann",
+      "colab_count": 4
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Jascha Heifetz",
+      "colab_count": 4
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Chicago Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Claudio Arrau",
+      "colab_count": 1
+    },
+    {
+      "source": "Robert Schumann",
+      "target": "Claudio Arrau",
+      "colab_count": 3
+    },
+    {
+      "source": "Robert Schumann",
+      "target": "Detroit Symphony Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Robert Schumann",
+      "target": "Karl Krueger",
+      "colab_count": 3
+    }
+  ]
+}

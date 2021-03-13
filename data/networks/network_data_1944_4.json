@@ -1,0 +1,246 @@
+{
+  "nodes": [
+    {
+      "id": "Alfred Poell",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Andre Kostelanetz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Eugene Ormandy",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Franz Szkokan",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Georg Hann",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "George Gershwin",
+      "group": 10,
+      "song_count": 14
+    },
+    {
+      "id": "Gottfried von Freiberg",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Hans Hotter",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Herma Handl",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Horst Taubmann",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Josef Witt",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Julius Patzak",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Lisa della Casa",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Maria Reining",
+      "group": 10,
+      "song_count": 15
+    },
+    {
+      "id": "Morton Gould",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Morton Gould Orchestra",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Morton Gould and His Orchestra",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "New York Philharmonic",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Oscar Levant",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Philadelphia Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Richard Strauss",
+      "group": 10,
+      "song_count": 109
+    },
+    {
+      "id": "Rosette Anday",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Ruth Michaelis",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Vienna State Opera Chorus",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Wiener Philharmoniker",
+      "group": 10,
+      "song_count": 26
+    }
+  ],
+  "links": [
+    {
+      "source": "George Gershwin",
+      "target": "Andre Kostelanetz",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Eugene Ormandy",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Morton Gould",
+      "colab_count": 2
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Morton Gould Orchestra",
+      "colab_count": 2
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Morton Gould and His Orchestra",
+      "colab_count": 2
+    },
+    {
+      "source": "George Gershwin",
+      "target": "New York Philharmonic",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Oscar Levant",
+      "colab_count": 4
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Philadelphia Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Alfred Poell",
+      "colab_count": 2
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Franz Szkokan",
+      "colab_count": 3
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Georg Hann",
+      "colab_count": 9
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Gottfried von Freiberg",
+      "colab_count": 2
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Hans Hotter",
+      "colab_count": 12
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Herma Handl",
+      "colab_count": 2
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Horst Taubmann",
+      "colab_count": 7
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Josef Witt",
+      "colab_count": 3
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Julius Patzak",
+      "colab_count": 4
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Lisa della Casa",
+      "colab_count": 12
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Maria Reining",
+      "colab_count": 15
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Rosette Anday",
+      "colab_count": 8
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Ruth Michaelis",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Vienna State Opera Chorus",
+      "colab_count": 3
+    },
+    {
+      "source": "Richard Strauss",
+      "target": "Wiener Philharmoniker",
+      "colab_count": 26
+    }
+  ]
+}

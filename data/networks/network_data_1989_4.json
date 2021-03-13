@@ -1,0 +1,526 @@
+{
+  "nodes": [
+    {
+      "id": "Academy of Ancient Music",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Andy Morris",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Astrud Gilberto",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Capella Istropolitana",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Charles Dutoit",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Christopher Hogwood",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Claude Debussy",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "D Moduguno",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "D. Modugno",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Daniel Barenboim",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dionne Warwick",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Elizabeth Wallfisch",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Elizabeth Wallfisch/Lisa Beznosiuk/Malcolm Proud/Orchestra of the Age of Enlightenment",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Elton John",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Emma Kirkby",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "F. Migliacci",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Georg Philipp Telemann",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "George Gershwin",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Giovanni Battista Pergolesi",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Gipsy Kings",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Gladys Knight",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Hana Mullerova",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ian Devaney",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "James Bowman",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "James Thomson",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jaroslava Horska",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jiri Krejci",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jiri Seidl",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Johann Sebastian Bach",
+      "group": 10,
+      "song_count": 24
+    },
+    {
+      "id": "Kenneth Jean",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lisa Stansfield",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "London Philharmonic Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ludwig van Beethoven",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Malcolm McLaren",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Mark Bennett",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Mark Moore",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mark Saunders",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Monica Huggett",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Orchestra of the Age of Enlightenment",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Paul Goodwin",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Peter Mikulas",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pinchas Zukerman",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rachel Beckett",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Richard Edlinger",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Slovak Philharmonic",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Slovak Philharmonic Chorus",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Stan Getz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Stefan Klimo",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Stevie Wonder",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Takako Nishizaki",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "The Bootzilla Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Timothy Hutchins",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Vaclav Kyzivat",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Vladimir Ruso",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "William Orbit",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wolfgang Amadeus Mozart",
+      "group": 9,
+      "song_count": 9
+    }
+  ],
+  "links": [
+    {
+      "source": "Claude Debussy",
+      "target": "Charles Dutoit",
+      "colab_count": 1
+    },
+    {
+      "source": "Claude Debussy",
+      "target": "Timothy Hutchins",
+      "colab_count": 1
+    },
+    {
+      "source": "D Moduguno",
+      "target": "D. Modugno",
+      "colab_count": 1
+    },
+    {
+      "source": "D Moduguno",
+      "target": "F. Migliacci",
+      "colab_count": 1
+    },
+    {
+      "source": "D Moduguno",
+      "target": "Gipsy Kings",
+      "colab_count": 1
+    },
+    {
+      "source": "Dionne Warwick",
+      "target": "Elton John",
+      "colab_count": 1
+    },
+    {
+      "source": "Dionne Warwick",
+      "target": "Gladys Knight",
+      "colab_count": 1
+    },
+    {
+      "source": "Dionne Warwick",
+      "target": "Stevie Wonder",
+      "colab_count": 1
+    },
+    {
+      "source": "Georg Philipp Telemann",
+      "target": "Capella Istropolitana",
+      "colab_count": 1
+    },
+    {
+      "source": "Georg Philipp Telemann",
+      "target": "Richard Edlinger",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "Charles Dutoit",
+      "colab_count": 1
+    },
+    {
+      "source": "George Gershwin",
+      "target": "James Thomson",
+      "colab_count": 1
+    },
+    {
+      "source": "Giovanni Battista Pergolesi",
+      "target": "Academy of Ancient Music",
+      "colab_count": 1
+    },
+    {
+      "source": "Giovanni Battista Pergolesi",
+      "target": "Christopher Hogwood",
+      "colab_count": 1
+    },
+    {
+      "source": "Giovanni Battista Pergolesi",
+      "target": "Emma Kirkby",
+      "colab_count": 1
+    },
+    {
+      "source": "Giovanni Battista Pergolesi",
+      "target": "James Bowman",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Elizabeth Wallfisch",
+      "colab_count": 3
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Elizabeth Wallfisch/Lisa Beznosiuk/Malcolm Proud/Orchestra of the Age of Enlightenment",
+      "colab_count": 3
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Mark Bennett",
+      "colab_count": 3
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Monica Huggett",
+      "colab_count": 3
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Orchestra of the Age of Enlightenment",
+      "colab_count": 6
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Paul Goodwin",
+      "colab_count": 3
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Rachel Beckett",
+      "colab_count": 3
+    },
+    {
+      "source": "Lisa Stansfield",
+      "target": "Andy Morris",
+      "colab_count": 1
+    },
+    {
+      "source": "Lisa Stansfield",
+      "target": "Ian Devaney",
+      "colab_count": 1
+    },
+    {
+      "source": "Lisa Stansfield",
+      "target": "Mark Saunders",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Daniel Barenboim",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Kenneth Jean",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "London Philharmonic Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Pinchas Zukerman",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Slovak Philharmonic",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Takako Nishizaki",
+      "colab_count": 1
+    },
+    {
+      "source": "Malcolm McLaren",
+      "target": "Mark Moore",
+      "colab_count": 1
+    },
+    {
+      "source": "Malcolm McLaren",
+      "target": "The Bootzilla Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Malcolm McLaren",
+      "target": "William Orbit",
+      "colab_count": 1
+    },
+    {
+      "source": "Slovak Philharmonic",
+      "target": "Jaroslava Horska",
+      "colab_count": 1
+    },
+    {
+      "source": "Slovak Philharmonic",
+      "target": "Peter Mikulas",
+      "colab_count": 1
+    },
+    {
+      "source": "Slovak Philharmonic",
+      "target": "Slovak Philharmonic Chorus",
+      "colab_count": 1
+    },
+    {
+      "source": "Slovak Philharmonic",
+      "target": "Stefan Klimo",
+      "colab_count": 1
+    },
+    {
+      "source": "Slovak Philharmonic",
+      "target": "Vladimir Ruso",
+      "colab_count": 1
+    },
+    {
+      "source": "Slovak Philharmonic",
+      "target": "Wolfgang Amadeus Mozart",
+      "colab_count": 1
+    },
+    {
+      "source": "Stan Getz",
+      "target": "Astrud Gilberto",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Capella Istropolitana",
+      "colab_count": 2
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Hana Mullerova",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Jiri Krejci",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Jiri Seidl",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Richard Edlinger",
+      "colab_count": 2
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Vaclav Kyzivat",
+      "colab_count": 1
+    }
+  ]
+}

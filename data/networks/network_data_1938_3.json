@@ -1,0 +1,186 @@
+{
+  "nodes": [
+    {
+      "id": "Arthur Grumiaux",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Berliner Philharmoniker",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Emanuel Feuermann",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "George Szell",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Jascha Heifetz",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Joseph Szigeti",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Karl Freund",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Lili Kraus",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Lillian Fuchs",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Ludwig van Beethoven",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Milton Thomas",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Nikolaus Hubner",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Paul Tortelier",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Reginald Kell",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Walther Davisson",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "William Kapell",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "William Primrose",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Willy Boskovsky",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Wolfgang Amadeus Mozart",
+      "group": 10,
+      "song_count": 78
+    }
+  ],
+  "links": [
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Berliner Philharmoniker",
+      "colab_count": 2
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Karl Freund",
+      "colab_count": 2
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Walther Davisson",
+      "colab_count": 2
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Arthur Grumiaux",
+      "colab_count": 3
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Emanuel Feuermann",
+      "colab_count": 6
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "George Szell",
+      "colab_count": 3
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Jascha Heifetz",
+      "colab_count": 6
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Joseph Szigeti",
+      "colab_count": 3
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Lili Kraus",
+      "colab_count": 12
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Lillian Fuchs",
+      "colab_count": 3
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Milton Thomas",
+      "colab_count": 3
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Nikolaus Hubner",
+      "colab_count": 12
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Paul Tortelier",
+      "colab_count": 3
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Reginald Kell",
+      "colab_count": 3
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "William Kapell",
+      "colab_count": 3
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "William Primrose",
+      "colab_count": 6
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Willy Boskovsky",
+      "colab_count": 12
+    }
+  ]
+}

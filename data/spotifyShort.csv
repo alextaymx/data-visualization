@@ -1,0 +1,20 @@
+id,artists,release_date,name,year,acousticness,danceability,energy,duration_ms,instrumentalness,valence,popularity,tempo,liveness,loudness,speechiness,mode,explicit,key
+4BJqT0PrAfrxzMOxytFOIz,"['Sergei Rachmaninoff', 'James Levine', 'Berliner Philharmoniker']",1921,"Piano Concerto No. 3 in D Minor, Op. 30: III. Finale. Alla breve",1921,0.982,0.279,0.211,831667,0.878,0.0594,4,80.954,0.665,-20.096,0.0366,1,0,10
+7xPhfUan2yNtyFG0cUWkt8,['Dennis Day'],1921,Clancy Lowered the Boom,1921,0.732,0.819,0.341,180533,0,0.963,5,60.936,0.16,-12.441,0.415,1,0,7
+1o6I8BglA6ylDMrIELygv1,['KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat'],1921,Gati Bali,1921,0.961,0.328,0.166,500062,0.913,0.0394,5,110.339,0.101,-14.85,0.0339,1,0,3
+3ftBPsC5vPBKxYSee08FDH,['Frank Parker'],1921,Danny Boy,1921,0.967,0.275,0.309,210000,2.77E-05,0.165,3,100.109,0.381,-9.316,0.0354,1,0,5
+4d6HGyGT8e121BsdKmw9v6,['Phil Regan'],",",When Irish Eyes Are Smiling,1921,0.957,0.418,0.193,166693,1.68E-06,0.253,2,101.665,0.229,-10.096,0.038,1,0,3
+4d6HGyGT8e121BsdKmw9s6,['Phil aaa'],",",When Irish Eyes Are Smiling,1921,0.957,0.418,0.193,166693,1.68E-06,0.253,2,101.665,0.229,-10.096,0.038,1,0,3
+4pyw9DVHGStUre4J6hPngr,['KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat'],1921,Gati Mardika,1921,0.579,0.697,0.346,395076,0.168,0.196,6,119.824,0.13,-12.506,0.07,1,0,2
+5uNZnElqOS3W4fRmRYPk4T,['John McCormack'],1921,The Wearing of the Green,1921,0.996,0.518,0.203,159507,0,0.406,4,66.221,0.115,-10.589,0.0615,1,0,0
+02GDntOXexBFUvSgaXLPkd,['Sergei Rachmaninoff'],1921,"Morceaux de fantaisie, Op. 3: No. 2, PrÃ©lude in C-Sharp Minor. Lento",1921,0.993,0.389,0.088,218773,0.527,0.0731,2,92.867,0.363,-21.091,0.0456,0,0,1
+05xDjWH9ub67nJJk82yfGf,['Ignacio Corsini'],20/3/1921,La MaÃ±anita - Remasterizado,1921,0.996,0.485,0.13,161520,0.151,0.721,0,64.678,0.104,-21.508,0.0483,0,0,5
+08zfJvRLp7pjAb94MA9JmF,['FortugÃ©'],1921,Il Etait SyndiquÃ©,1921,0.982,0.684,0.257,196560,0,0.771,0,109.378,0.504,-16.415,0.399,1,0,8
+0BMkRpQtDoKjcgzCpnqLNa,['Maurice Chevalier'],1921,Dans La Vie Faut Pas S'en Faire,1921,0.995,0.463,0.26,147133,0,0.826,0,85.146,0.258,-16.894,0.0557,1,0,9
+0F30WM8qRpO8kdolepZqdM,['Ignacio Corsini'],20/3/1921,Por Que Me Dejaste - Remasterizado,1921,0.994,0.378,0.115,155413,0.906,0.578,0,70.37,0.11,-27.039,0.0414,0,0,10
+0H3k2CvJvHULnWChlbeFgx,['Georgel'],1921,La VipÃ¨re,1921,0.99,0.315,0.363,190800,0,0.493,0,174.532,0.292,-12.562,0.0546,0,0,5
+0LcXzABeA84EgudqpNUN1I,['Mehmet Kemiksiz'],1921,Ud Taksimi,1921,0.912,0.415,0.42,184973,0.89,0.212,0,70.758,0.108,-10.766,0.114,0,0,8
+0MJZ4hh60zwsYleWWxT5yW,['Zay Gatsby'],27/3/1921,Power Is Power,1921,0.0175,0.527,0.691,205072,0.384,0.493,0,159.935,0.358,-7.298,0.0326,1,1,7
+0NFeJgmTAV1kDfzSQNK41Z,"['Sergei Rachmaninoff', 'Ruth Laredo']",1921,"10 PrÃ©ludes, Op. 23: No. 5 in G Minor. Alla marcia",1921,0.989,0.384,0.171,221013,0.82,0.282,4,107.698,0.116,-20.476,0.0319,0,0,7
+0Nk5f07H3JaEunGrYfbqHM,['Phil Regan'],1921,Come Back To Erin,1921,0.957,0.259,0.212,186467,0.000222,0.218,1,85.726,0.236,-13.3,0.0358,1,0,2
+0POO8XaUgW5Qjbv9sbDy8W,"['Hector Berlioz', 'Arturo Toscanini']",1921,RÃ¡kÃ³czy March,1921,0.996,0.541,0.283,250747,0.898,0.664,0,108.986,0.393,-14.808,0.0477,1,0,9

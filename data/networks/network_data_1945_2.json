@@ -1,0 +1,521 @@
+{
+  "nodes": [
+    {
+      "id": "Anonymous",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Boris Sherman",
+      "group": 10,
+      "song_count": 14
+    },
+    {
+      "id": "Bruno Walter",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Carlo Rizzi",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Claude Bolling",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Claudio Arrau",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Columbia Symphony Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Concert Hall Symphony Orchestra",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Detroit Symphony Orchestra",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Eileen Farrell",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Emanuel Ax",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Erich Kleiber",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Eugene Ormandy",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Felix Mendelssohn",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Fritz Kreisler",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Giacomo Puccini",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Giuseppe Verdi",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Howard Barlow",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Isaac Stern",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jaime Laredo",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jascha Heifetz",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Jean-Pierre Rampal",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Johannes Brahms",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Joseph Achron",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Joseph Szigeti",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Juan Pons",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Karl Krueger",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Kiri Te Kanawa",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "London Philharmonic Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ludwig van Beethoven",
+      "group": 10,
+      "song_count": 18
+    },
+    {
+      "id": "Mara Zampieri",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Marcel Sabiani",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Marcelo Alvarez",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Max Bruch",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Max Rudolf",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mikhail Janshin",
+      "group": 10,
+      "song_count": 11
+    },
+    {
+      "id": "Mikhail Nazvanov",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Mormon Tabernacle Choir",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "New York Philharmonic",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Nikolai Rimsky-Korsakov",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ol'ga Viklandt",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Orkestr Borisa Shermana",
+      "group": 10,
+      "song_count": 60
+    },
+    {
+      "id": "Pavel Olenev",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Philadelphia Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Robert Schumann",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Rostislav Pljatt",
+      "group": 10,
+      "song_count": 14
+    },
+    {
+      "id": "Sir John Pritchard",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Unknown Artist",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Vasiliy Kachalov",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Welsh National Opera Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "William Steffe",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Yo-Yo Ma",
+      "group": 1,
+      "song_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Anonymous",
+      "target": "Jascha Heifetz",
+      "colab_count": 1
+    },
+    {
+      "source": "Anonymous",
+      "target": "Nikolai Rimsky-Korsakov",
+      "colab_count": 1
+    },
+    {
+      "source": "Anonymous",
+      "target": "Unknown Artist",
+      "colab_count": 1
+    },
+    {
+      "source": "Claude Bolling",
+      "target": "Jean-Pierre Rampal",
+      "colab_count": 1
+    },
+    {
+      "source": "Claude Bolling",
+      "target": "Marcel Sabiani",
+      "colab_count": 1
+    },
+    {
+      "source": "Fritz Kreisler",
+      "target": "Concert Hall Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Fritz Kreisler",
+      "target": "Howard Barlow",
+      "colab_count": 1
+    },
+    {
+      "source": "Fritz Kreisler",
+      "target": "Jascha Heifetz",
+      "colab_count": 1
+    },
+    {
+      "source": "Fritz Kreisler",
+      "target": "Unknown Artist",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Columbia Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Eileen Farrell",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Juan Pons",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Kiri Te Kanawa",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "London Philharmonic Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Mara Zampieri",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Max Rudolf",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Sir John Pritchard",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Carlo Rizzi",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Marcelo Alvarez",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Welsh National Opera Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Concert Hall Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Emanuel Ax",
+      "colab_count": 1
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Erich Kleiber",
+      "colab_count": 1
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Isaac Stern",
+      "colab_count": 1
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Jaime Laredo",
+      "colab_count": 1
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Jascha Heifetz",
+      "colab_count": 1
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Unknown Artist",
+      "colab_count": 1
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Yo-Yo Ma",
+      "colab_count": 1
+    },
+    {
+      "source": "Joseph Achron",
+      "target": "Felix Mendelssohn",
+      "colab_count": 4
+    },
+    {
+      "source": "Joseph Achron",
+      "target": "Jascha Heifetz",
+      "colab_count": 4
+    },
+    {
+      "source": "Joseph Achron",
+      "target": "Unknown Artist",
+      "colab_count": 4
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Bruno Walter",
+      "colab_count": 6
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Joseph Szigeti",
+      "colab_count": 6
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "New York Philharmonic",
+      "colab_count": 6
+    },
+    {
+      "source": "Max Bruch",
+      "target": "Concert Hall Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Max Bruch",
+      "target": "Howard Barlow",
+      "colab_count": 1
+    },
+    {
+      "source": "Max Bruch",
+      "target": "Jascha Heifetz",
+      "colab_count": 1
+    },
+    {
+      "source": "Max Bruch",
+      "target": "Unknown Artist",
+      "colab_count": 1
+    },
+    {
+      "source": "Orkestr Borisa Shermana",
+      "target": "Boris Sherman",
+      "colab_count": 14
+    },
+    {
+      "source": "Orkestr Borisa Shermana",
+      "target": "Mikhail Janshin",
+      "colab_count": 11
+    },
+    {
+      "source": "Orkestr Borisa Shermana",
+      "target": "Mikhail Nazvanov",
+      "colab_count": 3
+    },
+    {
+      "source": "Orkestr Borisa Shermana",
+      "target": "Ol'ga Viklandt",
+      "colab_count": 4
+    },
+    {
+      "source": "Orkestr Borisa Shermana",
+      "target": "Pavel Olenev",
+      "colab_count": 2
+    },
+    {
+      "source": "Orkestr Borisa Shermana",
+      "target": "Rostislav Pljatt",
+      "colab_count": 14
+    },
+    {
+      "source": "Orkestr Borisa Shermana",
+      "target": "Vasiliy Kachalov",
+      "colab_count": 12
+    },
+    {
+      "source": "Robert Schumann",
+      "target": "Claudio Arrau",
+      "colab_count": 3
+    },
+    {
+      "source": "Robert Schumann",
+      "target": "Detroit Symphony Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Robert Schumann",
+      "target": "Karl Krueger",
+      "colab_count": 3
+    },
+    {
+      "source": "William Steffe",
+      "target": "Eugene Ormandy",
+      "colab_count": 1
+    },
+    {
+      "source": "William Steffe",
+      "target": "Mormon Tabernacle Choir",
+      "colab_count": 1
+    },
+    {
+      "source": "William Steffe",
+      "target": "Philadelphia Orchestra",
+      "colab_count": 1
+    }
+  ]
+}

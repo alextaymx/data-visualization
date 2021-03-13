@@ -1,0 +1,1420 @@
+{
+  "nodes": [
+    {
+      "id": "(G)I-DLE",
+      "group": 3
+    },
+    {
+      "id": "24kGoldn",
+      "group": 3
+    },
+    {
+      "id": "6LACK",
+      "group": 1
+    },
+    {
+      "id": "A Boogie Wit da Hoodie",
+      "group": 4
+    },
+    {
+      "id": "A$AP Rocky",
+      "group": 1
+    },
+    {
+      "id": "Alec Benjamin",
+      "group": 1
+    },
+    {
+      "id": "Aluna",
+      "group": 1
+    },
+    {
+      "id": "Anderson .Paak",
+      "group": 1
+    },
+    {
+      "id": "Annika Wells",
+      "group": 1
+    },
+    {
+      "id": "Ant Clemons",
+      "group": 1
+    },
+    {
+      "id": "Anuel AA",
+      "group": 10
+    },
+    {
+      "id": "Arcangel",
+      "group": 1
+    },
+    {
+      "id": "BIA",
+      "group": 2
+    },
+    {
+      "id": "BIG30",
+      "group": 1
+    },
+    {
+      "id": "Baby Rasta & Gringo",
+      "group": 1
+    },
+    {
+      "id": "Bad Bunny",
+      "group": 1
+    },
+    {
+      "id": "Bea Miller",
+      "group": 1
+    },
+    {
+      "id": "Bekuh Boom",
+      "group": 2
+    },
+    {
+      "id": "Bert McCracken",
+      "group": 1
+    },
+    {
+      "id": "Billie Essco",
+      "group": 1
+    },
+    {
+      "id": "Brray",
+      "group": 2
+    },
+    {
+      "id": "Cautious Clay",
+      "group": 6
+    },
+    {
+      "id": "Chance the Rapper",
+      "group": 1
+    },
+    {
+      "id": "Charlie Gillespie",
+      "group": 6
+    },
+    {
+      "id": "Chencho Corleone",
+      "group": 1
+    },
+    {
+      "id": "Chloe x Halle",
+      "group": 3
+    },
+    {
+      "id": "Chris Brown",
+      "group": 1
+    },
+    {
+      "id": "Chris Tomlin",
+      "group": 1
+    },
+    {
+      "id": "City Girls",
+      "group": 4
+    },
+    {
+      "id": "Claud",
+      "group": 1
+    },
+    {
+      "id": "Cordae",
+      "group": 1
+    },
+    {
+      "id": "DJ Scheme",
+      "group": 3
+    },
+    {
+      "id": "DaBaby",
+      "group": 3
+    },
+    {
+      "id": "Daddy Yankee",
+      "group": 9
+    },
+    {
+      "id": "Dalex",
+      "group": 2
+    },
+    {
+      "id": "De La Ghetto",
+      "group": 1
+    },
+    {
+      "id": "Doja Cat",
+      "group": 1
+    },
+    {
+      "id": "Don Toliver",
+      "group": 4
+    },
+    {
+      "id": "Drake",
+      "group": 1
+    },
+    {
+      "id": "Dua Lipa",
+      "group": 4
+    },
+    {
+      "id": "EARTHGANG",
+      "group": 1
+    },
+    {
+      "id": "Farruko",
+      "group": 8
+    },
+    {
+      "id": "Feid",
+      "group": 5
+    },
+    {
+      "id": "Foogiano",
+      "group": 1
+    },
+    {
+      "id": "Future",
+      "group": 4
+    },
+    {
+      "id": "G Herbo",
+      "group": 3
+    },
+    {
+      "id": "Gucci Mane",
+      "group": 3
+    },
+    {
+      "id": "Gunna",
+      "group": 5
+    },
+    {
+      "id": "H.E.R.",
+      "group": 3
+    },
+    {
+      "id": "HXNS",
+      "group": 1
+    },
+    {
+      "id": "Henry",
+      "group": 1
+    },
+    {
+      "id": "Hillary Scott",
+      "group": 1
+    },
+    {
+      "id": "Internet Money",
+      "group": 10
+    },
+    {
+      "id": "J Balvin",
+      "group": 10
+    },
+    {
+      "id": "JID",
+      "group": 1
+    },
+    {
+      "id": "Jack Harlow",
+      "group": 5
+    },
+    {
+      "id": "Jaira Burns",
+      "group": 2
+    },
+    {
+      "id": "Jay Wheeler",
+      "group": 1
+    },
+    {
+      "id": "Jeremy McKinnon of A Day To Remember",
+      "group": 1
+    },
+    {
+      "id": "Jeremy Shada",
+      "group": 6
+    },
+    {
+      "id": "Joey Bada$$",
+      "group": 1
+    },
+    {
+      "id": "Jonas Brothers",
+      "group": 1
+    },
+    {
+      "id": "Juanka",
+      "group": 2
+    },
+    {
+      "id": "Juice WRLD",
+      "group": 4
+    },
+    {
+      "id": "Julie and the Phantoms Cast",
+      "group": 10
+    },
+    {
+      "id": "Justin Bieber",
+      "group": 1
+    },
+    {
+      "id": "Justin Quiles",
+      "group": 2
+    },
+    {
+      "id": "K/DA",
+      "group": 10
+    },
+    {
+      "id": "KAROL G",
+      "group": 1
+    },
+    {
+      "id": "Kanye West",
+      "group": 1
+    },
+    {
+      "id": "Keith Urban",
+      "group": 1
+    },
+    {
+      "id": "Kendo",
+      "group": 1
+    },
+    {
+      "id": "Kendo Kaponi",
+      "group": 1
+    },
+    {
+      "id": "Kim Petras",
+      "group": 1
+    },
+    {
+      "id": "Kyza",
+      "group": 1
+    },
+    {
+      "id": "League of Legends",
+      "group": 9
+    },
+    {
+      "id": "Lexie Liu",
+      "group": 2
+    },
+    {
+      "id": "Lil Baby",
+      "group": 1
+    },
+    {
+      "id": "Lil Mosey",
+      "group": 1
+    },
+    {
+      "id": "Lil Skies",
+      "group": 1
+    },
+    {
+      "id": "Lil Uzi Vert",
+      "group": 1
+    },
+    {
+      "id": "Lil Wayne",
+      "group": 2
+    },
+    {
+      "id": "Lil Yachty",
+      "group": 3
+    },
+    {
+      "id": "London On Da Track",
+      "group": 1
+    },
+    {
+      "id": "Lunay",
+      "group": 5
+    },
+    {
+      "id": "M.I.A.",
+      "group": 1
+    },
+    {
+      "id": "MAX",
+      "group": 1
+    },
+    {
+      "id": "Machine Gun Kelly",
+      "group": 3
+    },
+    {
+      "id": "Madison Beer",
+      "group": 3
+    },
+    {
+      "id": "Madison Reyes",
+      "group": 5
+    },
+    {
+      "id": "Madonna",
+      "group": 1
+    },
+    {
+      "id": "Maluma",
+      "group": 1
+    },
+    {
+      "id": "Marshmello",
+      "group": 1
+    },
+    {
+      "id": "Melanie Faye",
+      "group": 1
+    },
+    {
+      "id": "Mike WiLL Made-It",
+      "group": 1
+    },
+    {
+      "id": "Missy Elliott",
+      "group": 1
+    },
+    {
+      "id": "Mr. Naisgai",
+      "group": 1
+    },
+    {
+      "id": "Mulatto",
+      "group": 1
+    },
+    {
+      "id": "Musiq Soulchild",
+      "group": 1
+    },
+    {
+      "id": "Myke Towers",
+      "group": 4
+    },
+    {
+      "id": "NAV",
+      "group": 4
+    },
+    {
+      "id": "NLE Choppa",
+      "group": 1
+    },
+    {
+      "id": "Natti Natasha",
+      "group": 2
+    },
+    {
+      "id": "Nicky Jam",
+      "group": 1
+    },
+    {
+      "id": "Nio Garcia",
+      "group": 8
+    },
+    {
+      "id": "Owen Patrick Joyner",
+      "group": 6
+    },
+    {
+      "id": "Ozuna",
+      "group": 2
+    },
+    {
+      "id": "Pharrell Williams",
+      "group": 3
+    },
+    {
+      "id": "Polo G",
+      "group": 4
+    },
+    {
+      "id": "Pooh Shiesty",
+      "group": 1
+    },
+    {
+      "id": "Pop Smoke",
+      "group": 1
+    },
+    {
+      "id": "Post Malone",
+      "group": 1
+    },
+    {
+      "id": "Powfu",
+      "group": 1
+    },
+    {
+      "id": "Quavo",
+      "group": 1
+    },
+    {
+      "id": "Rauw Alejandro",
+      "group": 10
+    },
+    {
+      "id": "Reba McEntire",
+      "group": 1
+    },
+    {
+      "id": "Remi Wolf",
+      "group": 1
+    },
+    {
+      "id": "Roddy Ricch",
+      "group": 1
+    },
+    {
+      "id": "Rxseboy",
+      "group": 1
+    },
+    {
+      "id": "SZA",
+      "group": 3
+    },
+    {
+      "id": "Sarcastic Sounds",
+      "group": 1
+    },
+    {
+      "id": "Saweetie",
+      "group": 3
+    },
+    {
+      "id": "Sebastian Yatra",
+      "group": 3
+    },
+    {
+      "id": "Sech",
+      "group": 6
+    },
+    {
+      "id": "Seraphine",
+      "group": 2
+    },
+    {
+      "id": "Sista Prod",
+      "group": 4
+    },
+    {
+      "id": "Ski Mask The Slump God",
+      "group": 1
+    },
+    {
+      "id": "Sky",
+      "group": 2
+    },
+    {
+      "id": "Spillage Village",
+      "group": 3
+    },
+    {
+      "id": "Still Woozy",
+      "group": 1
+    },
+    {
+      "id": "Stunna 4 Vegas",
+      "group": 1
+    },
+    {
+      "id": "TWICE",
+      "group": 1
+    },
+    {
+      "id": "Tainy",
+      "group": 1
+    },
+    {
+      "id": "Take A Daytrip",
+      "group": 1
+    },
+    {
+      "id": "Tempo",
+      "group": 1
+    },
+    {
+      "id": "The Blessed Madonna",
+      "group": 1
+    },
+    {
+      "id": "The Kid LAROI",
+      "group": 1
+    },
+    {
+      "id": "The Martinez Brothers",
+      "group": 1
+    },
+    {
+      "id": "The Neptunes",
+      "group": 1
+    },
+    {
+      "id": "The Used",
+      "group": 1
+    },
+    {
+      "id": "Thomas Rhett",
+      "group": 4
+    },
+    {
+      "id": "Thundercat",
+      "group": 1
+    },
+    {
+      "id": "Tierra Whack",
+      "group": 1
+    },
+    {
+      "id": "Tish Hyman",
+      "group": 1
+    },
+    {
+      "id": "Tory Lanez",
+      "group": 1
+    },
+    {
+      "id": "Travis Scott",
+      "group": 3
+    },
+    {
+      "id": "Ty Dolla $ign",
+      "group": 7
+    },
+    {
+      "id": "Tyler, The Creator",
+      "group": 2
+    },
+    {
+      "id": "Westside Gunn",
+      "group": 3
+    },
+    {
+      "id": "Wolftyla",
+      "group": 2
+    },
+    {
+      "id": "YUNGBLUD",
+      "group": 1
+    },
+    {
+      "id": "Yandel",
+      "group": 1
+    },
+    {
+      "id": "Young Thug",
+      "group": 1
+    },
+    {
+      "id": "Zion & Lennox",
+      "group": 1
+    },
+    {
+      "id": "iann dior",
+      "group": 2
+    },
+    {
+      "id": "sophie meiers",
+      "group": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "24kGoldn",
+      "target": "J Balvin",
+      "count": 1
+    },
+    {
+      "source": "24kGoldn",
+      "target": "Justin Bieber",
+      "count": 1
+    },
+    {
+      "source": "24kGoldn",
+      "target": "iann dior",
+      "count": 1
+    },
+    {
+      "source": "A Boogie Wit da Hoodie",
+      "target": "Gunna",
+      "count": 1
+    },
+    {
+      "source": "A Boogie Wit da Hoodie",
+      "target": "London On Da Track",
+      "count": 1
+    },
+    {
+      "source": "A Boogie Wit da Hoodie",
+      "target": "Roddy Ricch",
+      "count": 1
+    },
+    {
+      "source": "Anuel AA",
+      "target": "Daddy Yankee",
+      "count": 1
+    },
+    {
+      "source": "Anuel AA",
+      "target": "J Balvin",
+      "count": 1
+    },
+    {
+      "source": "Anuel AA",
+      "target": "KAROL G",
+      "count": 1
+    },
+    {
+      "source": "Anuel AA",
+      "target": "Kendo Kaponi",
+      "count": 1
+    },
+    {
+      "source": "Anuel AA",
+      "target": "Ozuna",
+      "count": 1
+    },
+    {
+      "source": "Anuel AA",
+      "target": "Yandel",
+      "count": 1
+    },
+    {
+      "source": "Cautious Clay",
+      "target": "Claud",
+      "count": 1
+    },
+    {
+      "source": "Cautious Clay",
+      "target": "HXNS",
+      "count": 1
+    },
+    {
+      "source": "Cautious Clay",
+      "target": "Melanie Faye",
+      "count": 1
+    },
+    {
+      "source": "Cautious Clay",
+      "target": "Remi Wolf",
+      "count": 1
+    },
+    {
+      "source": "Cautious Clay",
+      "target": "Still Woozy",
+      "count": 1
+    },
+    {
+      "source": "Cautious Clay",
+      "target": "sophie meiers",
+      "count": 1
+    },
+    {
+      "source": "Chloe x Halle",
+      "target": "City Girls",
+      "count": 1
+    },
+    {
+      "source": "Chloe x Halle",
+      "target": "Doja Cat",
+      "count": 1
+    },
+    {
+      "source": "Chloe x Halle",
+      "target": "Mulatto",
+      "count": 1
+    },
+    {
+      "source": "City Girls",
+      "target": "Jack Harlow",
+      "count": 1
+    },
+    {
+      "source": "City Girls",
+      "target": "Lil Wayne",
+      "count": 1
+    },
+    {
+      "source": "City Girls",
+      "target": "Quavo",
+      "count": 1
+    },
+    {
+      "source": "DJ Scheme",
+      "target": "Cordae",
+      "count": 1
+    },
+    {
+      "source": "DJ Scheme",
+      "target": "Ski Mask The Slump God",
+      "count": 1
+    },
+    {
+      "source": "DJ Scheme",
+      "target": "Take A Daytrip",
+      "count": 1
+    },
+    {
+      "source": "Daddy Yankee",
+      "target": "Arcangel",
+      "count": 1
+    },
+    {
+      "source": "Daddy Yankee",
+      "target": "Baby Rasta & Gringo",
+      "count": 1
+    },
+    {
+      "source": "Daddy Yankee",
+      "target": "De La Ghetto",
+      "count": 1
+    },
+    {
+      "source": "Daddy Yankee",
+      "target": "Farruko",
+      "count": 1
+    },
+    {
+      "source": "Daddy Yankee",
+      "target": "Kendo",
+      "count": 1
+    },
+    {
+      "source": "Daddy Yankee",
+      "target": "Kyza",
+      "count": 1
+    },
+    {
+      "source": "Dua Lipa",
+      "target": "Madonna",
+      "count": 1
+    },
+    {
+      "source": "Dua Lipa",
+      "target": "Missy Elliott",
+      "count": 1
+    },
+    {
+      "source": "Dua Lipa",
+      "target": "The Blessed Madonna",
+      "count": 1
+    },
+    {
+      "source": "Farruko",
+      "target": "Jay Wheeler",
+      "count": 1
+    },
+    {
+      "source": "Farruko",
+      "target": "Myke Towers",
+      "count": 1
+    },
+    {
+      "source": "Farruko",
+      "target": "Sech",
+      "count": 1
+    },
+    {
+      "source": "Farruko",
+      "target": "Tempo",
+      "count": 1
+    },
+    {
+      "source": "Feid",
+      "target": "J Balvin",
+      "count": 1
+    },
+    {
+      "source": "Feid",
+      "target": "Justin Quiles",
+      "count": 1
+    },
+    {
+      "source": "Feid",
+      "target": "Maluma",
+      "count": 1
+    },
+    {
+      "source": "Feid",
+      "target": "Nicky Jam",
+      "count": 1
+    },
+    {
+      "source": "Feid",
+      "target": "Sech",
+      "count": 1
+    },
+    {
+      "source": "Future",
+      "target": "DaBaby",
+      "count": 1
+    },
+    {
+      "source": "Future",
+      "target": "Drake",
+      "count": 1
+    },
+    {
+      "source": "Future",
+      "target": "Lil Baby",
+      "count": 1
+    },
+    {
+      "source": "G Herbo",
+      "target": "Chance the Rapper",
+      "count": 1
+    },
+    {
+      "source": "G Herbo",
+      "target": "Juice WRLD",
+      "count": 1
+    },
+    {
+      "source": "G Herbo",
+      "target": "Lil Uzi Vert",
+      "count": 1
+    },
+    {
+      "source": "Gucci Mane",
+      "target": "BIG30",
+      "count": 1
+    },
+    {
+      "source": "Gucci Mane",
+      "target": "Foogiano",
+      "count": 1
+    },
+    {
+      "source": "Gucci Mane",
+      "target": "Pooh Shiesty",
+      "count": 1
+    },
+    {
+      "source": "H.E.R.",
+      "target": "A Boogie Wit da Hoodie",
+      "count": 1
+    },
+    {
+      "source": "H.E.R.",
+      "target": "Chris Brown",
+      "count": 1
+    },
+    {
+      "source": "H.E.R.",
+      "target": "Pop Smoke",
+      "count": 1
+    },
+    {
+      "source": "Internet Money",
+      "target": "Anuel AA",
+      "count": 1
+    },
+    {
+      "source": "Internet Money",
+      "target": "Don Toliver",
+      "count": 4
+    },
+    {
+      "source": "Internet Money",
+      "target": "Gunna",
+      "count": 4
+    },
+    {
+      "source": "Internet Money",
+      "target": "Lil Mosey",
+      "count": 1
+    },
+    {
+      "source": "Internet Money",
+      "target": "Lil Skies",
+      "count": 1
+    },
+    {
+      "source": "Internet Money",
+      "target": "NAV",
+      "count": 4
+    },
+    {
+      "source": "Internet Money",
+      "target": "iann dior",
+      "count": 1
+    },
+    {
+      "source": "J Balvin",
+      "target": "BIA",
+      "count": 2
+    },
+    {
+      "source": "J Balvin",
+      "target": "Bad Bunny",
+      "count": 1
+    },
+    {
+      "source": "J Balvin",
+      "target": "Dua Lipa",
+      "count": 1
+    },
+    {
+      "source": "J Balvin",
+      "target": "Pharrell Williams",
+      "count": 2
+    },
+    {
+      "source": "J Balvin",
+      "target": "Sky",
+      "count": 2
+    },
+    {
+      "source": "J Balvin",
+      "target": "Tainy",
+      "count": 1
+    },
+    {
+      "source": "Jack Harlow",
+      "target": "DaBaby",
+      "count": 1
+    },
+    {
+      "source": "Jack Harlow",
+      "target": "Lil Wayne",
+      "count": 1
+    },
+    {
+      "source": "Jack Harlow",
+      "target": "Tory Lanez",
+      "count": 1
+    },
+    {
+      "source": "Juice WRLD",
+      "target": "Marshmello",
+      "count": 1
+    },
+    {
+      "source": "Juice WRLD",
+      "target": "Polo G",
+      "count": 1
+    },
+    {
+      "source": "Juice WRLD",
+      "target": "The Kid LAROI",
+      "count": 1
+    },
+    {
+      "source": "Julie and the Phantoms Cast",
+      "target": "Charlie Gillespie",
+      "count": 6
+    },
+    {
+      "source": "Julie and the Phantoms Cast",
+      "target": "Jeremy Shada",
+      "count": 6
+    },
+    {
+      "source": "Julie and the Phantoms Cast",
+      "target": "Madison Reyes",
+      "count": 5
+    },
+    {
+      "source": "Julie and the Phantoms Cast",
+      "target": "Owen Patrick Joyner",
+      "count": 6
+    },
+    {
+      "source": "K/DA",
+      "target": "(G)I-DLE",
+      "count": 3
+    },
+    {
+      "source": "K/DA",
+      "target": "Aluna",
+      "count": 1
+    },
+    {
+      "source": "K/DA",
+      "target": "Annika Wells",
+      "count": 1
+    },
+    {
+      "source": "K/DA",
+      "target": "Bea Miller",
+      "count": 1
+    },
+    {
+      "source": "K/DA",
+      "target": "Bekuh Boom",
+      "count": 2
+    },
+    {
+      "source": "K/DA",
+      "target": "Jaira Burns",
+      "count": 2
+    },
+    {
+      "source": "K/DA",
+      "target": "Kim Petras",
+      "count": 1
+    },
+    {
+      "source": "K/DA",
+      "target": "League of Legends",
+      "count": 6
+    },
+    {
+      "source": "K/DA",
+      "target": "Lexie Liu",
+      "count": 2
+    },
+    {
+      "source": "K/DA",
+      "target": "Madison Beer",
+      "count": 3
+    },
+    {
+      "source": "K/DA",
+      "target": "Seraphine",
+      "count": 2
+    },
+    {
+      "source": "K/DA",
+      "target": "TWICE",
+      "count": 1
+    },
+    {
+      "source": "K/DA",
+      "target": "Wolftyla",
+      "count": 2
+    },
+    {
+      "source": "League of Legends",
+      "target": "Henry",
+      "count": 1
+    },
+    {
+      "source": "League of Legends",
+      "target": "Jeremy McKinnon of A Day To Remember",
+      "count": 1
+    },
+    {
+      "source": "League of Legends",
+      "target": "MAX",
+      "count": 1
+    },
+    {
+      "source": "Lil Yachty",
+      "target": "A$AP Rocky",
+      "count": 1
+    },
+    {
+      "source": "Lil Yachty",
+      "target": "Tierra Whack",
+      "count": 1
+    },
+    {
+      "source": "Lil Yachty",
+      "target": "Tyler, The Creator",
+      "count": 1
+    },
+    {
+      "source": "Lunay",
+      "target": "Chencho Corleone",
+      "count": 1
+    },
+    {
+      "source": "Lunay",
+      "target": "Myke Towers",
+      "count": 1
+    },
+    {
+      "source": "Lunay",
+      "target": "Ozuna",
+      "count": 1
+    },
+    {
+      "source": "Lunay",
+      "target": "Rauw Alejandro",
+      "count": 1
+    },
+    {
+      "source": "Machine Gun Kelly",
+      "target": "Bert McCracken",
+      "count": 1
+    },
+    {
+      "source": "Machine Gun Kelly",
+      "target": "The Used",
+      "count": 1
+    },
+    {
+      "source": "Machine Gun Kelly",
+      "target": "YUNGBLUD",
+      "count": 1
+    },
+    {
+      "source": "Nio Garcia",
+      "target": "Anuel AA",
+      "count": 2
+    },
+    {
+      "source": "Nio Garcia",
+      "target": "Brray",
+      "count": 2
+    },
+    {
+      "source": "Nio Garcia",
+      "target": "Juanka",
+      "count": 2
+    },
+    {
+      "source": "Nio Garcia",
+      "target": "Myke Towers",
+      "count": 2
+    },
+    {
+      "source": "Polo G",
+      "target": "Mike WiLL Made-It",
+      "count": 1
+    },
+    {
+      "source": "Polo G",
+      "target": "NLE Choppa",
+      "count": 1
+    },
+    {
+      "source": "Polo G",
+      "target": "Stunna 4 Vegas",
+      "count": 1
+    },
+    {
+      "source": "Rauw Alejandro",
+      "target": "Anuel AA",
+      "count": 2
+    },
+    {
+      "source": "Rauw Alejandro",
+      "target": "Dalex",
+      "count": 2
+    },
+    {
+      "source": "Rauw Alejandro",
+      "target": "Farruko",
+      "count": 2
+    },
+    {
+      "source": "Rauw Alejandro",
+      "target": "Justin Quiles",
+      "count": 1
+    },
+    {
+      "source": "Rauw Alejandro",
+      "target": "Lunay",
+      "count": 1
+    },
+    {
+      "source": "Rauw Alejandro",
+      "target": "Mr. Naisgai",
+      "count": 1
+    },
+    {
+      "source": "Rauw Alejandro",
+      "target": "Natti Natasha",
+      "count": 1
+    },
+    {
+      "source": "Rauw Alejandro",
+      "target": "Sech",
+      "count": 1
+    },
+    {
+      "source": "Rauw Alejandro",
+      "target": "The Martinez Brothers",
+      "count": 1
+    },
+    {
+      "source": "Rauw Alejandro",
+      "target": "Zion & Lennox",
+      "count": 1
+    },
+    {
+      "source": "SZA",
+      "target": "Pharrell Williams",
+      "count": 1
+    },
+    {
+      "source": "SZA",
+      "target": "The Neptunes",
+      "count": 1
+    },
+    {
+      "source": "SZA",
+      "target": "Ty Dolla $ign",
+      "count": 1
+    },
+    {
+      "source": "Saweetie",
+      "target": "DaBaby",
+      "count": 1
+    },
+    {
+      "source": "Saweetie",
+      "target": "Jack Harlow",
+      "count": 1
+    },
+    {
+      "source": "Saweetie",
+      "target": "Post Malone",
+      "count": 1
+    },
+    {
+      "source": "Sebastian Yatra",
+      "target": "Daddy Yankee",
+      "count": 1
+    },
+    {
+      "source": "Sebastian Yatra",
+      "target": "Jonas Brothers",
+      "count": 1
+    },
+    {
+      "source": "Sebastian Yatra",
+      "target": "Natti Natasha",
+      "count": 1
+    },
+    {
+      "source": "Sech",
+      "target": "Daddy Yankee",
+      "count": 1
+    },
+    {
+      "source": "Sech",
+      "target": "Farruko",
+      "count": 1
+    },
+    {
+      "source": "Sech",
+      "target": "J Balvin",
+      "count": 1
+    },
+    {
+      "source": "Sista Prod",
+      "target": "Alec Benjamin",
+      "count": 1
+    },
+    {
+      "source": "Sista Prod",
+      "target": "Powfu",
+      "count": 1
+    },
+    {
+      "source": "Sista Prod",
+      "target": "Rxseboy",
+      "count": 1
+    },
+    {
+      "source": "Sista Prod",
+      "target": "Sarcastic Sounds",
+      "count": 1
+    },
+    {
+      "source": "Spillage Village",
+      "target": "Ant Clemons",
+      "count": 1
+    },
+    {
+      "source": "Spillage Village",
+      "target": "EARTHGANG",
+      "count": 1
+    },
+    {
+      "source": "Spillage Village",
+      "target": "JID",
+      "count": 1
+    },
+    {
+      "source": "Thomas Rhett",
+      "target": "Chris Tomlin",
+      "count": 1
+    },
+    {
+      "source": "Thomas Rhett",
+      "target": "Hillary Scott",
+      "count": 1
+    },
+    {
+      "source": "Thomas Rhett",
+      "target": "Keith Urban",
+      "count": 1
+    },
+    {
+      "source": "Thomas Rhett",
+      "target": "Reba McEntire",
+      "count": 1
+    },
+    {
+      "source": "Travis Scott",
+      "target": "Future",
+      "count": 1
+    },
+    {
+      "source": "Travis Scott",
+      "target": "M.I.A.",
+      "count": 1
+    },
+    {
+      "source": "Travis Scott",
+      "target": "Young Thug",
+      "count": 1
+    },
+    {
+      "source": "Ty Dolla $ign",
+      "target": "6LACK",
+      "count": 1
+    },
+    {
+      "source": "Ty Dolla $ign",
+      "target": "Anderson .Paak",
+      "count": 1
+    },
+    {
+      "source": "Ty Dolla $ign",
+      "target": "Kanye West",
+      "count": 1
+    },
+    {
+      "source": "Ty Dolla $ign",
+      "target": "Musiq Soulchild",
+      "count": 1
+    },
+    {
+      "source": "Ty Dolla $ign",
+      "target": "Thundercat",
+      "count": 1
+    },
+    {
+      "source": "Ty Dolla $ign",
+      "target": "Tish Hyman",
+      "count": 1
+    },
+    {
+      "source": "Westside Gunn",
+      "target": "Billie Essco",
+      "count": 1
+    },
+    {
+      "source": "Westside Gunn",
+      "target": "Joey Bada$$",
+      "count": 1
+    },
+    {
+      "source": "Westside Gunn",
+      "target": "Tyler, The Creator",
+      "count": 1
+    }
+  ]
+}

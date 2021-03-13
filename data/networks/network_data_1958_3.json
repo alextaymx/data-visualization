@@ -1,0 +1,561 @@
+{
+  "nodes": [
+    {
+      "id": "Adnia Rice",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Alceo Galliera",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Anna Moffo",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Antonino Votto",
+      "group": 10,
+      "song_count": 24
+    },
+    {
+      "id": "Arthur Rubinstein",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Barney Wilen",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Betty Wand",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Carlo Badioli",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Carlo Forti",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Columbia Symphony Orchestra",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Coro Del Teatro Alla Scala Di Milano",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Coro dell'Accademia Nazionale Di Santa Cecilia",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Coro e Orchestra del Teatro alla Scala, Milano",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Dresdner Philharmonie",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Elaine Swann",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Elisabetta Fusco",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Eraldo Coda",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Eugenio Fernandi",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Eugenio Fernandi, Elisabetta Fusco, Pinuccia Perotti, Coro del Teatro alla Scala di Milano, Orchestra del Teatro alla Scala di Milano, Tullio Serafin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Franco Capuana",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Franco Ricciardi",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Giacomo Puccini",
+      "group": 10,
+      "song_count": 138
+    },
+    {
+      "id": "Gioachino Rossini",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Giuseppe Di Stefano",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Glenn Gould",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Heinz Bongartz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Helen Raymond",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Hermione Gingold",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ion Voicu",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Johann Sebastian Bach",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Josef Krips",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kenny Clarke",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Leslie Caron",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "London Symphony Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "London Symphony Orchestra, Walter Susskind",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Louis Jourdan",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ludwig van Beethoven",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Manuel Spatafora",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Maria Callas",
+      "group": 10,
+      "song_count": 10
+    },
+    {
+      "id": "Milt Jackson",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Morton Gould",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Nicola Zaccaria",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Orchestra Del Teatro Alla Scala Di Milan",
+      "group": 10,
+      "song_count": 20
+    },
+    {
+      "id": "Orchestra Del Teatro Alla Scala, Milano",
+      "group": 10,
+      "song_count": 25
+    },
+    {
+      "id": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pablo de Sarasate",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Peggy Mondo",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Percy Heath",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Philharmonia Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pinuccia Perotti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Robert Flynn",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Robert Preston",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rolando Panerai",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Symphony Of The Air",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "The Buffalo Bills",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Tullio Serafin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Vladimir Golschmann",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Walter Susskind",
+      "group": 1,
+      "song_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Adnia Rice",
+      "target": "Elaine Swann",
+      "colab_count": 1
+    },
+    {
+      "source": "Adnia Rice",
+      "target": "Helen Raymond",
+      "colab_count": 1
+    },
+    {
+      "source": "Adnia Rice",
+      "target": "Peggy Mondo",
+      "colab_count": 1
+    },
+    {
+      "source": "Adnia Rice",
+      "target": "Robert Flynn",
+      "colab_count": 1
+    },
+    {
+      "source": "Adnia Rice",
+      "target": "Robert Preston",
+      "colab_count": 1
+    },
+    {
+      "source": "Adnia Rice",
+      "target": "The Buffalo Bills",
+      "colab_count": 1
+    },
+    {
+      "source": "Barney Wilen",
+      "target": "Kenny Clarke",
+      "colab_count": 1
+    },
+    {
+      "source": "Barney Wilen",
+      "target": "Milt Jackson",
+      "colab_count": 1
+    },
+    {
+      "source": "Barney Wilen",
+      "target": "Percy Heath",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Anna Moffo",
+      "colab_count": 4
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Antonino Votto",
+      "colab_count": 24
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Carlo Badioli",
+      "colab_count": 4
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Carlo Forti",
+      "colab_count": 2
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Coro Del Teatro Alla Scala Di Milano",
+      "colab_count": 3
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Coro dell'Accademia Nazionale Di Santa Cecilia",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Coro e Orchestra del Teatro alla Scala, Milano",
+      "colab_count": 2
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Elisabetta Fusco",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Eraldo Coda",
+      "colab_count": 2
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Eugenio Fernandi",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Eugenio Fernandi, Elisabetta Fusco, Pinuccia Perotti, Coro del Teatro alla Scala di Milano, Orchestra del Teatro alla Scala di Milano, Tullio Serafin",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Franco Capuana",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Franco Ricciardi",
+      "colab_count": 2
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Giuseppe Di Stefano",
+      "colab_count": 9
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Manuel Spatafora",
+      "colab_count": 6
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Maria Callas",
+      "colab_count": 9
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Nicola Zaccaria",
+      "colab_count": 9
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Orchestra Del Teatro Alla Scala Di Milan",
+      "colab_count": 20
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Orchestra Del Teatro Alla Scala, Milano",
+      "colab_count": 25
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Pinuccia Perotti",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Rolando Panerai",
+      "colab_count": 9
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Tullio Serafin",
+      "colab_count": 1
+    },
+    {
+      "source": "Gioachino Rossini",
+      "target": "Alceo Galliera",
+      "colab_count": 1
+    },
+    {
+      "source": "Gioachino Rossini",
+      "target": "Maria Callas",
+      "colab_count": 1
+    },
+    {
+      "source": "Gioachino Rossini",
+      "target": "Philharmonia Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Columbia Symphony Orchestra",
+      "colab_count": 3
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Glenn Gould",
+      "colab_count": 3
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Vladimir Golschmann",
+      "colab_count": 3
+    },
+    {
+      "source": "Leslie Caron",
+      "target": "Betty Wand",
+      "colab_count": 1
+    },
+    {
+      "source": "Leslie Caron",
+      "target": "Hermione Gingold",
+      "colab_count": 1
+    },
+    {
+      "source": "Leslie Caron",
+      "target": "Louis Jourdan",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Arthur Rubinstein",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Columbia Symphony Orchestra",
+      "colab_count": 2
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Glenn Gould",
+      "colab_count": 2
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Josef Krips",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Symphony Of The Air",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Vladimir Golschmann",
+      "colab_count": 2
+    },
+    {
+      "source": "Morton Gould",
+      "target": "London Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Morton Gould",
+      "target": "London Symphony Orchestra, Walter Susskind",
+      "colab_count": 1
+    },
+    {
+      "source": "Morton Gould",
+      "target": "Walter Susskind",
+      "colab_count": 1
+    },
+    {
+      "source": "Pablo de Sarasate",
+      "target": "Dresdner Philharmonie",
+      "colab_count": 1
+    },
+    {
+      "source": "Pablo de Sarasate",
+      "target": "Heinz Bongartz",
+      "colab_count": 1
+    },
+    {
+      "source": "Pablo de Sarasate",
+      "target": "Ion Voicu",
+      "colab_count": 1
+    }
+  ]
+}

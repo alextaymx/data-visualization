@@ -1,0 +1,521 @@
+{
+  "nodes": [
+    {
+      "id": "American Symphony Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Angela Lansbury",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Anna Di Stasio",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Arnold Soboloff",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Beatrice Arthur",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Boston Pops Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Cabaret Ensemble",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Carlo Bergonzi",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Charles Braswell",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Cleveland Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Coro del Teatro dell' Opera di Roma",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Cy Coleman",
+      "group": 10,
+      "song_count": 26
+    },
+    {
+      "id": "Donald Pippin",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Earl Wild",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Eddie Gasper",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ennio Morricone",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Frankie Michaels",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Fred Werner",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "George Szell",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Giacomo Puccini",
+      "group": 10,
+      "song_count": 58
+    },
+    {
+      "id": "Gianni Lazzari",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Glenn Gould",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Gustav Mahler",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Gwen Verdon",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Harold Hastings",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Harold Pierson",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Helen Gallagher",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Itzhak Perlman",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Jane Connell",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jascha Horenstein",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Jerry Herman",
+      "group": 10,
+      "song_count": 21
+    },
+    {
+      "id": "Jill Haworth",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Joel Grey",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "John Kander",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "John Williams",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Judith Raskin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Leopold Stokowski",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "London Symphony Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ludwig van Beethoven",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Mame Ensemble",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Maurice Ravel",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Orchestra Del Teatro Dell'Opera Di Roma",
+      "group": 10,
+      "song_count": 11
+    },
+    {
+      "id": "Piero de Palma",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Pittsburgh Symphony Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Renata Scotto",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Rolando Panerai",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Royal Philharmonic Orchestra",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Sab Shimono",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sergei Rachmaninoff",
+      "group": 10,
+      "song_count": 24
+    },
+    {
+      "id": "Sir John Barbirolli",
+      "group": 10,
+      "song_count": 11
+    },
+    {
+      "id": "Sweet Charity Ensemble",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Sweet Charity Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sweet Charity Original Broadway Cast",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Thelma Oliver",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "William Walton",
+      "group": 3,
+      "song_count": 3
+    }
+  ],
+  "links": [
+    {
+      "source": "Cy Coleman",
+      "target": "Arnold Soboloff",
+      "colab_count": 1
+    },
+    {
+      "source": "Cy Coleman",
+      "target": "Eddie Gasper",
+      "colab_count": 1
+    },
+    {
+      "source": "Cy Coleman",
+      "target": "Fred Werner",
+      "colab_count": 6
+    },
+    {
+      "source": "Cy Coleman",
+      "target": "Gwen Verdon",
+      "colab_count": 2
+    },
+    {
+      "source": "Cy Coleman",
+      "target": "Harold Pierson",
+      "colab_count": 1
+    },
+    {
+      "source": "Cy Coleman",
+      "target": "Helen Gallagher",
+      "colab_count": 3
+    },
+    {
+      "source": "Cy Coleman",
+      "target": "Sweet Charity Ensemble",
+      "colab_count": 2
+    },
+    {
+      "source": "Cy Coleman",
+      "target": "Sweet Charity Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Cy Coleman",
+      "target": "Sweet Charity Original Broadway Cast",
+      "colab_count": 6
+    },
+    {
+      "source": "Cy Coleman",
+      "target": "Thelma Oliver",
+      "colab_count": 3
+    },
+    {
+      "source": "Ennio Morricone",
+      "target": "Itzhak Perlman",
+      "colab_count": 1
+    },
+    {
+      "source": "Ennio Morricone",
+      "target": "John Williams",
+      "colab_count": 1
+    },
+    {
+      "source": "Ennio Morricone",
+      "target": "Pittsburgh Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Anna Di Stasio",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Carlo Bergonzi",
+      "colab_count": 8
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Coro del Teatro dell' Opera di Roma",
+      "colab_count": 5
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Gianni Lazzari",
+      "colab_count": 3
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Orchestra Del Teatro Dell'Opera Di Roma",
+      "colab_count": 11
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Piero de Palma",
+      "colab_count": 7
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Renata Scotto",
+      "colab_count": 6
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Rolando Panerai",
+      "colab_count": 6
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Sir John Barbirolli",
+      "colab_count": 11
+    },
+    {
+      "source": "Gustav Mahler",
+      "target": "Cleveland Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Gustav Mahler",
+      "target": "George Szell",
+      "colab_count": 1
+    },
+    {
+      "source": "Gustav Mahler",
+      "target": "Judith Raskin",
+      "colab_count": 1
+    },
+    {
+      "source": "Jerry Herman",
+      "target": "Angela Lansbury",
+      "colab_count": 5
+    },
+    {
+      "source": "Jerry Herman",
+      "target": "Beatrice Arthur",
+      "colab_count": 1
+    },
+    {
+      "source": "Jerry Herman",
+      "target": "Charles Braswell",
+      "colab_count": 1
+    },
+    {
+      "source": "Jerry Herman",
+      "target": "Donald Pippin",
+      "colab_count": 6
+    },
+    {
+      "source": "Jerry Herman",
+      "target": "Frankie Michaels",
+      "colab_count": 3
+    },
+    {
+      "source": "Jerry Herman",
+      "target": "Jane Connell",
+      "colab_count": 1
+    },
+    {
+      "source": "Jerry Herman",
+      "target": "Mame Ensemble",
+      "colab_count": 3
+    },
+    {
+      "source": "Jerry Herman",
+      "target": "Sab Shimono",
+      "colab_count": 1
+    },
+    {
+      "source": "John Kander",
+      "target": "Cabaret Ensemble",
+      "colab_count": 2
+    },
+    {
+      "source": "John Kander",
+      "target": "Harold Hastings",
+      "colab_count": 2
+    },
+    {
+      "source": "John Kander",
+      "target": "Jill Haworth",
+      "colab_count": 1
+    },
+    {
+      "source": "John Kander",
+      "target": "Joel Grey",
+      "colab_count": 2
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "American Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Glenn Gould",
+      "colab_count": 1
+    },
+    {
+      "source": "Ludwig van Beethoven",
+      "target": "Leopold Stokowski",
+      "colab_count": 1
+    },
+    {
+      "source": "Maurice Ravel",
+      "target": "Itzhak Perlman",
+      "colab_count": 1
+    },
+    {
+      "source": "Maurice Ravel",
+      "target": "London Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Sergei Rachmaninoff",
+      "target": "Earl Wild",
+      "colab_count": 8
+    },
+    {
+      "source": "Sergei Rachmaninoff",
+      "target": "Jascha Horenstein",
+      "colab_count": 8
+    },
+    {
+      "source": "Sergei Rachmaninoff",
+      "target": "Royal Philharmonic Orchestra",
+      "colab_count": 8
+    },
+    {
+      "source": "William Walton",
+      "target": "Boston Pops Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "William Walton",
+      "target": "Itzhak Perlman",
+      "colab_count": 1
+    },
+    {
+      "source": "William Walton",
+      "target": "John Williams",
+      "colab_count": 1
+    }
+  ]
+}

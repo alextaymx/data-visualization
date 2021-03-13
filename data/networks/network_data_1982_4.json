@@ -1,0 +1,301 @@
+{
+  "nodes": [
+    {
+      "id": "Adrian Zmed",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Alan Menken",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Andreas Vollenweider",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Boston Symphony Orchestra",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Corin Curschellas",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ellen Green",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "French National Radio Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Georges Bizet",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Giacomo Puccini",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Gustav Holst",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Herbert von Karajan",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Howard Ashman",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Itzhak Perlman",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jennifer Leigh Warren",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jon Otis",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "L'Orchestre National de France",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lee Wilkof",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Leilani Jones",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lorin Maazel",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lorna Luft",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Maria Callas",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Maureen Teefy",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Maxwell Caulfield",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Michelle Pfeiffer",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Orchestre National De France",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pedro Haldemann",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Peter Frechette",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Seiji Ozawa",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sheila Kay Davis",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Vienna State Opera Chorus",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Walter Keiser",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Wiener Philharmoniker",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Yo-Yo Ma",
+      "group": 1,
+      "song_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Alan Menken",
+      "target": "Ellen Green",
+      "colab_count": 1
+    },
+    {
+      "source": "Alan Menken",
+      "target": "Howard Ashman",
+      "colab_count": 1
+    },
+    {
+      "source": "Alan Menken",
+      "target": "Jennifer Leigh Warren",
+      "colab_count": 1
+    },
+    {
+      "source": "Alan Menken",
+      "target": "Lee Wilkof",
+      "colab_count": 1
+    },
+    {
+      "source": "Alan Menken",
+      "target": "Leilani Jones",
+      "colab_count": 1
+    },
+    {
+      "source": "Alan Menken",
+      "target": "Sheila Kay Davis",
+      "colab_count": 1
+    },
+    {
+      "source": "Andreas Vollenweider",
+      "target": "Corin Curschellas",
+      "colab_count": 1
+    },
+    {
+      "source": "Andreas Vollenweider",
+      "target": "Jon Otis",
+      "colab_count": 2
+    },
+    {
+      "source": "Andreas Vollenweider",
+      "target": "Pedro Haldemann",
+      "colab_count": 3
+    },
+    {
+      "source": "Andreas Vollenweider",
+      "target": "Walter Keiser",
+      "colab_count": 3
+    },
+    {
+      "source": "Boston Symphony Orchestra",
+      "target": "Itzhak Perlman",
+      "colab_count": 1
+    },
+    {
+      "source": "Boston Symphony Orchestra",
+      "target": "Seiji Ozawa",
+      "colab_count": 1
+    },
+    {
+      "source": "Boston Symphony Orchestra",
+      "target": "Yo-Yo Ma",
+      "colab_count": 1
+    },
+    {
+      "source": "Georges Bizet",
+      "target": "French National Radio Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Georges Bizet",
+      "target": "Maria Callas",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Herbert von Karajan",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Vienna State Opera Chorus",
+      "colab_count": 1
+    },
+    {
+      "source": "Giacomo Puccini",
+      "target": "Wiener Philharmoniker",
+      "colab_count": 1
+    },
+    {
+      "source": "Gustav Holst",
+      "target": "L'Orchestre National de France",
+      "colab_count": 1
+    },
+    {
+      "source": "Gustav Holst",
+      "target": "Lorin Maazel",
+      "colab_count": 1
+    },
+    {
+      "source": "Gustav Holst",
+      "target": "Orchestre National De France",
+      "colab_count": 1
+    },
+    {
+      "source": "Michelle Pfeiffer",
+      "target": "Adrian Zmed",
+      "colab_count": 1
+    },
+    {
+      "source": "Michelle Pfeiffer",
+      "target": "Lorna Luft",
+      "colab_count": 1
+    },
+    {
+      "source": "Michelle Pfeiffer",
+      "target": "Maureen Teefy",
+      "colab_count": 1
+    },
+    {
+      "source": "Michelle Pfeiffer",
+      "target": "Maxwell Caulfield",
+      "colab_count": 1
+    },
+    {
+      "source": "Michelle Pfeiffer",
+      "target": "Peter Frechette",
+      "colab_count": 1
+    }
+  ]
+}

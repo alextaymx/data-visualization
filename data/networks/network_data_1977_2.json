@@ -1,0 +1,161 @@
+{
+  "nodes": [
+    {
+      "id": "Alfredo Giacomotti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bavarian State Orchestra",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Bruno Grella",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Carlos Kleiber",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Dame Joan Sutherland",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Giovanni Foiani",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Giuseppe Verdi",
+      "group": 10,
+      "song_count": 23
+    },
+    {
+      "id": "Ileana Cotrubas",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Luciano Pavarotti",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "National Philharmonic Orchestra",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Richard Bonynge",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Stefania Malagu",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "The London Opera Chorus",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Vincenzo Bellini",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Walter Gullino",
+      "group": 1,
+      "song_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Alfredo Giacomotti",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Bavarian State Orchestra",
+      "colab_count": 4
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Bruno Grella",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Carlos Kleiber",
+      "colab_count": 4
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Giovanni Foiani",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Ileana Cotrubas",
+      "colab_count": 4
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Luciano Pavarotti",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "National Philharmonic Orchestra",
+      "colab_count": 2
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Richard Bonynge",
+      "colab_count": 2
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Stefania Malagu",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "The London Opera Chorus",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Walter Gullino",
+      "colab_count": 1
+    },
+    {
+      "source": "Vincenzo Bellini",
+      "target": "Dame Joan Sutherland",
+      "colab_count": 1
+    },
+    {
+      "source": "Vincenzo Bellini",
+      "target": "Luciano Pavarotti",
+      "colab_count": 1
+    },
+    {
+      "source": "Vincenzo Bellini",
+      "target": "National Philharmonic Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Vincenzo Bellini",
+      "target": "Richard Bonynge",
+      "colab_count": 1
+    }
+  ]
+}

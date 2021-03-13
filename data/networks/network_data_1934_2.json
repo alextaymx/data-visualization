@@ -1,0 +1,331 @@
+{
+  "nodes": [
+    {
+      "id": "Alfred Wallenstein",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Alvin Davis",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bunny Berigan",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Chicago Symphony Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dennis Jarrett",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dick McDonough",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Donald Voorhees",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Erich Wolfgang Korngold",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Fats Waller",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Felix Knight",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Fritz Reiner",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "George Wettling",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Georges Bizet",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Irie White",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jackie Deane",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jascha Heifetz",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Jean Darling",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Johnny Downs",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Lea Hart",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Los Angeles Philharmonic",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Max Bruch",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "One Nation Experience",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Pablo de Sarasate",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Phil Bates",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pyotr Ilyich Tchaikovsky",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "RCA Victor Symphony Orchestra",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Rick Chase",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sir Malcolm Sargent",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sugar T.",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "The New Symphony Orchestra Of London",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "The Nice Guys",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Tommy Dorsey",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Virginia Karns",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "William Steinberg",
+      "group": 4,
+      "song_count": 4
+    }
+  ],
+  "links": [
+    {
+      "source": "Bunny Berigan",
+      "target": "Dick McDonough",
+      "colab_count": 1
+    },
+    {
+      "source": "Bunny Berigan",
+      "target": "Fats Waller",
+      "colab_count": 1
+    },
+    {
+      "source": "Bunny Berigan",
+      "target": "George Wettling",
+      "colab_count": 1
+    },
+    {
+      "source": "Bunny Berigan",
+      "target": "Tommy Dorsey",
+      "colab_count": 1
+    },
+    {
+      "source": "Erich Wolfgang Korngold",
+      "target": "Alfred Wallenstein",
+      "colab_count": 1
+    },
+    {
+      "source": "Erich Wolfgang Korngold",
+      "target": "Jascha Heifetz",
+      "colab_count": 1
+    },
+    {
+      "source": "Erich Wolfgang Korngold",
+      "target": "Los Angeles Philharmonic",
+      "colab_count": 1
+    },
+    {
+      "source": "Georges Bizet",
+      "target": "Donald Voorhees",
+      "colab_count": 1
+    },
+    {
+      "source": "Georges Bizet",
+      "target": "Jascha Heifetz",
+      "colab_count": 1
+    },
+    {
+      "source": "Georges Bizet",
+      "target": "RCA Victor Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Johnny Downs",
+      "target": "Felix Knight",
+      "colab_count": 1
+    },
+    {
+      "source": "Johnny Downs",
+      "target": "Jean Darling",
+      "colab_count": 1
+    },
+    {
+      "source": "Johnny Downs",
+      "target": "Virginia Karns",
+      "colab_count": 1
+    },
+    {
+      "source": "Max Bruch",
+      "target": "Jascha Heifetz",
+      "colab_count": 1
+    },
+    {
+      "source": "Max Bruch",
+      "target": "Sir Malcolm Sargent",
+      "colab_count": 1
+    },
+    {
+      "source": "Max Bruch",
+      "target": "The New Symphony Orchestra Of London",
+      "colab_count": 1
+    },
+    {
+      "source": "One Nation Experience",
+      "target": "Alvin Davis",
+      "colab_count": 1
+    },
+    {
+      "source": "One Nation Experience",
+      "target": "Dennis Jarrett",
+      "colab_count": 1
+    },
+    {
+      "source": "One Nation Experience",
+      "target": "Irie White",
+      "colab_count": 1
+    },
+    {
+      "source": "One Nation Experience",
+      "target": "Jackie Deane",
+      "colab_count": 1
+    },
+    {
+      "source": "One Nation Experience",
+      "target": "Lea Hart",
+      "colab_count": 1
+    },
+    {
+      "source": "One Nation Experience",
+      "target": "Phil Bates",
+      "colab_count": 1
+    },
+    {
+      "source": "One Nation Experience",
+      "target": "Rick Chase",
+      "colab_count": 1
+    },
+    {
+      "source": "One Nation Experience",
+      "target": "Sugar T.",
+      "colab_count": 1
+    },
+    {
+      "source": "One Nation Experience",
+      "target": "The Nice Guys",
+      "colab_count": 1
+    },
+    {
+      "source": "Pablo de Sarasate",
+      "target": "Jascha Heifetz",
+      "colab_count": 4
+    },
+    {
+      "source": "Pablo de Sarasate",
+      "target": "RCA Victor Symphony Orchestra",
+      "colab_count": 4
+    },
+    {
+      "source": "Pablo de Sarasate",
+      "target": "William Steinberg",
+      "colab_count": 4
+    },
+    {
+      "source": "Pyotr Ilyich Tchaikovsky",
+      "target": "Chicago Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Pyotr Ilyich Tchaikovsky",
+      "target": "Fritz Reiner",
+      "colab_count": 1
+    },
+    {
+      "source": "Pyotr Ilyich Tchaikovsky",
+      "target": "Jascha Heifetz",
+      "colab_count": 1
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "nodes": [
+    {
+      "id": "Anestopoylos",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Anil Biswas",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Athanasios",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dimitris Semsis",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dimitris Soyrmelis",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Georgia Mitaki",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Giaoyzos",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Giorgos",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Giorgos Nakos",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Giorgos Papasideris",
+      "group": 10,
+      "song_count": 33
+    },
+    {
+      "id": "Gkantinis",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Grigoris Toloysis",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Harish Bhardwaj",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jyoti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Karakostas",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Klarino",
+      "group": 10,
+      "song_count": 23
+    },
+    {
+      "id": "Kokondinis",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kostas",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Kostas Roykoynas",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Kyria Piko",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Malliakos",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Malliaras",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Mixalis Kagkanis",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Nikos",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Panagiotis",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Rellios",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rita Ampatzi",
+      "group": 10,
+      "song_count": 15
+    },
+    {
+      "id": "Salonikos",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sardar Akhtar",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Surendra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Vaios",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Violi",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Vroyvas",
+      "group": 1,
+      "song_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Anil Biswas",
+      "target": "Harish Bhardwaj",
+      "colab_count": 1
+    },
+    {
+      "source": "Anil Biswas",
+      "target": "Jyoti",
+      "colab_count": 1
+    },
+    {
+      "source": "Anil Biswas",
+      "target": "Sardar Akhtar",
+      "colab_count": 1
+    },
+    {
+      "source": "Anil Biswas",
+      "target": "Surendra",
+      "colab_count": 1
+    },
+    {
+      "source": "Dimitris Soyrmelis",
+      "target": "Gkantinis",
+      "colab_count": 1
+    },
+    {
+      "source": "Dimitris Soyrmelis",
+      "target": "Klarino",
+      "colab_count": 1
+    },
+    {
+      "source": "Dimitris Soyrmelis",
+      "target": "Kostas",
+      "colab_count": 1
+    },
+    {
+      "source": "Georgia Mitaki",
+      "target": "Anestopoylos",
+      "colab_count": 1
+    },
+    {
+      "source": "Georgia Mitaki",
+      "target": "Giorgos",
+      "colab_count": 1
+    },
+    {
+      "source": "Georgia Mitaki",
+      "target": "Karakostas",
+      "colab_count": 1
+    },
+    {
+      "source": "Georgia Mitaki",
+      "target": "Klarino",
+      "colab_count": 2
+    },
+    {
+      "source": "Georgia Mitaki",
+      "target": "Nikos",
+      "colab_count": 1
+    },
+    {
+      "source": "Giorgos Nakos",
+      "target": "Karakostas",
+      "colab_count": 1
+    },
+    {
+      "source": "Giorgos Nakos",
+      "target": "Klarino",
+      "colab_count": 1
+    },
+    {
+      "source": "Giorgos Nakos",
+      "target": "Nikos",
+      "colab_count": 1
+    },
+    {
+      "source": "Giorgos Papasideris",
+      "target": "Anestopoylos",
+      "colab_count": 5
+    },
+    {
+      "source": "Giorgos Papasideris",
+      "target": "Giaoyzos",
+      "colab_count": 2
+    },
+    {
+      "source": "Giorgos Papasideris",
+      "target": "Giorgos",
+      "colab_count": 5
+    },
+    {
+      "source": "Giorgos Papasideris",
+      "target": "Karakostas",
+      "colab_count": 1
+    },
+    {
+      "source": "Giorgos Papasideris",
+      "target": "Klarino",
+      "colab_count": 11
+    },
+    {
+      "source": "Giorgos Papasideris",
+      "target": "Kokondinis",
+      "colab_count": 1
+    },
+    {
+      "source": "Giorgos Papasideris",
+      "target": "Kostas",
+      "colab_count": 2
+    },
+    {
+      "source": "Giorgos Papasideris",
+      "target": "Malliaras",
+      "colab_count": 2
+    },
+    {
+      "source": "Giorgos Papasideris",
+      "target": "Nikos",
+      "colab_count": 1
+    },
+    {
+      "source": "Giorgos Papasideris",
+      "target": "Panagiotis",
+      "colab_count": 1
+    },
+    {
+      "source": "Giorgos Papasideris",
+      "target": "Vaios",
+      "colab_count": 2
+    },
+    {
+      "source": "Grigoris Toloysis",
+      "target": "Dimitris Semsis",
+      "colab_count": 1
+    },
+    {
+      "source": "Grigoris Toloysis",
+      "target": "Salonikos",
+      "colab_count": 1
+    },
+    {
+      "source": "Grigoris Toloysis",
+      "target": "Violi",
+      "colab_count": 1
+    },
+    {
+      "source": "Kostas Roykoynas",
+      "target": "Karakostas",
+      "colab_count": 1
+    },
+    {
+      "source": "Kostas Roykoynas",
+      "target": "Klarino",
+      "colab_count": 1
+    },
+    {
+      "source": "Kostas Roykoynas",
+      "target": "Nikos",
+      "colab_count": 1
+    },
+    {
+      "source": "Kyria Piko",
+      "target": "Klarino",
+      "colab_count": 1
+    },
+    {
+      "source": "Kyria Piko",
+      "target": "Nikos",
+      "colab_count": 1
+    },
+    {
+      "source": "Kyria Piko",
+      "target": "Rellios",
+      "colab_count": 1
+    },
+    {
+      "source": "Mixalis Kagkanis",
+      "target": "Klarino",
+      "colab_count": 1
+    },
+    {
+      "source": "Mixalis Kagkanis",
+      "target": "Malliakos",
+      "colab_count": 1
+    },
+    {
+      "source": "Mixalis Kagkanis",
+      "target": "Panagiotis",
+      "colab_count": 1
+    },
+    {
+      "source": "Rita Ampatzi",
+      "target": "Anestopoylos",
+      "colab_count": 1
+    },
+    {
+      "source": "Rita Ampatzi",
+      "target": "Athanasios",
+      "colab_count": 1
+    },
+    {
+      "source": "Rita Ampatzi",
+      "target": "Giaoyzos",
+      "colab_count": 2
+    },
+    {
+      "source": "Rita Ampatzi",
+      "target": "Giorgos",
+      "colab_count": 1
+    },
+    {
+      "source": "Rita Ampatzi",
+      "target": "Karakostas",
+      "colab_count": 1
+    },
+    {
+      "source": "Rita Ampatzi",
+      "target": "Klarino",
+      "colab_count": 5
+    },
+    {
+      "source": "Rita Ampatzi",
+      "target": "Kostas",
+      "colab_count": 2
+    },
+    {
+      "source": "Rita Ampatzi",
+      "target": "Nikos",
+      "colab_count": 1
+    },
+    {
+      "source": "Rita Ampatzi",
+      "target": "Vroyvas",
+      "colab_count": 1
+    }
+  ]
+}

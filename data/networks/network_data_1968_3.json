@@ -1,0 +1,221 @@
+{
+  "nodes": [
+    {
+      "id": "Arthur Sullivan",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Bobby Rodriguez",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Cal Tjader",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Chuck Rainey",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Eddie Palmieri",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Edith Mathis",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Fania All Stars",
+      "group": 10,
+      "song_count": 10
+    },
+    {
+      "id": "Gaetano Donizetti",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Gary McFarland",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Gundula Janowitz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Isidore Godfrey",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jimmy Sabater",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "John Reed",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Luciano Pavarotti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mike Abene",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Orchester der Deutschen Oper Berlin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Orchestra of the Royal Opera House, Covent Garden",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ray Barreto",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ricardo \"Richie\" Ray",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Richard Bonynge",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Royal Philharmonic Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "The D'Oyly Carte Opera Chorus",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Tito Puente",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Wolfgang Amadeus Mozart",
+      "group": 3,
+      "song_count": 3
+    }
+  ],
+  "links": [
+    {
+      "source": "Arthur Sullivan",
+      "target": "Isidore Godfrey",
+      "colab_count": 1
+    },
+    {
+      "source": "Arthur Sullivan",
+      "target": "John Reed",
+      "colab_count": 1
+    },
+    {
+      "source": "Arthur Sullivan",
+      "target": "Royal Philharmonic Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Arthur Sullivan",
+      "target": "The D'Oyly Carte Opera Chorus",
+      "colab_count": 1
+    },
+    {
+      "source": "Cal Tjader",
+      "target": "Bobby Rodriguez",
+      "colab_count": 1
+    },
+    {
+      "source": "Cal Tjader",
+      "target": "Chuck Rainey",
+      "colab_count": 1
+    },
+    {
+      "source": "Cal Tjader",
+      "target": "Gary McFarland",
+      "colab_count": 1
+    },
+    {
+      "source": "Cal Tjader",
+      "target": "Mike Abene",
+      "colab_count": 1
+    },
+    {
+      "source": "Cal Tjader",
+      "target": "Ray Barreto",
+      "colab_count": 1
+    },
+    {
+      "source": "Fania All Stars",
+      "target": "Eddie Palmieri",
+      "colab_count": 3
+    },
+    {
+      "source": "Fania All Stars",
+      "target": "Jimmy Sabater",
+      "colab_count": 1
+    },
+    {
+      "source": "Fania All Stars",
+      "target": "Ricardo \"Richie\" Ray",
+      "colab_count": 3
+    },
+    {
+      "source": "Fania All Stars",
+      "target": "Tito Puente",
+      "colab_count": 3
+    },
+    {
+      "source": "Gaetano Donizetti",
+      "target": "Luciano Pavarotti",
+      "colab_count": 1
+    },
+    {
+      "source": "Gaetano Donizetti",
+      "target": "Orchestra of the Royal Opera House, Covent Garden",
+      "colab_count": 1
+    },
+    {
+      "source": "Gaetano Donizetti",
+      "target": "Richard Bonynge",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Edith Mathis",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Gundula Janowitz",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Orchester der Deutschen Oper Berlin",
+      "colab_count": 1
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "nodes": [
+    {
+      "id": "\"Joseph And The Amazing Technicolor Dreamcoat\" 1992 Canadian Cast",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "2* Sweet",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Andrew Lloyd Webber",
+      "group": 10,
+      "song_count": 35
+    },
+    {
+      "id": "Antonio Vivaldi",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Billy Kaui",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Bonnie Rideout",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Budapest Failoni Chamber Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Carolyn SurrickMarcia Diehl",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Chang Li",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Chantal Juillet",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Charles Dutoit",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Chi Tian Zhe Ye",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Chuck Lee",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Country Comfort",
+      "group": 10,
+      "song_count": 11
+    },
+    {
+      "id": "Daddy Yankee",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Daz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Donny Osmond",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Dr. Dre",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Ensemble Galilei",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Eugene Matsumura",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Fei Yu-ching",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Fellas Rican",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Guy Fouquet",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Hollywood Bowl Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Huge Hawaiian Hit",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Hungarian Radio Chorus",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ingrid Kertesi",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Istvan Gati",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Janet Metz",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Jewell",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jimmy Freudenberg",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Johann Sebastian Bach",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "John Mauceri",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Johnny Seaton",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Jozsef Mukk",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Judit Nemeth",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Julie Andrews",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Karen Holness",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kevin Lewis",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Maggie Sansone",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Maicol & Manuel",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Martin Sieghart",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mary J. Blige",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Master Joe",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Matyas Antal",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Michael Fletcher",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Playero",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Pyotr Ilyich Tchaikovsky",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "RBX",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rage",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rainer Kussmaul",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Randy Lorenzo",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Richard Rodgers",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Rufus Bonds, Jr.",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Snoop Dogg",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Stuttgart Chamber Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sue Richards",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Super Cat",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "The Notorious B.I.G.",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Third Eye",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Trent Kendall",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Yang-Fu",
+      "group": 1,
+      "song_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "\"Joseph And The Amazing Technicolor Dreamcoat\" 1992 Canadian Cast",
+      "colab_count": 9
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Donny Osmond",
+      "colab_count": 9
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Janet Metz",
+      "colab_count": 8
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Johnny Seaton",
+      "colab_count": 3
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Karen Holness",
+      "colab_count": 1
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Michael Fletcher",
+      "colab_count": 2
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Rufus Bonds, Jr.",
+      "colab_count": 2
+    },
+    {
+      "source": "Andrew Lloyd Webber",
+      "target": "Trent Kendall",
+      "colab_count": 1
+    },
+    {
+      "source": "Antonio Vivaldi",
+      "target": "Martin Sieghart",
+      "colab_count": 1
+    },
+    {
+      "source": "Antonio Vivaldi",
+      "target": "Rainer Kussmaul",
+      "colab_count": 1
+    },
+    {
+      "source": "Antonio Vivaldi",
+      "target": "Stuttgart Chamber Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Billy Kaui",
+      "colab_count": 2
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Chuck Lee",
+      "colab_count": 2
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Eugene Matsumura",
+      "colab_count": 2
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Huge Hawaiian Hit",
+      "colab_count": 1
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Jimmy Freudenberg",
+      "colab_count": 2
+    },
+    {
+      "source": "Country Comfort",
+      "target": "Randy Lorenzo",
+      "colab_count": 2
+    },
+    {
+      "source": "Dr. Dre",
+      "target": "Daz",
+      "colab_count": 1
+    },
+    {
+      "source": "Dr. Dre",
+      "target": "Jewell",
+      "colab_count": 1
+    },
+    {
+      "source": "Dr. Dre",
+      "target": "Kevin Lewis",
+      "colab_count": 1
+    },
+    {
+      "source": "Dr. Dre",
+      "target": "RBX",
+      "colab_count": 1
+    },
+    {
+      "source": "Dr. Dre",
+      "target": "Rage",
+      "colab_count": 1
+    },
+    {
+      "source": "Dr. Dre",
+      "target": "Snoop Dogg",
+      "colab_count": 1
+    },
+    {
+      "source": "Ensemble Galilei",
+      "target": "Bonnie Rideout",
+      "colab_count": 1
+    },
+    {
+      "source": "Ensemble Galilei",
+      "target": "Carolyn SurrickMarcia Diehl",
+      "colab_count": 1
+    },
+    {
+      "source": "Ensemble Galilei",
+      "target": "Maggie Sansone",
+      "colab_count": 1
+    },
+    {
+      "source": "Ensemble Galilei",
+      "target": "Sue Richards",
+      "colab_count": 1
+    },
+    {
+      "source": "Fei Yu-ching",
+      "target": "Chang Li",
+      "colab_count": 1
+    },
+    {
+      "source": "Fei Yu-ching",
+      "target": "Chi Tian Zhe Ye",
+      "colab_count": 1
+    },
+    {
+      "source": "Fei Yu-ching",
+      "target": "Yang-Fu",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Budapest Failoni Chamber Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Hungarian Radio Chorus",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Ingrid Kertesi",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Istvan Gati",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Jozsef Mukk",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Judit Nemeth",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Matyas Antal",
+      "colab_count": 1
+    },
+    {
+      "source": "Playero",
+      "target": "2* Sweet",
+      "colab_count": 1
+    },
+    {
+      "source": "Playero",
+      "target": "Daddy Yankee",
+      "colab_count": 1
+    },
+    {
+      "source": "Playero",
+      "target": "Fellas Rican",
+      "colab_count": 1
+    },
+    {
+      "source": "Playero",
+      "target": "Maicol & Manuel",
+      "colab_count": 1
+    },
+    {
+      "source": "Playero",
+      "target": "Master Joe",
+      "colab_count": 1
+    },
+    {
+      "source": "Pyotr Ilyich Tchaikovsky",
+      "target": "Chantal Juillet",
+      "colab_count": 1
+    },
+    {
+      "source": "Pyotr Ilyich Tchaikovsky",
+      "target": "Charles Dutoit",
+      "colab_count": 1
+    },
+    {
+      "source": "Pyotr Ilyich Tchaikovsky",
+      "target": "Guy Fouquet",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Rodgers",
+      "target": "Hollywood Bowl Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Rodgers",
+      "target": "John Mauceri",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Rodgers",
+      "target": "Julie Andrews",
+      "colab_count": 1
+    },
+    {
+      "source": "Super Cat",
+      "target": "Mary J. Blige",
+      "colab_count": 1
+    },
+    {
+      "source": "Super Cat",
+      "target": "The Notorious B.I.G.",
+      "colab_count": 1
+    },
+    {
+      "source": "Super Cat",
+      "target": "Third Eye",
+      "colab_count": 1
+    }
+  ]
+}

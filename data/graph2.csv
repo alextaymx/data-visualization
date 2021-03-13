@@ -1,0 +1,51 @@
+name,artist,album,date,explicit,features,acousticness,danceability,energy,key,loudness,speechiness,tempo,valence,popularity
+The Box,Roddy Ricch,Please Excuse Me For Being Antisocial,2019,True,None,0.104,0.896,0.586,10,-6.687,0.0559,116.971,0.642,88
+Blinding Lights,The Weeknd,After Hours,2020,False,None,0.00146,0.514,0.73,1,-5.934,0.0598,171.005,0.334,96
+Blueberry Faygo,Lil Mosey,Certified Hitmaker,2020,True,None,0.207,0.774,0.554,0,-7.909,0.0383,99.034,0.349,84
+ROCKSTAR (feat. Roddy Ricch),DaBaby,BLAME IT ON BABY,2020,True,Roddy Ricch,0.247,0.746,0.69,11,-7.956,0.164,89.977,0.497,93
+Life Is Good (feat. Drake),Future,High Off Life,2020,True,Drake,0.067,0.795,0.574,2,-6.903,0.487,142.053,0.537,77
+Circles,Post Malone,Hollywood's Bleeding,2019,False,None,0.192,0.695,0.762,0,-3.497,0.0395,120.042,0.553,89
+ROXANNE,Arizona Zervas,ROXANNE,2019,True,None,0.0522,0.621,0.601,6,-5.616,0.148,116.735,0.457,86
+Watermelon Sugar,Harry Styles,Fine Line,2019,False,None,0.122,0.548,0.816,0,-4.209,0.0465,95.39,0.557,93
+WAP (feat. Megan Thee Stallion),Cardi B,WAP (feat. Megan Thee Stallion),2020,True,Megan Thee Stallion,0.0194,0.935,0.454,1,-7.509,0.375,133.073,0.357,95
+Falling,Trevor Daniel,Nicotine,2020,False,None,0.123,0.784,0.43,10,-8.756,0.0364,127.087,0.236,78
+WHATS POPPIN,Jack Harlow,Sweet Action,2020,True,None,0.017,0.923,0.604,11,-6.671,0.245,145.062,0.826,84
+Don't Start Now,Dua Lipa,Future Nostalgia,2020,False,None,0.0123,0.793,0.793,11,-4.521,0.083,123.95,0.679,84
+Roses - Imanbek Remix,SAINt JHN,While The World Was Burning,2020,True,Imanbek,0.0143,0.769,0.719,8,-5.472,0.0474,121.955,0.863,68
+Intentions (feat. Quavo),Justin Bieber,Changes,2020,False,Quavo,0.3,0.806,0.546,9,-6.637,0.0575,147.986,0.874,82
+Say So,Doja Cat,Hot Pink,2019,True,None,0.256,0.787,0.673,11,-4.577,0.158,110.962,0.786,85
+Adore You,Harry Styles,Fine Line,2019,False,None,0.0237,0.676,0.771,8,-3.675,0.0483,99.048,0.569,87
+Toosie Slide,Drake,Dark Lane Demo Tapes,2020,True,None,0.289,0.83,0.49,1,-8.82,0.209,81.604,0.845,79
+High Fashion (feat. Mustard),Roddy Ricch,Please Excuse Me For Being Antisocial,2019,True,Mustard,0.269,0.831,0.499,11,-8.442,0.114,97.956,0.511,81
+death bed (coffee for your head),Powfu,death bed (coffee for your head),2020,False,beabadoobee,0.731,0.726,0.431,8,-8.765,0.135,144.026,0.348,89
+Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,Hollywood's Bleeding,2019,False,Swae Lee,0.533,0.755,0.522,2,-4.368,0.0575,89.96,0.925,82
+Godzilla (feat. Juice WRLD),Eminem,Music To Be Murdered By,2020,True,Juice WRLD,0.145,0.808,0.745,10,-5.26,0.342,165.995,0.829,85
+Sunday Best,Surfaces,Where the Light Is,2019,False,None,0.183,0.878,0.525,5,-6.832,0.0578,112.022,0.694,85
+Ballin' (with Roddy Ricch),Mustard,Perfect Ten,2019,True,Roddy Ricch,0.392,0.809,0.545,7,-6.678,0.0735,97.008,0.244,83
+Lucid Dreams,Juice WRLD,Goodbye & Good Riddance,2018,True,None,0.349,0.511,0.566,6,-7.23,0.2,83.903,0.218,88
+Dance Monkey,Tones And I,Dance Monkey,2019,False,None,0.688,0.825,0.593,6,-6.401,0.0988,98.078,0.54,70
+BOP,DaBaby,KIRK,2019,True,None,0.189,0.769,0.787,11,-3.909,0.367,126.77,0.836,83
+Someone You Loved,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,2019,False,None,0.751,0.501,0.405,1,-5.679,0.0319,109.891,0.446,90
+Bandit (with YoungBoy Never Broke Again),Juice WRLD,Bandit (with YoungBoy Never Broke Again),2019,True,YoungBoy Never Broke Again,0.0687,0.474,0.631,5,-5.884,0.343,180.051,0.425,84
+THE SCOTTS,THE SCOTTS,THE SCOTTS,2020,True,"Travis Scott, Kid Cudi",0.233,0.716,0.537,0,-7.648,0.0514,129.979,0.28,84
+hot girl bummer,blackbear,everything means nothing,2020,True,None,0.125,0.782,0.559,6,-7.106,0.0767,129.992,0.685,85
+everything i wanted,Billie Eilish,everything i wanted,2019,False,None,0.902,0.704,0.225,6,-14.454,0.0994,120.006,0.243,87
+Robbery,Juice WRLD,Death Race For Love,2019,True,None,0.328,0.685,0.692,2,-5.122,0.0457,159.966,0.578,88
+For The Night (feat. Lil Baby & DaBaby),Pop Smoke,Shoot For The Stars Aim For The Moon,2020,True,"Lil Baby, DaBaby",0.114,0.823,0.586,6,-6.606,0.2,125.971,0.347,94
+Mood (feat. iann dior),24kGoldn,Mood (feat. iann dior),2020,True,iann dior,0.221,0.7,0.722,7,-3.558,0.0369,90.989,0.756,98
+HIGHEST IN THE ROOM,Travis Scott,HIGHEST IN THE ROOM,2019,True,None,0.0546,0.598,0.427,7,-8.764,0.0317,76.469,0.0605,88
+Party Girl,StaySolidRocky,Fallin',2020,False,None,0.747,0.73,0.439,6,-9.864,0.0609,130.09,0.615,77
+All Girls Are The Same,Juice WRLD,Goodbye & Good Riddance,2018,True,None,0.0769,0.671,0.529,0,-7.226,0.307,161.989,0.203,87
+Wishing Well,Juice WRLD,Legends Never Die,2020,True,None,0.00336,0.65,0.613,9,-6.13,0.128,149.972,0.0804,89
+Before You Go,Lewis Capaldi,Divinely Uninspired To A Hellish Extent (Extended Edition),2019,False,None,0.604,0.459,0.575,3,-4.858,0.0573,111.881,0.183,85
+Come & Go (with Marshmello),Juice WRLD,Legends Never Die,2020,True,Marshmello,0.0172,0.625,0.814,0,-5.181,0.0657,144.991,0.535,89
+"WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",Jack Harlow,"WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",2020,True,"Tory Lanez, DaBaby, Lil Wayne",0.0631,0.904,0.723,11,-5.224,0.26,145.013,0.835,87
+Laugh Now Cry Later (feat. Lil Durk),Drake,Laugh Now Cry Later (feat. Lil Durk),2020,True,Lil Durk,0.244,0.761,0.518,0,-8.871,0.134,133.976,0.522,92
+Righteous,Juice WRLD,Legends Never Die,2020,True,None,0.0417,0.706,0.625,0,-7.426,0.0314,142.948,0.225,84
+Suicidal,YNW Melly,Melly vs. Melvin,2019,True,None,0.334,0.735,0.369,9,-9.682,0.0688,140.004,0.235,80
+goosebumps,Travis Scott,Birds In The Trap Sing McKnight,2016,True,None,0.0847,0.841,0.728,7,-3.37,0.0484,130.049,0.43,88
+Walk Em Down (feat. Roddy Ricch),NLE Choppa,Top Shotta,2020,True,Roddy Ricch,0.268,0.867,0.744,2,-5.171,0.227,84.005,0.645,73
+After Party,Don Toliver,Heaven Or Hell,2020,True,None,0.00981,0.629,0.692,5,-8.045,0.0376,162.948,0.453,85
+"Lemonade (feat. Gunna, Don Toliver & NAV)",Internet Money,B4 The Storm,2020,True,"Gunna, Don Toliver, NAV",0.25,0.8,0.658,1,-6.142,0.079,140.042,0.462,90
+If the World Was Ending - feat. Julia Michaels,JP Saxe,If the World Was Ending (feat. Julia Michaels),2019,False,Julia Michaels,0.866,0.464,0.473,1,-10.086,0.129,75.801,0.604,87
+SICKO MODE,Travis Scott,ASTROWORLD,2018,True,None,0.00513,0.834,0.73,8,-3.714,0.222,155.008,0.446,87

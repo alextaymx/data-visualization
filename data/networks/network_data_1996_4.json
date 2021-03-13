@@ -1,0 +1,966 @@
+{
+  "nodes": [
+    {
+      "id": "2Pac",
+      "group": 10,
+      "song_count": 25
+    },
+    {
+      "id": "Aaron Hall",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Alice Sixer",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Amy Lou Barnes",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "B-Legit",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "B.G. Knocc Out",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Babyface",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Betty Bayne",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bible",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Big Syke",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Brandy",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Buddy Banks",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Busta Rhymes",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "C-Bo",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "C-PO",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Cappadonna",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Case",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Chaka Khan",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Charles Kimbrough",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Chorus - The Hunchback Of Notre Dame",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Christian Friedrich Henrici",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "D.J. Redeemed",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Daddy Yankee",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Danny Boy",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "David Ogden Stiers",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Daz Dillinger",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Disney Studio Chorus",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Don Chezina",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "E-40",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Eazy-E",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Fatal",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Gangsta Dresta",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Gerald Levert",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ghostface Killah",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Ginuwine",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Gladys Knight",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Gregory Novack",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Hans-Georg Wimmer",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Hermann Max",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Howard Hewett",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Inspektah Deck",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "JAY-Z",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jamal",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "James Earley",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jason Alexander",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jeffrey Daniels",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jewell",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jody Watley",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Johann Sebastian Bach",
+      "group": 10,
+      "song_count": 11
+    },
+    {
+      "id": "Kalil",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Keith Murray",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Keith Sweat",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Klaus Mertens",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kleine Konzert, Das",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kurupt",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "LL Cool J",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lena Susanne Norin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Liz English",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lord Have Mercy",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "MC Hammer",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Mary Moder",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mary Stout",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mary Wickes",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Masta Killa",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Method Man",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mexicano",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Michel'le",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mike Sammes Singers",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Monika Frimmer",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mutah",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "N.O.R.E.",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Nate Dogg",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Outlawz",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Paul Kandel",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Phil Harris",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Playero",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "R. Kelly",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "R.L.",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "RZA",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Raekwon",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rampage The Last Boy Scout",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Reakwon",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Redman",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Rey Pirin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rheinische Kantorei",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Richie Rich",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Robin Lester",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Sally Mueller",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Scatman Crothers",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Snoop Dogg",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Storm",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Susan Novack",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sylk",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Tamia",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "The Lone Mixer",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Thurl Ravenscroft",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Tony Jay",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Tyrese",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "U-God",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Vegas Cats",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Veronika Winter",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Victor Sweler",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wilfried Jochens",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Yani Hadati",
+      "group": 1,
+      "song_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "2Pac",
+      "target": "B-Legit",
+      "colab_count": 1
+    },
+    {
+      "source": "2Pac",
+      "target": "Big Syke",
+      "colab_count": 1
+    },
+    {
+      "source": "2Pac",
+      "target": "C-Bo",
+      "colab_count": 2
+    },
+    {
+      "source": "2Pac",
+      "target": "C-PO",
+      "colab_count": 2
+    },
+    {
+      "source": "2Pac",
+      "target": "Danny Boy",
+      "colab_count": 1
+    },
+    {
+      "source": "2Pac",
+      "target": "Daz Dillinger",
+      "colab_count": 1
+    },
+    {
+      "source": "2Pac",
+      "target": "E-40",
+      "colab_count": 1
+    },
+    {
+      "source": "2Pac",
+      "target": "Fatal",
+      "colab_count": 1
+    },
+    {
+      "source": "2Pac",
+      "target": "Jewell",
+      "colab_count": 1
+    },
+    {
+      "source": "2Pac",
+      "target": "Kurupt",
+      "colab_count": 1
+    },
+    {
+      "source": "2Pac",
+      "target": "Method Man",
+      "colab_count": 1
+    },
+    {
+      "source": "2Pac",
+      "target": "Michel'le",
+      "colab_count": 1
+    },
+    {
+      "source": "2Pac",
+      "target": "Mutah",
+      "colab_count": 1
+    },
+    {
+      "source": "2Pac",
+      "target": "Nate Dogg",
+      "colab_count": 1
+    },
+    {
+      "source": "2Pac",
+      "target": "Outlawz",
+      "colab_count": 2
+    },
+    {
+      "source": "2Pac",
+      "target": "Redman",
+      "colab_count": 1
+    },
+    {
+      "source": "2Pac",
+      "target": "Richie Rich",
+      "colab_count": 1
+    },
+    {
+      "source": "2Pac",
+      "target": "Snoop Dogg",
+      "colab_count": 1
+    },
+    {
+      "source": "2Pac",
+      "target": "Storm",
+      "colab_count": 3
+    },
+    {
+      "source": "2Pac",
+      "target": "Yani Hadati",
+      "colab_count": 1
+    },
+    {
+      "source": "Amy Lou Barnes",
+      "target": "Alice Sixer",
+      "colab_count": 1
+    },
+    {
+      "source": "Amy Lou Barnes",
+      "target": "Betty Bayne",
+      "colab_count": 1
+    },
+    {
+      "source": "Amy Lou Barnes",
+      "target": "Disney Studio Chorus",
+      "colab_count": 1
+    },
+    {
+      "source": "Amy Lou Barnes",
+      "target": "Mary Moder",
+      "colab_count": 1
+    },
+    {
+      "source": "Amy Lou Barnes",
+      "target": "Sally Mueller",
+      "colab_count": 1
+    },
+    {
+      "source": "Babyface",
+      "target": "Howard Hewett",
+      "colab_count": 1
+    },
+    {
+      "source": "Babyface",
+      "target": "Jeffrey Daniels",
+      "colab_count": 1
+    },
+    {
+      "source": "Babyface",
+      "target": "Jody Watley",
+      "colab_count": 1
+    },
+    {
+      "source": "Babyface",
+      "target": "LL Cool J",
+      "colab_count": 1
+    },
+    {
+      "source": "Brandy",
+      "target": "Chaka Khan",
+      "colab_count": 1
+    },
+    {
+      "source": "Brandy",
+      "target": "Gladys Knight",
+      "colab_count": 1
+    },
+    {
+      "source": "Brandy",
+      "target": "Tamia",
+      "colab_count": 1
+    },
+    {
+      "source": "Busta Rhymes",
+      "target": "Jamal",
+      "colab_count": 1
+    },
+    {
+      "source": "Busta Rhymes",
+      "target": "Keith Murray",
+      "colab_count": 1
+    },
+    {
+      "source": "Busta Rhymes",
+      "target": "Lord Have Mercy",
+      "colab_count": 1
+    },
+    {
+      "source": "Busta Rhymes",
+      "target": "Rampage The Last Boy Scout",
+      "colab_count": 1
+    },
+    {
+      "source": "Busta Rhymes",
+      "target": "Redman",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Kimbrough",
+      "target": "Jason Alexander",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Kimbrough",
+      "target": "Mary Stout",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Kimbrough",
+      "target": "Mary Wickes",
+      "colab_count": 1
+    },
+    {
+      "source": "David Ogden Stiers",
+      "target": "Chorus - The Hunchback Of Notre Dame",
+      "colab_count": 1
+    },
+    {
+      "source": "David Ogden Stiers",
+      "target": "Paul Kandel",
+      "colab_count": 1
+    },
+    {
+      "source": "David Ogden Stiers",
+      "target": "Tony Jay",
+      "colab_count": 1
+    },
+    {
+      "source": "Eazy-E",
+      "target": "B.G. Knocc Out",
+      "colab_count": 1
+    },
+    {
+      "source": "Eazy-E",
+      "target": "Gangsta Dresta",
+      "colab_count": 1
+    },
+    {
+      "source": "Eazy-E",
+      "target": "Sylk",
+      "colab_count": 1
+    },
+    {
+      "source": "Ghostface Killah",
+      "target": "Cappadonna",
+      "colab_count": 1
+    },
+    {
+      "source": "Ghostface Killah",
+      "target": "Inspektah Deck",
+      "colab_count": 1
+    },
+    {
+      "source": "Ghostface Killah",
+      "target": "Masta Killa",
+      "colab_count": 1
+    },
+    {
+      "source": "Ghostface Killah",
+      "target": "RZA",
+      "colab_count": 1
+    },
+    {
+      "source": "Ghostface Killah",
+      "target": "Raekwon",
+      "colab_count": 1
+    },
+    {
+      "source": "Ghostface Killah",
+      "target": "Reakwon",
+      "colab_count": 1
+    },
+    {
+      "source": "Ghostface Killah",
+      "target": "U-God",
+      "colab_count": 1
+    },
+    {
+      "source": "Ginuwine",
+      "target": "Case",
+      "colab_count": 1
+    },
+    {
+      "source": "Ginuwine",
+      "target": "R.L.",
+      "colab_count": 1
+    },
+    {
+      "source": "Ginuwine",
+      "target": "Tyrese",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Bible",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Christian Friedrich Henrici",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Hans-Georg Wimmer",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Hermann Max",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Klaus Mertens",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Kleine Konzert, Das",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Lena Susanne Norin",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Monika Frimmer",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Rheinische Kantorei",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Veronika Winter",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Wilfried Jochens",
+      "colab_count": 1
+    },
+    {
+      "source": "Keith Sweat",
+      "target": "Aaron Hall",
+      "colab_count": 1
+    },
+    {
+      "source": "Keith Sweat",
+      "target": "Buddy Banks",
+      "colab_count": 1
+    },
+    {
+      "source": "Keith Sweat",
+      "target": "Gerald Levert",
+      "colab_count": 1
+    },
+    {
+      "source": "MC Hammer",
+      "target": "D.J. Redeemed",
+      "colab_count": 1
+    },
+    {
+      "source": "MC Hammer",
+      "target": "James Earley",
+      "colab_count": 1
+    },
+    {
+      "source": "MC Hammer",
+      "target": "The Lone Mixer",
+      "colab_count": 1
+    },
+    {
+      "source": "Playero",
+      "target": "Daddy Yankee",
+      "colab_count": 1
+    },
+    {
+      "source": "Playero",
+      "target": "Don Chezina",
+      "colab_count": 1
+    },
+    {
+      "source": "Playero",
+      "target": "Kalil",
+      "colab_count": 1
+    },
+    {
+      "source": "Playero",
+      "target": "Mexicano",
+      "colab_count": 1
+    },
+    {
+      "source": "Playero",
+      "target": "Rey Pirin",
+      "colab_count": 1
+    },
+    {
+      "source": "R. Kelly",
+      "target": "JAY-Z",
+      "colab_count": 1
+    },
+    {
+      "source": "R. Kelly",
+      "target": "N.O.R.E.",
+      "colab_count": 1
+    },
+    {
+      "source": "R. Kelly",
+      "target": "Vegas Cats",
+      "colab_count": 1
+    },
+    {
+      "source": "Robin Lester",
+      "target": "Gregory Novack",
+      "colab_count": 1
+    },
+    {
+      "source": "Robin Lester",
+      "target": "Mike Sammes Singers",
+      "colab_count": 1
+    },
+    {
+      "source": "Robin Lester",
+      "target": "Susan Novack",
+      "colab_count": 1
+    },
+    {
+      "source": "Robin Lester",
+      "target": "Victor Sweler",
+      "colab_count": 1
+    },
+    {
+      "source": "Scatman Crothers",
+      "target": "Liz English",
+      "colab_count": 1
+    },
+    {
+      "source": "Scatman Crothers",
+      "target": "Phil Harris",
+      "colab_count": 1
+    },
+    {
+      "source": "Scatman Crothers",
+      "target": "Thurl Ravenscroft",
+      "colab_count": 1
+    }
+  ]
+}

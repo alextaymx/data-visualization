@@ -1,0 +1,366 @@
+{
+  "nodes": [
+    {
+      "id": "Arturo Toscanini",
+      "group": 10,
+      "song_count": 14
+    },
+    {
+      "id": "Benny Goodman",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dick Morgan",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Eduardo di Capua",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Eugene Ormandy",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Francesco Paolo Tosti",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Gil Rodin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Giuseppe Verdi",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Harry Goodman",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Heinrich Schlusnus",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Jack Teagarden",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jimmy Bracken's Toe Ticklers",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jimmy McPartland",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Johann Heidenreich",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Johannes Brahms",
+      "group": 10,
+      "song_count": 24
+    },
+    {
+      "id": "Johannes Heidenreich",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Julius Pruwer",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Larry Binyon",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Luigi Denza",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Manfred Gurlitt",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "NBC Symphony Orchestra",
+      "group": 10,
+      "song_count": 14
+    },
+    {
+      "id": "New York Philharmonic",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pyotr Ilyich Tchaikovsky",
+      "group": 10,
+      "song_count": 18
+    },
+    {
+      "id": "Ray Bauduc",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Richard Wagner",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Ruggiero Leon-cavallo",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Sergei Rachmaninoff",
+      "group": 10,
+      "song_count": 18
+    },
+    {
+      "id": "Staatskapelle Berlin",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Umberto Urbano",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Unknown Orchestra",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Vic Briedis",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Vladimir Horowitz",
+      "group": 10,
+      "song_count": 20
+    }
+  ],
+  "links": [
+    {
+      "source": "Eduardo di Capua",
+      "target": "Johann Heidenreich",
+      "colab_count": 1
+    },
+    {
+      "source": "Eduardo di Capua",
+      "target": "Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Eduardo di Capua",
+      "target": "Umberto Urbano",
+      "colab_count": 1
+    },
+    {
+      "source": "Francesco Paolo Tosti",
+      "target": "Manfred Gurlitt",
+      "colab_count": 1
+    },
+    {
+      "source": "Francesco Paolo Tosti",
+      "target": "Staatskapelle Berlin",
+      "colab_count": 1
+    },
+    {
+      "source": "Francesco Paolo Tosti",
+      "target": "Umberto Urbano",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Heinrich Schlusnus",
+      "colab_count": 3
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Johann Heidenreich",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Julius Pruwer",
+      "colab_count": 2
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Manfred Gurlitt",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Staatskapelle Berlin",
+      "colab_count": 3
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Umberto Urbano",
+      "colab_count": 1
+    },
+    {
+      "source": "Giuseppe Verdi",
+      "target": "Unknown Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Jimmy McPartland",
+      "target": "Benny Goodman",
+      "colab_count": 1
+    },
+    {
+      "source": "Jimmy McPartland",
+      "target": "Dick Morgan",
+      "colab_count": 1
+    },
+    {
+      "source": "Jimmy McPartland",
+      "target": "Gil Rodin",
+      "colab_count": 1
+    },
+    {
+      "source": "Jimmy McPartland",
+      "target": "Harry Goodman",
+      "colab_count": 1
+    },
+    {
+      "source": "Jimmy McPartland",
+      "target": "Jack Teagarden",
+      "colab_count": 1
+    },
+    {
+      "source": "Jimmy McPartland",
+      "target": "Jimmy Bracken's Toe Ticklers",
+      "colab_count": 1
+    },
+    {
+      "source": "Jimmy McPartland",
+      "target": "Larry Binyon",
+      "colab_count": 1
+    },
+    {
+      "source": "Jimmy McPartland",
+      "target": "Ray Bauduc",
+      "colab_count": 1
+    },
+    {
+      "source": "Jimmy McPartland",
+      "target": "Vic Briedis",
+      "colab_count": 1
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Arturo Toscanini",
+      "colab_count": 8
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "NBC Symphony Orchestra",
+      "colab_count": 8
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Vladimir Horowitz",
+      "colab_count": 8
+    },
+    {
+      "source": "Luigi Denza",
+      "target": "Manfred Gurlitt",
+      "colab_count": 1
+    },
+    {
+      "source": "Luigi Denza",
+      "target": "Umberto Urbano",
+      "colab_count": 1
+    },
+    {
+      "source": "Luigi Denza",
+      "target": "Unknown Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Pyotr Ilyich Tchaikovsky",
+      "target": "Arturo Toscanini",
+      "colab_count": 6
+    },
+    {
+      "source": "Pyotr Ilyich Tchaikovsky",
+      "target": "NBC Symphony Orchestra",
+      "colab_count": 6
+    },
+    {
+      "source": "Pyotr Ilyich Tchaikovsky",
+      "target": "Vladimir Horowitz",
+      "colab_count": 6
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Johannes Heidenreich",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Unknown Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Ruggiero Leon-cavallo",
+      "target": "Manfred Gurlitt",
+      "colab_count": 1
+    },
+    {
+      "source": "Ruggiero Leon-cavallo",
+      "target": "Staatskapelle Berlin",
+      "colab_count": 1
+    },
+    {
+      "source": "Ruggiero Leon-cavallo",
+      "target": "Umberto Urbano",
+      "colab_count": 1
+    },
+    {
+      "source": "Sergei Rachmaninoff",
+      "target": "Eugene Ormandy",
+      "colab_count": 6
+    },
+    {
+      "source": "Sergei Rachmaninoff",
+      "target": "New York Philharmonic",
+      "colab_count": 6
+    },
+    {
+      "source": "Sergei Rachmaninoff",
+      "target": "Vladimir Horowitz",
+      "colab_count": 6
+    }
+  ]
+}

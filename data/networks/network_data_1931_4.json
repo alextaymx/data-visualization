@@ -1,0 +1,66 @@
+{
+  "nodes": [
+    {
+      "id": "Elie Cohen",
+      "group": 10,
+      "song_count": 38
+    },
+    {
+      "id": "Georges Bizet",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Georges Thill",
+      "group": 10,
+      "song_count": 38
+    },
+    {
+      "id": "Hedwig von Debitzka",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Helge Rosvaenge",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ninon Vallin",
+      "group": 10,
+      "song_count": 76
+    },
+    {
+      "id": "Unknown Orchestra",
+      "group": 1,
+      "song_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Georges Bizet",
+      "target": "Hedwig von Debitzka",
+      "colab_count": 1
+    },
+    {
+      "source": "Georges Bizet",
+      "target": "Helge Rosvaenge",
+      "colab_count": 1
+    },
+    {
+      "source": "Georges Bizet",
+      "target": "Unknown Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Ninon Vallin",
+      "target": "Elie Cohen",
+      "colab_count": 38
+    },
+    {
+      "source": "Ninon Vallin",
+      "target": "Georges Thill",
+      "colab_count": 38
+    }
+  ]
+}

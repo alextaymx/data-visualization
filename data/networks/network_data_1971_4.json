@@ -1,0 +1,481 @@
+{
+  "nodes": [
+    {
+      "id": "Alfred Wallenstein",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "BBC Symphony Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Barry Dennen",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bill Wyman",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Chaim Topol",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Charlie Watts",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Dame Joan Sutherland",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "English Chamber Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Eric Clapton",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Gaetano Donizetti",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Gioachino Rossini",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Helga Dernesch",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Howlin' Wolf",
+      "group": 10,
+      "song_count": 37
+    },
+    {
+      "id": "Hubert Sumlin",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Isaac Stern",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Jascha Heifetz",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Jessye Norman",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Johannes Brahms",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "John Williams",
+      "group": 10,
+      "song_count": 31
+    },
+    {
+      "id": "Keith Whitley",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "London Symphony Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Los Angeles Philharmonic",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Luciano Pavarotti",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Michele Marsh",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Molly Picon",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Neva Small",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Nicola Rescigno",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Norma Crane",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Pablo de Sarasate",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Patience Collier",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Paul Mann",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "RCA Victor Symphony Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ralph Stanley",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Richard Bonynge",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Richard Wagner",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Ricky Skaggs",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rosalind Harris",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ruth Madoc",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Shimen Ruskin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sir Colin Davis",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sir Georg Solti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Steve Winwood",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "The Clinch Mountain Boys",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Victor Braun",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Vienna State Opera Chorus",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Wiener Opernchor",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wiener Opernorchester",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wiener Philharmoniker",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "William Steinberg",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wolfgang Amadeus Mozart",
+      "group": 5,
+      "song_count": 5
+    }
+  ],
+  "links": [
+    {
+      "source": "Gaetano Donizetti",
+      "target": "Dame Joan Sutherland",
+      "colab_count": 1
+    },
+    {
+      "source": "Gaetano Donizetti",
+      "target": "English Chamber Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Gaetano Donizetti",
+      "target": "Luciano Pavarotti",
+      "colab_count": 1
+    },
+    {
+      "source": "Gaetano Donizetti",
+      "target": "Richard Bonynge",
+      "colab_count": 1
+    },
+    {
+      "source": "Gioachino Rossini",
+      "target": "London Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Gioachino Rossini",
+      "target": "Luciano Pavarotti",
+      "colab_count": 2
+    },
+    {
+      "source": "Gioachino Rossini",
+      "target": "Nicola Rescigno",
+      "colab_count": 1
+    },
+    {
+      "source": "Gioachino Rossini",
+      "target": "Wiener Opernchor",
+      "colab_count": 1
+    },
+    {
+      "source": "Gioachino Rossini",
+      "target": "Wiener Opernorchester",
+      "colab_count": 1
+    },
+    {
+      "source": "Howlin' Wolf",
+      "target": "Bill Wyman",
+      "colab_count": 8
+    },
+    {
+      "source": "Howlin' Wolf",
+      "target": "Charlie Watts",
+      "colab_count": 8
+    },
+    {
+      "source": "Howlin' Wolf",
+      "target": "Eric Clapton",
+      "colab_count": 8
+    },
+    {
+      "source": "Howlin' Wolf",
+      "target": "Hubert Sumlin",
+      "colab_count": 5
+    },
+    {
+      "source": "Howlin' Wolf",
+      "target": "Steve Winwood",
+      "colab_count": 8
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Alfred Wallenstein",
+      "colab_count": 1
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Jascha Heifetz",
+      "colab_count": 1
+    },
+    {
+      "source": "Johannes Brahms",
+      "target": "Los Angeles Philharmonic",
+      "colab_count": 1
+    },
+    {
+      "source": "John Williams",
+      "target": "Barry Dennen",
+      "colab_count": 1
+    },
+    {
+      "source": "John Williams",
+      "target": "Chaim Topol",
+      "colab_count": 9
+    },
+    {
+      "source": "John Williams",
+      "target": "Isaac Stern",
+      "colab_count": 5
+    },
+    {
+      "source": "John Williams",
+      "target": "Michele Marsh",
+      "colab_count": 2
+    },
+    {
+      "source": "John Williams",
+      "target": "Molly Picon",
+      "colab_count": 1
+    },
+    {
+      "source": "John Williams",
+      "target": "Neva Small",
+      "colab_count": 1
+    },
+    {
+      "source": "John Williams",
+      "target": "Norma Crane",
+      "colab_count": 6
+    },
+    {
+      "source": "John Williams",
+      "target": "Patience Collier",
+      "colab_count": 1
+    },
+    {
+      "source": "John Williams",
+      "target": "Paul Mann",
+      "colab_count": 2
+    },
+    {
+      "source": "John Williams",
+      "target": "Rosalind Harris",
+      "colab_count": 1
+    },
+    {
+      "source": "John Williams",
+      "target": "Ruth Madoc",
+      "colab_count": 1
+    },
+    {
+      "source": "John Williams",
+      "target": "Shimen Ruskin",
+      "colab_count": 1
+    },
+    {
+      "source": "Pablo de Sarasate",
+      "target": "Jascha Heifetz",
+      "colab_count": 1
+    },
+    {
+      "source": "Pablo de Sarasate",
+      "target": "RCA Victor Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Pablo de Sarasate",
+      "target": "William Steinberg",
+      "colab_count": 1
+    },
+    {
+      "source": "Ralph Stanley",
+      "target": "Keith Whitley",
+      "colab_count": 1
+    },
+    {
+      "source": "Ralph Stanley",
+      "target": "Ricky Skaggs",
+      "colab_count": 1
+    },
+    {
+      "source": "Ralph Stanley",
+      "target": "The Clinch Mountain Boys",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Helga Dernesch",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Sir Georg Solti",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Victor Braun",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Vienna State Opera Chorus",
+      "colab_count": 1
+    },
+    {
+      "source": "Richard Wagner",
+      "target": "Wiener Philharmoniker",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "BBC Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Jessye Norman",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Sir Colin Davis",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Vienna State Opera Chorus",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Wiener Philharmoniker",
+      "colab_count": 1
+    }
+  ]
+}

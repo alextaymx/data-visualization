@@ -1,0 +1,621 @@
+{
+  "nodes": [
+    {
+      "id": "Academy of St. Martin in the Fields",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Andrea McArdle",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Annie Ensemble",
+      "group": 10,
+      "song_count": 10
+    },
+    {
+      "id": "Antonio Vivaldi",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Barbara Erwin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bitshou",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Boyibanda",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Charles Strouse",
+      "group": 10,
+      "song_count": 48
+    },
+    {
+      "id": "Choir of King's College, Cambridge",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Chorus Pro Arte Lausanne Du Brassus",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dame Joan Sutherland",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Dennis Pavao",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Don Cherry",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Donald Craig",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Dorothy Loudon",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Edie Cowan",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Elizabeth Bainbridge",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Franco",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Gaetano Donizetti",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Gwynne Howell",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Huguette Tourangeau",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Hui Ohana",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Iona Brown",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Jacques Offenbach",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Johann Sebastian Bach",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "John Constable",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kenneth Heath",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kiri Te Kanawa",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "L'Orchestre de la Suisse Romande",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Laurie Beechman",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Ledward Kaapana",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "London Symphony Chorus",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "London Symphony Orchestra",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Luciano Pavarotti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Maffy Falay",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Narciso Yepes",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Nedward Ka'apana",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Nicolai Ghiaurov",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Okay Temiz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Orchestra of the Royal Opera House, Covent Garden",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Orchestre de Chambre Paul Kuentz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Paul Kuentz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Penny Worth",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Peter Howard",
+      "group": 10,
+      "song_count": 11
+    },
+    {
+      "id": "Radio Suisse Romande Chorus",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ralph Vaughan Williams",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Raymond Thorne",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Reid Shelton",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Richard Bonynge",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Robert Fitch",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ryland Davies",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Sandy Faison",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Sherrill Milnes",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sir Colin Davis",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sir David Willcocks",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sir Neville Marriner",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Stephen Shingles",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "TPOK Jazz",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Tage Siven",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Tommy Goldman",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Tommy Koverhult",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Trevor Connah",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wolfgang Amadeus Mozart",
+      "group": 8,
+      "song_count": 8
+    },
+    {
+      "id": "Youlou",
+      "group": 2,
+      "song_count": 2
+    }
+  ],
+  "links": [
+    {
+      "source": "Antonio Vivaldi",
+      "target": "Narciso Yepes",
+      "colab_count": 1
+    },
+    {
+      "source": "Antonio Vivaldi",
+      "target": "Orchestre de Chambre Paul Kuentz",
+      "colab_count": 1
+    },
+    {
+      "source": "Antonio Vivaldi",
+      "target": "Paul Kuentz",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Strouse",
+      "target": "Andrea McArdle",
+      "colab_count": 7
+    },
+    {
+      "source": "Charles Strouse",
+      "target": "Annie Ensemble",
+      "colab_count": 10
+    },
+    {
+      "source": "Charles Strouse",
+      "target": "Barbara Erwin",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Strouse",
+      "target": "Donald Craig",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Strouse",
+      "target": "Dorothy Loudon",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Strouse",
+      "target": "Edie Cowan",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Strouse",
+      "target": "Laurie Beechman",
+      "colab_count": 2
+    },
+    {
+      "source": "Charles Strouse",
+      "target": "Penny Worth",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Strouse",
+      "target": "Peter Howard",
+      "colab_count": 11
+    },
+    {
+      "source": "Charles Strouse",
+      "target": "Raymond Thorne",
+      "colab_count": 2
+    },
+    {
+      "source": "Charles Strouse",
+      "target": "Reid Shelton",
+      "colab_count": 4
+    },
+    {
+      "source": "Charles Strouse",
+      "target": "Robert Fitch",
+      "colab_count": 1
+    },
+    {
+      "source": "Charles Strouse",
+      "target": "Sandy Faison",
+      "colab_count": 6
+    },
+    {
+      "source": "Don Cherry",
+      "target": "Maffy Falay",
+      "colab_count": 1
+    },
+    {
+      "source": "Don Cherry",
+      "target": "Okay Temiz",
+      "colab_count": 1
+    },
+    {
+      "source": "Don Cherry",
+      "target": "Tage Siven",
+      "colab_count": 1
+    },
+    {
+      "source": "Don Cherry",
+      "target": "Tommy Goldman",
+      "colab_count": 1
+    },
+    {
+      "source": "Don Cherry",
+      "target": "Tommy Koverhult",
+      "colab_count": 1
+    },
+    {
+      "source": "Franco",
+      "target": "Bitshou",
+      "colab_count": 2
+    },
+    {
+      "source": "Franco",
+      "target": "Boyibanda",
+      "colab_count": 2
+    },
+    {
+      "source": "Franco",
+      "target": "TPOK Jazz",
+      "colab_count": 2
+    },
+    {
+      "source": "Franco",
+      "target": "Youlou",
+      "colab_count": 2
+    },
+    {
+      "source": "Gaetano Donizetti",
+      "target": "Dame Joan Sutherland",
+      "colab_count": 1
+    },
+    {
+      "source": "Gaetano Donizetti",
+      "target": "Huguette Tourangeau",
+      "colab_count": 1
+    },
+    {
+      "source": "Gaetano Donizetti",
+      "target": "Luciano Pavarotti",
+      "colab_count": 1
+    },
+    {
+      "source": "Gaetano Donizetti",
+      "target": "Nicolai Ghiaurov",
+      "colab_count": 1
+    },
+    {
+      "source": "Gaetano Donizetti",
+      "target": "Orchestra of the Royal Opera House, Covent Garden",
+      "colab_count": 1
+    },
+    {
+      "source": "Gaetano Donizetti",
+      "target": "Richard Bonynge",
+      "colab_count": 1
+    },
+    {
+      "source": "Gaetano Donizetti",
+      "target": "Ryland Davies",
+      "colab_count": 1
+    },
+    {
+      "source": "Gaetano Donizetti",
+      "target": "Sherrill Milnes",
+      "colab_count": 1
+    },
+    {
+      "source": "Hui Ohana",
+      "target": "Dennis Pavao",
+      "colab_count": 3
+    },
+    {
+      "source": "Hui Ohana",
+      "target": "Ledward Kaapana",
+      "colab_count": 3
+    },
+    {
+      "source": "Hui Ohana",
+      "target": "Nedward Ka'apana",
+      "colab_count": 3
+    },
+    {
+      "source": "Jacques Offenbach",
+      "target": "Chorus Pro Arte Lausanne Du Brassus",
+      "colab_count": 1
+    },
+    {
+      "source": "Jacques Offenbach",
+      "target": "Dame Joan Sutherland",
+      "colab_count": 1
+    },
+    {
+      "source": "Jacques Offenbach",
+      "target": "Huguette Tourangeau",
+      "colab_count": 1
+    },
+    {
+      "source": "Jacques Offenbach",
+      "target": "L'Orchestre de la Suisse Romande",
+      "colab_count": 1
+    },
+    {
+      "source": "Jacques Offenbach",
+      "target": "Radio Suisse Romande Chorus",
+      "colab_count": 1
+    },
+    {
+      "source": "Jacques Offenbach",
+      "target": "Richard Bonynge",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Academy of St. Martin in the Fields",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Choir of King's College, Cambridge",
+      "colab_count": 1
+    },
+    {
+      "source": "Johann Sebastian Bach",
+      "target": "Sir David Willcocks",
+      "colab_count": 1
+    },
+    {
+      "source": "Ralph Vaughan Williams",
+      "target": "Academy of St. Martin in the Fields",
+      "colab_count": 2
+    },
+    {
+      "source": "Ralph Vaughan Williams",
+      "target": "Iona Brown",
+      "colab_count": 2
+    },
+    {
+      "source": "Ralph Vaughan Williams",
+      "target": "Kenneth Heath",
+      "colab_count": 1
+    },
+    {
+      "source": "Ralph Vaughan Williams",
+      "target": "Sir Neville Marriner",
+      "colab_count": 2
+    },
+    {
+      "source": "Ralph Vaughan Williams",
+      "target": "Stephen Shingles",
+      "colab_count": 1
+    },
+    {
+      "source": "Ralph Vaughan Williams",
+      "target": "Trevor Connah",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Elizabeth Bainbridge",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Gwynne Howell",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "John Constable",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Kiri Te Kanawa",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "London Symphony Chorus",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "London Symphony Orchestra",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Ryland Davies",
+      "colab_count": 1
+    },
+    {
+      "source": "Wolfgang Amadeus Mozart",
+      "target": "Sir Colin Davis",
+      "colab_count": 1
+    }
+  ]
+}

@@ -1,0 +1,1756 @@
+{
+  "nodes": [
+    {
+      "id": "2 Chainz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "A$AP Ferg",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "A$AP Mob",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "A$AP Rocky",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "A$AP Twelvyy",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ab-Soul",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Alex Newell",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Alexis La Bestia",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Almighty",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Anderson .Paak",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Anuel AA",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Arcangel",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Audien",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Auli'i Cravalho",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Avaro",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "BIA",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "BJ The Chicago Kid",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Baby Rasta",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Baby Sweet Dream",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bad Bunny",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Big Sean",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Brennan Savage",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Bryant Myers",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Callie Hernandez",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Chance the Rapper",
+      "group": 9,
+      "song_count": 9
+    },
+    {
+      "id": "Chris Brown",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Christopher Jackson",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Cousin Stizz",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Cuebrick",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "DJ Cassidy",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "DJ Drama",
+      "group": 10,
+      "song_count": 11
+    },
+    {
+      "id": "DJ Luian",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Daddy Yankee",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Daniel Chord",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Danny Brown",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Darkiel",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "David Amo",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "De La Ghetto",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Denzel Curry",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Desiigner",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "EARTHGANG",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Earl Sweatshirt",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "El Chacal",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Emma Stone",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Erik Eriksson",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Eryn Allen Kane",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "FKi 1st",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Fabolous",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Farruko",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Fat Joe",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Flosstradamus",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "French Montana",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Future",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ghostemane",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Gucci Mane",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Gunna",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "HALIENE",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Hollywood JB",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Hundred Waters",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "IAmChino",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "ILLENIUM",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Imagine Dragons",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "InfaRed",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Insane Clown Posse",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "J Balvin",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "JAY-Z",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "JGRXXN",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "JID",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jamie Foxx",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jelly Roll",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Jeremih",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jess Glynne",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jessica Rothe",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jessie Mueller",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Jon Z",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Jordxn Bryant",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Joyner Lucas",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Juhn",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Julio Navas",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "KEY!",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Kanye West",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Keala Settle",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kendrick Lamar",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kevin Gates",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Kevin Roldan",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Killstation",
+      "group": 6,
+      "song_count": 6
+    },
+    {
+      "id": "Kimiko Glenn",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Kirk Franklin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Kold-Blooded",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Konshens",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "LZRD",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Liam O'Donnell",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lil Peep",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lil Uzi Vert",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Lil Wayne",
+      "group": 10,
+      "song_count": 10
+    },
+    {
+      "id": "Lil Wyte",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lil Yachty",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Logic",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Louise Bush",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lullabies for Deep Meditation",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lyan",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Lyquin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Mac Miller",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Madchild",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Maluma",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Mambo Kingz",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Matthew Ineleo",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Max Lean",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Meditation Rain Sounds",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Messiah",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Moses Sumney",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Nicky Jam",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Nicole Scherzinger",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Nile Rodgers",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Noname",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Noriel",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Offset",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Olivia Foa'i",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Omen Xiii",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Opetaia Foa'i",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Ozuna",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Paul Richard",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Pepe Quintana",
+      "group": 10,
+      "song_count": 12
+    },
+    {
+      "id": "Pharrell Williams",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Phoelix",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Pitbull",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Playboi Carti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Post Malone",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Quavo",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Rachel House",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rain Sounds",
+      "group": 10,
+      "song_count": 10
+    },
+    {
+      "id": "Rain Sounds & White Noise",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Rain Sounds Sleep",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Raury",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Relaxing Rain Sounds",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Remy Ma",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Revol",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Rob $tone",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Robin Hannibal",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Rvssian",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Saba",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Said the Sky",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Seven Lions",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Shelley FKA DRAM",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Skeme",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Skippa Da Flippa",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Skrillex",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sky",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sleep Sound Library",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Sleep Sounds of Nature",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Smino",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Sonoya Mizuno",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Spillage Village",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "T-Mass",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "T-Pain",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Tempo",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "The Disco Boys",
+      "group": 3,
+      "song_count": 3
+    },
+    {
+      "id": "Too $hort",
+      "group": 4,
+      "song_count": 4
+    },
+    {
+      "id": "Tory Lanez",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Trap Capos",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Travis Scott",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Trey Songz",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Ty Dolla $ign",
+      "group": 5,
+      "song_count": 5
+    },
+    {
+      "id": "Tyler, The Creator",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Vai Mahina",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Waitress Original Broadway Cast Ensemble",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "White Noise Research",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wisin",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Wiz Khalifa",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "X Ambassadors",
+      "group": 2,
+      "song_count": 2
+    },
+    {
+      "id": "Yandel",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Yo Gotti",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Young Scooter",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Young Thug",
+      "group": 7,
+      "song_count": 7
+    },
+    {
+      "id": "Yung Gleesh",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Zion",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "Zion & Lennox",
+      "group": 1,
+      "song_count": 1
+    },
+    {
+      "id": "graves",
+      "group": 1,
+      "song_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "A$AP Ferg",
+      "target": "A$AP Rocky",
+      "colab_count": 1
+    },
+    {
+      "source": "A$AP Ferg",
+      "target": "Future",
+      "colab_count": 1
+    },
+    {
+      "source": "A$AP Ferg",
+      "target": "Lil Uzi Vert",
+      "colab_count": 1
+    },
+    {
+      "source": "A$AP Mob",
+      "target": "A$AP Rocky",
+      "colab_count": 2
+    },
+    {
+      "source": "A$AP Mob",
+      "target": "A$AP Twelvyy",
+      "colab_count": 1
+    },
+    {
+      "source": "A$AP Mob",
+      "target": "KEY!",
+      "colab_count": 1
+    },
+    {
+      "source": "A$AP Mob",
+      "target": "Playboi Carti",
+      "colab_count": 1
+    },
+    {
+      "source": "A$AP Mob",
+      "target": "Tyler, The Creator",
+      "colab_count": 1
+    },
+    {
+      "source": "A$AP Mob",
+      "target": "Yung Gleesh",
+      "colab_count": 1
+    },
+    {
+      "source": "Alex Newell",
+      "target": "Audien",
+      "colab_count": 1
+    },
+    {
+      "source": "Alex Newell",
+      "target": "DJ Cassidy",
+      "colab_count": 1
+    },
+    {
+      "source": "Alex Newell",
+      "target": "Jess Glynne",
+      "colab_count": 1
+    },
+    {
+      "source": "Alex Newell",
+      "target": "Nile Rodgers",
+      "colab_count": 1
+    },
+    {
+      "source": "Anuel AA",
+      "target": "Daddy Yankee",
+      "colab_count": 1
+    },
+    {
+      "source": "Anuel AA",
+      "target": "Farruko",
+      "colab_count": 1
+    },
+    {
+      "source": "Anuel AA",
+      "target": "Wisin",
+      "colab_count": 1
+    },
+    {
+      "source": "Anuel AA",
+      "target": "Zion & Lennox",
+      "colab_count": 1
+    },
+    {
+      "source": "Arcangel",
+      "target": "Bad Bunny",
+      "colab_count": 1
+    },
+    {
+      "source": "Arcangel",
+      "target": "DJ Luian",
+      "colab_count": 1
+    },
+    {
+      "source": "Arcangel",
+      "target": "Mambo Kingz",
+      "colab_count": 1
+    },
+    {
+      "source": "Auli'i Cravalho",
+      "target": "Matthew Ineleo",
+      "colab_count": 1
+    },
+    {
+      "source": "Auli'i Cravalho",
+      "target": "Olivia Foa'i",
+      "colab_count": 1
+    },
+    {
+      "source": "Auli'i Cravalho",
+      "target": "Opetaia Foa'i",
+      "colab_count": 1
+    },
+    {
+      "source": "Auli'i Cravalho",
+      "target": "Vai Mahina",
+      "colab_count": 1
+    },
+    {
+      "source": "Bad Bunny",
+      "target": "Arcangel",
+      "colab_count": 1
+    },
+    {
+      "source": "Bad Bunny",
+      "target": "DJ Luian",
+      "colab_count": 1
+    },
+    {
+      "source": "Bad Bunny",
+      "target": "Farruko",
+      "colab_count": 1
+    },
+    {
+      "source": "Bad Bunny",
+      "target": "Mambo Kingz",
+      "colab_count": 1
+    },
+    {
+      "source": "Bad Bunny",
+      "target": "Ozuna",
+      "colab_count": 1
+    },
+    {
+      "source": "Chance the Rapper",
+      "target": "Anderson .Paak",
+      "colab_count": 1
+    },
+    {
+      "source": "Chance the Rapper",
+      "target": "BJ The Chicago Kid",
+      "colab_count": 1
+    },
+    {
+      "source": "Chance the Rapper",
+      "target": "Eryn Allen Kane",
+      "colab_count": 1
+    },
+    {
+      "source": "Chance the Rapper",
+      "target": "Kirk Franklin",
+      "colab_count": 1
+    },
+    {
+      "source": "Chance the Rapper",
+      "target": "Noname",
+      "colab_count": 1
+    },
+    {
+      "source": "Chance the Rapper",
+      "target": "Raury",
+      "colab_count": 1
+    },
+    {
+      "source": "Chance the Rapper",
+      "target": "T-Pain",
+      "colab_count": 1
+    },
+    {
+      "source": "Chance the Rapper",
+      "target": "Ty Dolla $ign",
+      "colab_count": 1
+    },
+    {
+      "source": "Christopher Jackson",
+      "target": "Auli'i Cravalho",
+      "colab_count": 1
+    },
+    {
+      "source": "Christopher Jackson",
+      "target": "Louise Bush",
+      "colab_count": 1
+    },
+    {
+      "source": "Christopher Jackson",
+      "target": "Nicole Scherzinger",
+      "colab_count": 1
+    },
+    {
+      "source": "Christopher Jackson",
+      "target": "Rachel House",
+      "colab_count": 1
+    },
+    {
+      "source": "DJ Drama",
+      "target": "Chris Brown",
+      "colab_count": 2
+    },
+    {
+      "source": "DJ Drama",
+      "target": "FKi 1st",
+      "colab_count": 1
+    },
+    {
+      "source": "DJ Drama",
+      "target": "Fabolous",
+      "colab_count": 1
+    },
+    {
+      "source": "DJ Drama",
+      "target": "Lil Uzi Vert",
+      "colab_count": 1
+    },
+    {
+      "source": "DJ Drama",
+      "target": "Lyquin",
+      "colab_count": 1
+    },
+    {
+      "source": "DJ Drama",
+      "target": "Mac Miller",
+      "colab_count": 1
+    },
+    {
+      "source": "DJ Drama",
+      "target": "Post Malone",
+      "colab_count": 1
+    },
+    {
+      "source": "DJ Drama",
+      "target": "Skeme",
+      "colab_count": 1
+    },
+    {
+      "source": "DJ Drama",
+      "target": "Tory Lanez",
+      "colab_count": 1
+    },
+    {
+      "source": "DJ Drama",
+      "target": "Trey Songz",
+      "colab_count": 1
+    },
+    {
+      "source": "Danny Brown",
+      "target": "Ab-Soul",
+      "colab_count": 1
+    },
+    {
+      "source": "Danny Brown",
+      "target": "Earl Sweatshirt",
+      "colab_count": 1
+    },
+    {
+      "source": "Danny Brown",
+      "target": "Kendrick Lamar",
+      "colab_count": 1
+    },
+    {
+      "source": "Emma Stone",
+      "target": "Callie Hernandez",
+      "colab_count": 1
+    },
+    {
+      "source": "Emma Stone",
+      "target": "Jessica Rothe",
+      "colab_count": 1
+    },
+    {
+      "source": "Emma Stone",
+      "target": "Sonoya Mizuno",
+      "colab_count": 1
+    },
+    {
+      "source": "Erik Eriksson",
+      "target": "Baby Sweet Dream",
+      "colab_count": 1
+    },
+    {
+      "source": "Erik Eriksson",
+      "target": "Lullabies for Deep Meditation",
+      "colab_count": 1
+    },
+    {
+      "source": "Erik Eriksson",
+      "target": "White Noise Research",
+      "colab_count": 1
+    },
+    {
+      "source": "Fat Joe",
+      "target": "French Montana",
+      "colab_count": 2
+    },
+    {
+      "source": "Fat Joe",
+      "target": "InfaRed",
+      "colab_count": 2
+    },
+    {
+      "source": "Fat Joe",
+      "target": "JAY-Z",
+      "colab_count": 1
+    },
+    {
+      "source": "Fat Joe",
+      "target": "Remy Ma",
+      "colab_count": 2
+    },
+    {
+      "source": "Flosstradamus",
+      "target": "FKi 1st",
+      "colab_count": 1
+    },
+    {
+      "source": "Flosstradamus",
+      "target": "KEY!",
+      "colab_count": 1
+    },
+    {
+      "source": "Flosstradamus",
+      "target": "Post Malone",
+      "colab_count": 1
+    },
+    {
+      "source": "Flosstradamus",
+      "target": "graves",
+      "colab_count": 1
+    },
+    {
+      "source": "Hundred Waters",
+      "target": "Chance the Rapper",
+      "colab_count": 1
+    },
+    {
+      "source": "Hundred Waters",
+      "target": "Moses Sumney",
+      "colab_count": 1
+    },
+    {
+      "source": "Hundred Waters",
+      "target": "Robin Hannibal",
+      "colab_count": 1
+    },
+    {
+      "source": "Hundred Waters",
+      "target": "Skrillex",
+      "colab_count": 1
+    },
+    {
+      "source": "IAmChino",
+      "target": "El Chacal",
+      "colab_count": 1
+    },
+    {
+      "source": "IAmChino",
+      "target": "Pitbull",
+      "colab_count": 1
+    },
+    {
+      "source": "IAmChino",
+      "target": "Yandel",
+      "colab_count": 1
+    },
+    {
+      "source": "ILLENIUM",
+      "target": "LZRD",
+      "colab_count": 1
+    },
+    {
+      "source": "ILLENIUM",
+      "target": "Liam O'Donnell",
+      "colab_count": 1
+    },
+    {
+      "source": "ILLENIUM",
+      "target": "T-Mass",
+      "colab_count": 1
+    },
+    {
+      "source": "J Balvin",
+      "target": "BIA",
+      "colab_count": 1
+    },
+    {
+      "source": "J Balvin",
+      "target": "Pharrell Williams",
+      "colab_count": 1
+    },
+    {
+      "source": "J Balvin",
+      "target": "Sky",
+      "colab_count": 1
+    },
+    {
+      "source": "Jelly Roll",
+      "target": "Insane Clown Posse",
+      "colab_count": 1
+    },
+    {
+      "source": "Jelly Roll",
+      "target": "Lil Wyte",
+      "colab_count": 1
+    },
+    {
+      "source": "Jelly Roll",
+      "target": "Madchild",
+      "colab_count": 1
+    },
+    {
+      "source": "Jon Z",
+      "target": "Baby Rasta",
+      "colab_count": 1
+    },
+    {
+      "source": "Jon Z",
+      "target": "Darkiel",
+      "colab_count": 1
+    },
+    {
+      "source": "Jon Z",
+      "target": "Lyan",
+      "colab_count": 1
+    },
+    {
+      "source": "Jon Z",
+      "target": "Messiah",
+      "colab_count": 1
+    },
+    {
+      "source": "Jon Z",
+      "target": "Noriel",
+      "colab_count": 1
+    },
+    {
+      "source": "Kanye West",
+      "target": "2 Chainz",
+      "colab_count": 1
+    },
+    {
+      "source": "Kanye West",
+      "target": "Big Sean",
+      "colab_count": 1
+    },
+    {
+      "source": "Kanye West",
+      "target": "Desiigner",
+      "colab_count": 1
+    },
+    {
+      "source": "Kanye West",
+      "target": "Gucci Mane",
+      "colab_count": 1
+    },
+    {
+      "source": "Kanye West",
+      "target": "Quavo",
+      "colab_count": 1
+    },
+    {
+      "source": "Kanye West",
+      "target": "Travis Scott",
+      "colab_count": 1
+    },
+    {
+      "source": "Kanye West",
+      "target": "Yo Gotti",
+      "colab_count": 1
+    },
+    {
+      "source": "Kevin Gates",
+      "target": "Jamie Foxx",
+      "colab_count": 1
+    },
+    {
+      "source": "Kevin Gates",
+      "target": "Trey Songz",
+      "colab_count": 1
+    },
+    {
+      "source": "Kevin Gates",
+      "target": "Ty Dolla $ign",
+      "colab_count": 1
+    },
+    {
+      "source": "Killstation",
+      "target": "Brennan Savage",
+      "colab_count": 1
+    },
+    {
+      "source": "Killstation",
+      "target": "Ghostemane",
+      "colab_count": 1
+    },
+    {
+      "source": "Killstation",
+      "target": "JGRXXN",
+      "colab_count": 1
+    },
+    {
+      "source": "Killstation",
+      "target": "Kold-Blooded",
+      "colab_count": 1
+    },
+    {
+      "source": "Killstation",
+      "target": "Lil Peep",
+      "colab_count": 1
+    },
+    {
+      "source": "Killstation",
+      "target": "Omen Xiii",
+      "colab_count": 1
+    },
+    {
+      "source": "Kimiko Glenn",
+      "target": "Jessie Mueller",
+      "colab_count": 1
+    },
+    {
+      "source": "Kimiko Glenn",
+      "target": "Keala Settle",
+      "colab_count": 1
+    },
+    {
+      "source": "Kimiko Glenn",
+      "target": "Waitress Original Broadway Cast Ensemble",
+      "colab_count": 1
+    },
+    {
+      "source": "Lil Wayne",
+      "target": "Imagine Dragons",
+      "colab_count": 2
+    },
+    {
+      "source": "Lil Wayne",
+      "target": "Logic",
+      "colab_count": 2
+    },
+    {
+      "source": "Lil Wayne",
+      "target": "Ty Dolla $ign",
+      "colab_count": 2
+    },
+    {
+      "source": "Lil Wayne",
+      "target": "Wiz Khalifa",
+      "colab_count": 2
+    },
+    {
+      "source": "Lil Wayne",
+      "target": "X Ambassadors",
+      "colab_count": 2
+    },
+    {
+      "source": "Lil Yachty",
+      "target": "Quavo",
+      "colab_count": 1
+    },
+    {
+      "source": "Lil Yachty",
+      "target": "Skippa Da Flippa",
+      "colab_count": 1
+    },
+    {
+      "source": "Lil Yachty",
+      "target": "Young Thug",
+      "colab_count": 1
+    },
+    {
+      "source": "Maluma",
+      "target": "Bryant Myers",
+      "colab_count": 1
+    },
+    {
+      "source": "Maluma",
+      "target": "Juhn",
+      "colab_count": 1
+    },
+    {
+      "source": "Maluma",
+      "target": "Noriel",
+      "colab_count": 1
+    },
+    {
+      "source": "Maluma",
+      "target": "Trap Capos",
+      "colab_count": 1
+    },
+    {
+      "source": "Noname",
+      "target": "Phoelix",
+      "colab_count": 1
+    },
+    {
+      "source": "Noname",
+      "target": "Saba",
+      "colab_count": 1
+    },
+    {
+      "source": "Noname",
+      "target": "Smino",
+      "colab_count": 1
+    },
+    {
+      "source": "Paul Richard",
+      "target": "Daniel Chord",
+      "colab_count": 1
+    },
+    {
+      "source": "Paul Richard",
+      "target": "David Amo",
+      "colab_count": 1
+    },
+    {
+      "source": "Paul Richard",
+      "target": "Julio Navas",
+      "colab_count": 1
+    },
+    {
+      "source": "Pepe Quintana",
+      "target": "Alexis La Bestia",
+      "colab_count": 1
+    },
+    {
+      "source": "Pepe Quintana",
+      "target": "Almighty",
+      "colab_count": 1
+    },
+    {
+      "source": "Pepe Quintana",
+      "target": "Anuel AA",
+      "colab_count": 2
+    },
+    {
+      "source": "Pepe Quintana",
+      "target": "Arcangel",
+      "colab_count": 1
+    },
+    {
+      "source": "Pepe Quintana",
+      "target": "Bryant Myers",
+      "colab_count": 2
+    },
+    {
+      "source": "Pepe Quintana",
+      "target": "Farruko",
+      "colab_count": 2
+    },
+    {
+      "source": "Pepe Quintana",
+      "target": "Kevin Roldan",
+      "colab_count": 1
+    },
+    {
+      "source": "Pepe Quintana",
+      "target": "Ozuna",
+      "colab_count": 1
+    },
+    {
+      "source": "Pepe Quintana",
+      "target": "Tempo",
+      "colab_count": 1
+    },
+    {
+      "source": "Rain Sounds",
+      "target": "Meditation Rain Sounds",
+      "colab_count": 2
+    },
+    {
+      "source": "Rain Sounds",
+      "target": "Rain Sounds & White Noise",
+      "colab_count": 2
+    },
+    {
+      "source": "Rain Sounds",
+      "target": "Rain Sounds Sleep",
+      "colab_count": 1
+    },
+    {
+      "source": "Rain Sounds",
+      "target": "Relaxing Rain Sounds",
+      "colab_count": 2
+    },
+    {
+      "source": "Rain Sounds",
+      "target": "Sleep Sound Library",
+      "colab_count": 2
+    },
+    {
+      "source": "Rain Sounds",
+      "target": "Sleep Sounds of Nature",
+      "colab_count": 1
+    },
+    {
+      "source": "Revol",
+      "target": "Bad Bunny",
+      "colab_count": 1
+    },
+    {
+      "source": "Revol",
+      "target": "Bryant Myers",
+      "colab_count": 1
+    },
+    {
+      "source": "Revol",
+      "target": "De La Ghetto",
+      "colab_count": 1
+    },
+    {
+      "source": "Revol",
+      "target": "Zion",
+      "colab_count": 1
+    },
+    {
+      "source": "Rob $tone",
+      "target": "Cousin Stizz",
+      "colab_count": 1
+    },
+    {
+      "source": "Rob $tone",
+      "target": "Denzel Curry",
+      "colab_count": 1
+    },
+    {
+      "source": "Rob $tone",
+      "target": "Shelley FKA DRAM",
+      "colab_count": 1
+    },
+    {
+      "source": "Rvssian",
+      "target": "Arcangel",
+      "colab_count": 1
+    },
+    {
+      "source": "Rvssian",
+      "target": "Farruko",
+      "colab_count": 1
+    },
+    {
+      "source": "Rvssian",
+      "target": "Konshens",
+      "colab_count": 1
+    },
+    {
+      "source": "Rvssian",
+      "target": "Nicky Jam",
+      "colab_count": 1
+    },
+    {
+      "source": "Seven Lions",
+      "target": "HALIENE",
+      "colab_count": 1
+    },
+    {
+      "source": "Seven Lions",
+      "target": "ILLENIUM",
+      "colab_count": 1
+    },
+    {
+      "source": "Seven Lions",
+      "target": "Said the Sky",
+      "colab_count": 1
+    },
+    {
+      "source": "Spillage Village",
+      "target": "EARTHGANG",
+      "colab_count": 1
+    },
+    {
+      "source": "Spillage Village",
+      "target": "Hollywood JB",
+      "colab_count": 1
+    },
+    {
+      "source": "Spillage Village",
+      "target": "JID",
+      "colab_count": 1
+    },
+    {
+      "source": "Spillage Village",
+      "target": "Jordxn Bryant",
+      "colab_count": 1
+    },
+    {
+      "source": "The Disco Boys",
+      "target": "Avaro",
+      "colab_count": 1
+    },
+    {
+      "source": "The Disco Boys",
+      "target": "Cuebrick",
+      "colab_count": 1
+    },
+    {
+      "source": "The Disco Boys",
+      "target": "Max Lean",
+      "colab_count": 1
+    },
+    {
+      "source": "Too $hort",
+      "target": "French Montana",
+      "colab_count": 1
+    },
+    {
+      "source": "Too $hort",
+      "target": "Jeremih",
+      "colab_count": 1
+    },
+    {
+      "source": "Too $hort",
+      "target": "Joyner Lucas",
+      "colab_count": 1
+    },
+    {
+      "source": "Too $hort",
+      "target": "Ty Dolla $ign",
+      "colab_count": 1
+    },
+    {
+      "source": "Young Thug",
+      "target": "Gucci Mane",
+      "colab_count": 1
+    },
+    {
+      "source": "Young Thug",
+      "target": "Gunna",
+      "colab_count": 1
+    },
+    {
+      "source": "Young Thug",
+      "target": "Offset",
+      "colab_count": 1
+    },
+    {
+      "source": "Young Thug",
+      "target": "Quavo",
+      "colab_count": 1
+    },
+    {
+      "source": "Young Thug",
+      "target": "Travis Scott",
+      "colab_count": 1
+    },
+    {
+      "source": "Young Thug",
+      "target": "Young Scooter",
+      "colab_count": 1
+    }
+  ]
+}
